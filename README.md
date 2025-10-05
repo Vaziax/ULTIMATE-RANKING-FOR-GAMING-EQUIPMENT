@@ -403,6 +403,9 @@
 ***🖱️ Finalmouse ULX (Prophecy) — 25–37g, carbon fiber build, 4K/8K polling, ultra-light premium design, software for DPI/macros. (150+$)***
 
 
+🖱️ Fire Flick E1 — Tri-mode (wired/wireless/Bluetooth) symmetrical claw/fingertip shell + PAW3395 sensor (26K DPI/650 IPS/50G/1000Hz polling, upgradable to 4K), 35g superlight + optical switches (50M clicks)/PTFE feet, basic DPI/macros via software, 60-hour battery; versatile budget grip. (≈20–40$)
+
+
 
 ###### ***🟨 A Tier (solid mid-range / good alternatives)***
 
