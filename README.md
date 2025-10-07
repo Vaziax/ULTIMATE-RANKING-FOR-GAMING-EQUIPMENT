@@ -355,6 +355,9 @@
 ***🖱️ Endgame Gear OP1 8K — 50g, PAW3395 sensor, 8K polling, compact claw mouse, esports-ready, configurable software. (50–75$)***
 
 
+***🖱️ MCHOSE K7 — Tri-mode asymmetrical ergo (textured grips/alum, no flex) + PAW3950 (1K-4K polling, sub-1ms), 55g + Omron opt/mech (80M/instant)/PTFE feet (smooth), DPI/RGB/buttons via software, 80h battery; flawless palm/claw—Viper rival on budget. Variants: Black/White (opt), Iron Grey/Rose (mech). (≈40–60$)***
+
+
 
 ***🖱️ IPI Float Qi — Tri-mode (wired/wireless/Bluetooth) symmetrical shell + PAW3395 sensor (26K DPI/650 IPS/50G/4000Hz polling), 42g lightweight + Huano optical switches (80M clicks)/PTFE feet/Qi wireless charging dock, DPI/RGB via software, 70-hour battery; versatile mid-range grip. (≈70–90$)***
 
