@@ -59,7 +59,7 @@
 ***⌨️ GAMAKAY TK75HE V2 — 8 kHz, 1.013 ms (tested), strong typing feel, firmware maturing. (150–170$)***
 
 
-
+***⌨️ ATK 68 V3 — 65% magnetic hall-effect 0.5 ms RT, rapid trigger 0.1mm/8K polling, hot-swap/RGB/CNC alu case + gasket/FR4 plate/Double-shot PBT keycaps/80M+ clicks, smooth linears, customizable firmware. (50–120$)***
 
 
 ***⌨️ Wooting 60HE — Best analog 60% layout, Wootility software, smoothest compact analog experience, 2.668 ms (tested). (199–209$)***
