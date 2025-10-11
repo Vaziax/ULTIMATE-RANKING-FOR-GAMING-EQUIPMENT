@@ -46,10 +46,10 @@
 
 
 
-***⌨️ MCHOSE Ace 68 Air — Lightweight Ace variant, esports latency similar to 1.389 ms (from tested Ace 68), thinner frame, solid firmware, pretty good software. (75–85$)***
-
-
 ###### ***🟧 S Tier (excellent, not absolute best)***
+
+
+***⌨️ MCHOSE Ace 68 Air — Lightweight Ace variant, esports latency similar to 1.389 ms (from tested Ace 68), thinner frame, solid firmware, pretty good software. (75–85$)***
 
 
 ***⌨️ Everglide SU75 Pro — 75% magnetic hall-effect, 0.867 ms, rapid trigger 0.001mm/256K scan rate/8K polling, hot-swap/CNC aluminium + gasket/alum plates/Cherry PC keycaps/100M+ clicks, premium firmware. (10–140$)***
