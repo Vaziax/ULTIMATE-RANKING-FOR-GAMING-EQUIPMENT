@@ -51,13 +51,17 @@
 
 ###### ***🟧 S Tier (excellent, not absolute best)***
 
+
 ***⌨️ Everglide SU75 Pro — 75% magnetic hall-effect, 0.867 ms, rapid trigger 0.001mm/256K scan rate/8K polling, hot-swap/CNC aluminium + gasket/alum plates/Cherry PC keycaps/100M+ clicks, premium firmware. (10–140$)***
+
 
 
 ***⌨️ GAMAKAY TK75HE V2 — 8 kHz, 1.013 ms (tested), strong typing feel, firmware maturing. (150–170$)***
 
 
+
 ***⌨️ ATK 68 V3 — 65% magnetic hall-effect 0.5 ms RT, rapid trigger 0.1mm/8K polling, hot-swap/RGB/CNC alu case + gasket/FR4 plate/Double-shot PBT keycaps/80M+ clicks, smooth linears, customizable firmware. (50–120$)***
+
 
 
 ***⌨️ Wooting 60HE — Best analog 60% layout, Wootility software, smoothest compact analog experience, 2.668 ms (tested). (199–209$)***
@@ -145,6 +149,9 @@
 
 
 ***⌨️ NuPhy Field75 HE — 75% aluminum unibody + gasket FR4 plate, hot-swappable Hall Effect magnetic switches (0.1–4.0mm actuation/Rapid Trigger), per-key RGB + PBT shine-through keycaps/poron foam dampening, VIA/QMK/VArmory firmware; premium acoustics with elite gaming responsiveness. (150–200$)***
+
+
+***⌨️ Epomaker G84 HE — 75% magnetic hall-effect (Gateron pre-lubed, 0.739 ms RT), rapid trigger 0.1mm/8K polling, 5-pin hot-swap/RGB/alum case + gasket/FR4 plate/poron foams/PBT keycaps/80M+ clicks, smooth linears, budget esports value. (80–120$)***
 
 
 
