@@ -370,6 +370,8 @@
 ***🖱️ IPI Float Qi — Tri-mode (wired/wireless/Bluetooth) symmetrical shell + PAW3395 sensor (26K DPI/650 IPS/50G/4000Hz polling), 42g lightweight + Huano optical switches (80M clicks)/PTFE feet/Qi wireless charging dock, DPI/RGB via software, 70-hour battery; versatile mid-range grip. (≈70–90$)***
 
 
+***🖱️ Epomaker CarbonX — 50g ultralight wireless (PAW3950 sensor/Nordic MCU, 30K DPI/650+ IPS/up to 8K Hz polling), tri-mode (2.4G/BT 5.0/USB-C)/Omron switches (60M clicks)/PTFE feet/carbon shell/300mAh (80hr @1K; ~20–30hr @8K), symmetric ergo for FPS. (50–80$)***
+
 
 ***🖱️ Waizowl OGM Pro V2 — 50g, PAW3395 sensor, 4K polling, excellent shape for claw/palm users, stable software. (75–100$)***
 
