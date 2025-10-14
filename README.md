@@ -9,7 +9,7 @@
 
 ##### 
 
-##### **Keyboards Tier List (Hall-Effect / TMR / Analog Focus)**
+### **Keyboards Tier List (Hall-Effect / TMR / Analog Focus)**
 
 
 
