@@ -165,6 +165,10 @@
 ***⌨️ EWEADN Battle68 — Compact 68% Hall-effect magnetic, adjustable switches (0.1–4.0mm actuation/Rapid Trigger)/hot-swappable/RGB keys/aluminum top/plastic base, software customization for PC gaming; wired USB-C. (≈50–70$)***
 
 
+***⌨️ Redragon Eisa K686 HE — 98-key wireless Hall Effect (UltraMag mag switches w/ 0.1-4mm/Rapid Trigger/PRCS SOCD/Snap Tap, 8K polling/0.125ms latency), tri-mode (2.4G/BT/USB)/MOA PBT/hot-swap/anti-wobble floating/dual damp/RGB/knob/2000mAh (200hr no RGB), software for budget HE FPS. (40–60$)***
+
+
+
 
 ***⌨️ DrunkDeer A75 (base) — Cheapest HE entry, basic case/firmware, not tested. (80–90$)***
 
