@@ -310,7 +310,8 @@
 
 
 
-⌨️ MCHOSE Ace 68 Air — Lightweight Ace variant, esports latency similar to 1.389 ms (from tested Ace 68), thinner frame, solid firmware, pretty good software; improved esports focus at budget price. (75–85$)
+***⌨️ EWEADN DEEP68 — Compact 68% TMR/HE layout, 8kHz polling potential, 0.658 ms (tested), budget-friendly with solid firmware, basic but reliable build. (≈50–70$)***
+
 
 
 
