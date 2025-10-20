@@ -50,6 +50,9 @@
 ***⌨️ Everglide SU75 Pro — 75% magnetic hall-effect, 0.867 ms, rapid trigger 0.001mm/256K scan rate/8K polling, hot-swap/CNC aluminium + gasket/alum plates/Cherry PC keycaps/100M+ clicks, premium firmware. (120–140$)***
 
 
+***⌨️ Chilkey Slice 75 HE — 75% Hall Effect (0.005mm actuation, 8K polling/32K scan/0.125ms latency), silicone bead gasket/CNC aluminum/cork dampening/alum PCB. (200$)***
+
+
 ###### ***🟧 S Tier (excellent, not absolute best)***
 
 
@@ -88,10 +91,6 @@
 
 
 ***⌨️ MCHOSE Mix 87 HE — 8 kHz, 1.007 ms (tested), 0.001 mm precision, esports-grade full-size HE, solid firmware. (59–79$)***
-
-
-
-***⌨️ Chilkey Slice 75 HE — 8 kHz compact, strong specs, configurable firmware, 1.874 ms (tested). (150–180$)***
 
 
 
