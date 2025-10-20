@@ -71,6 +71,9 @@
 ***⌨️ Irok MG75 Max — 75% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 256K single key scan rate, rapid trigger (RT) 0.005mm step 0.001mm, full CNC aluminum alloy build, hot-swap PCB, GTURBO algorithm, web/HUB driver software. (85–95$)***
 
 
+***⌨️ AULA Hero68HE — 68% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 48-128K scan rate, rapid trigger (0.01mm adjustable), hot-swap PCB, ABS plastic case + metal plate, 5-layer sound dampening, web driver software; premium performance with thocky sound. (80–100$)***
+
+
 
 ***⌨️ Wooting 60HE — Best analog 60% layout, Wootility software, smoothest compact analog experience, 2.668 ms (tested). (199–209$)***
 
@@ -138,9 +141,6 @@
 
 ***⌨️ SteelSeries Apex Pro Gen 3 / Mini — Hall-effect OmniPoint 3.0, Rapid Trigger, programmable OLED, firmware solid, not tested. (220–230$)***
 
-
-
-***⌨️ AULA Hero68HE — 68% layout, Hall-effect switches, 8K polling, compact aluminum case, firmware decent, 1.003 ms (tested). (≈80–100$)***
 
 
 
