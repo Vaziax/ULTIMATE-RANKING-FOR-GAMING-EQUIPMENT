@@ -44,6 +44,11 @@
 ***⌨️ EWEADN DEEP80 — 80% TMR/HE variant of DEEP68, 0.684 ms (tested), good low-latency entry, similar firmware/software. (≈60–80$)***
 
 
+***⌨️ IPI Aurora75 — 75% wired Hall Effect (magnetic switches w/ 0.01mm RT/adjustable 0.1-4mm actuation, 8K polling/0.936ms latency), hot-swap/anodized aluminum/RGB/quick-release/custom software/SOCD for Valorant/FPS. (110–150$)***
+
+
+***⌨️ Everglide SU75 Pro — 75% magnetic hall-effect, 0.867 ms, rapid trigger 0.001mm/256K scan rate/8K polling, hot-swap/CNC aluminium + gasket/alum plates/Cherry PC keycaps/100M+ clicks, premium firmware. (120–140$)***
+
 
 ###### ***🟧 S Tier (excellent, not absolute best)***
 
@@ -51,12 +56,7 @@
 ***⌨️ MCHOSE Ace 68 Air — Lightweight Ace variant, esports latency similar to 1.389 ms (from tested Ace 68), thinner frame, solid firmware, pretty good software. (75–85$)***
 
 
-***⌨️ Everglide SU75 Pro — 75% magnetic hall-effect, 0.867 ms, rapid trigger 0.001mm/256K scan rate/8K polling, hot-swap/CNC aluminium + gasket/alum plates/Cherry PC keycaps/100M+ clicks, premium firmware. (10–140$)***
-
-
-
 ***⌨️ GAMAKAY TK75HE V2 — 8 kHz, 1.013 ms (tested), strong typing feel, firmware maturing. (150–170$)***
-
 
 
 ***⌨️ ATK 68 V3 — 65% magnetic hall-effect 0.5 ms RT, rapid trigger 0.1mm/8K polling, hot-swap/RGB/CNC alu case + gasket/FR4 plate/Double-shot PBT keycaps/80M+ clicks, smooth linears, customizable firmware. (50–120$)***
