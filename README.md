@@ -65,6 +65,9 @@
 ***⌨️ ATK 68 V3 — 65% magnetic hall-effect 0.5 ms RT, rapid trigger 0.1mm/8K polling, hot-swap/RGB/CNC alu case + gasket/FR4 plate/Double-shot PBT keycaps/80M+ clicks, smooth linears, customizable firmware. (50–120$)***
 
 
+***⌨️ Irok MG75 Max — 75% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 256K single key scan rate, rapid trigger (RT) 0.005mm step 0.001mm, full CNC aluminum alloy build, hot-swap PCB, GTURBO algorithm, web/HUB driver software. (85–95$)***
+
+
 
 ***⌨️ Wooting 60HE — Best analog 60% layout, Wootility software, smoothest compact analog experience, 2.668 ms (tested). (199–209$)***
 
