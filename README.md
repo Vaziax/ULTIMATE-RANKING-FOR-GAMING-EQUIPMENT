@@ -216,15 +216,6 @@
 ***⌨️ Melgeek Real67 — 65% budget HE, not tested (1 kHz), firmware basic. (75–85$)***
 
 
-
-***⌨️ Irok MG68 / MG68 Pro / MG68 Plus — Compact 65% lineup, latency similar to 1.038 ms (from tested IROK MG75PRO), firmware basic/improving. (70–90$)***
-
-
-
-***⌨️ Irok MG75 Pro / MG75 Max — 75% budget HE, Pro 1.038 ms (tested), Max adds RGB/features; mid-latency. (85–95$)***
-
-
-
 ***⌨️ Attack Shark X68MAX HE — Compact 68% gasket-mount aluminum case + Gateron magnetic Hall Effect switches (0.1–4.0mm actuation/Rapid Trigger/hot-swappable), 8K polling/ per-key RGB/PBT keycaps/software customization (DPI/macros), USB-C wired; PC gaming focus. (≈60–80$)***
 
 
