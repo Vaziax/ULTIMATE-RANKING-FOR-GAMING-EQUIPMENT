@@ -59,6 +59,9 @@
 ***⌨️ MCHOSE Ace 68 Air — Lightweight Ace variant, esports latency similar to 1.389 ms (from tested Ace 68), thinner frame, solid firmware, pretty good software. (75–85$)***
 
 
+***⌨️ MarsGear Mars68 — 68% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 64KHz full key scan rate, rapid trigger (RT), hot-swap PCB, plastic case, basic software; elite scanning performance and latency at budget price. (45–65$)***
+
+
 ***⌨️ GAMAKAY TK75HE V2 — 8 kHz, 1.013 ms (tested), strong typing feel, firmware maturing. (150–170$)***
 
 
