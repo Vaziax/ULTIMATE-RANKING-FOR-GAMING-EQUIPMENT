@@ -75,16 +75,7 @@
 
 
 
-***⌨️ Wooting 60HE — Best analog 60% layout, Wootility software, smoothest compact analog experience, 2.668 ms (tested). (199–209$)***
-
-
-
-***⌨️ Wooting Two HE — Full-size analog board, Wootility software, smooth analog actuation, very low latency similar to 2.668 ms (from tested 60HE), highly customizable. (229–249$)***
-
-
-
-***⌨️ Wooting 80HE — Analog switches, Wootility software, smooth analog feel, low latency 0.835 ms (tested), best for mid-size layouts. (199–229$)***
-
+***⌨️ ATK 68 RX — 68% magnetic hall-effect, 0.125ms delay (0.912ms switch latency), 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), plastic case construction, QMK/VIA firmware; elite performance specs at budget price point. (80–100$)***
 
 
 ***⌨️ MCHOSE Jet 75 — 8 kHz, 1.281 ms (tested), 0.005 mm precision, solid firmware, pretty good software. (60–100$)***
@@ -158,6 +149,9 @@
 ***⌨️ Epomaker G84 HE — 75% magnetic hall-effect (Gateron pre-lubed, 0.739 ms RT), rapid trigger 0.1mm/8K polling, 5-pin hot-swap/RGB/alum case + gasket/FR4 plate/poron foams/PBT keycaps/80M+ clicks, smooth linears, budget esports value. (80–120$)***
 
 
+***⌨️ Wooting 80HE — TKL analog optical, 0.25ms delay, 1000Hz polling, rapid trigger (0.1mm), plastic case, Wootility software; best TKL analog layout. (199–229$)***
+
+
 
 ###### ***🟨 A Tier (budget/mid-focused)***
 
@@ -173,9 +167,13 @@
 ***⌨️ Redragon Eisa K686 HE — 98-key wireless Hall Effect (UltraMag mag switches w/ 0.1-4mm/Rapid Trigger/PRCS SOCD/Snap Tap, 8K polling/0.125ms latency), tri-mode (2.4G/BT/USB)/MOA PBT/hot-swap/anti-wobble floating/dual damp/RGB/knob/2000mAh (200hr no RGB), software for budget HE FPS. (40–60$)***
 
 
-
-
 ***⌨️ DrunkDeer A75 (base) — Cheapest HE entry, basic case/firmware, not tested. (80–90$)***
+
+
+***⌨️ Wooting 60HE — 60% analog optical, 0.25ms delay, 1000Hz polling, rapid trigger (0.1mm), plastic case, Wootility software; best analog software experience. (199–209$)***
+
+
+***⌨️ Wooting Two HE — Full-size analog optical, 0.2ms delay, 1000Hz polling, rapid trigger (0.1mm), plastic case, Wootility software; full-size analog performance. (229–249$)***
 
 
 
@@ -200,6 +198,9 @@
 
 
 ***⌨️ Lemokey L5 HE 8K — New Keychron budget HE, firmware developing, not tested. (120–140$)***
+
+
+
 
 
 
