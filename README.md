@@ -53,6 +53,10 @@
 ***⌨️ Chilkey Slice 75 HE — 75% Hall Effect (0.005mm actuation, 8K polling/32K scan/0.125ms latency), silicone bead gasket/CNC aluminum/cork dampening/alum PCB. (200$)***
 
 
+***⌨️ Neo65 Sonic HE+ — 65% layout, proprietary magnetic (Hall-Effect) "OwLab Nova" linear switches, 8 kHz polling rate, 0.934 ms (tested), CNC aluminum case, hot-swappable, gasket mount, PET pad and carbon fiber plate, polished software for actuation points / rapid trigger. (≈160–165$)***
+
+
+
 ###### ***🟧 S Tier (excellent, not absolute best)***
 
 
@@ -136,10 +140,6 @@
 
 
 ***⌨️ DAREU COOL60 — Compact 60% layout, 8K polling, 0.01mm RT switches, hot-swappable, RGB, configurable software, 0.936 ms (tested). (60–85$)***
-
-
-
-***⌨️ Neo65 Sonic HE+ — 65% layout, proprietary magnetic (Hall-Effect) "OwLab Nova" linear switches, 8 kHz polling rate, 0.934 ms (tested), CNC aluminum case, hot-swappable, gasket mount, PET pad and carbon fiber plate, polished software for actuation points / rapid trigger. (≈160–165$)***
 
 
 
