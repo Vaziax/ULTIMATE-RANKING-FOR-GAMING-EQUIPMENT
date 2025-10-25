@@ -36,14 +36,6 @@
 ***⌨️ Pwnage Zenblade 65 V2 8K — CNC aluminum 65%, 1.690 ms (tested), 8K polling, Rapid Trigger + per-key tuning, esports-grade firmware, premium build quality; pricey but elite performance. (249–269$)***
 
 
-
-***⌨️ EWEADN DEEP68 — Compact 68% TMR/HE layout, 8kHz polling potential, 0.658 ms (tested), budget-friendly with solid firmware, basic but reliable build. (≈50–70$)***
-
-
-
-***⌨️ EWEADN DEEP80 — 80% TMR/HE variant of DEEP68, 0.684 ms (tested), good low-latency entry, similar firmware/software. (≈60–80$)***
-
-
 ***⌨️ IPI Aurora75 — 75% wired Hall Effect (magnetic switches w/ 0.01mm RT/adjustable 0.1-4mm actuation, 8K polling/0.936ms latency), hot-swap/anodized aluminum/RGB/quick-release/custom software/SOCD for Valorant/FPS. (110–150$)***
 
 
@@ -61,6 +53,13 @@
 
 
 ***⌨️ MCHOSE Ace 68 Air — Lightweight Ace variant, esports latency similar to 1.389 ms (from tested Ace 68), thinner frame, solid firmware, pretty good software. (75–85$)***
+
+
+***⌨️ EWEADN DEEP68 — Compact 68% TMR/HE layout, 8kHz polling potential, 0.658 ms (tested), budget-friendly with solid firmware, basic but reliable build. (≈50–70$)***
+
+
+
+***⌨️ EWEADN DEEP80 — 80% TMR/HE variant of DEEP68, 0.684 ms (tested), good low-latency entry, similar firmware/software. (≈60–80$)***
 
 
 ***⌨️ MarsGear Mars68 — 68% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 64KHz full key scan rate, rapid trigger (RT), hot-swap PCB, plastic case, basic software; elite scanning performance and latency at budget price. (45–65$)***
