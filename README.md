@@ -44,10 +44,14 @@
 
 ***⌨️ Chilkey Slice 75 HE — 75% Hall Effect (0.005mm actuation, 8K polling/32K scan/0.125ms latency), silicone bead gasket/CNC aluminum/cork dampening/alum PCB. (200$)***
 
+
 ***⌨️ Chilkey Slice68 HE — 68% magnetic hall-effect, 1.7ms latency (0.1ms delay), 8000Hz polling, rapid trigger (0.005mm), adjustable actuation (0.01-3.3mm), hot-swap PCB, CNC aluminum case, web driver software; premium compact performance with dynamic keystroke. (200$)***
 
 
 ***⌨️ Neo65 Sonic HE+ — 65% layout, proprietary magnetic (Hall-Effect) "OwLab Nova" linear switches, 8 kHz polling rate, 0.934 ms (tested), CNC aluminum case, hot-swappable, gasket mount, PET pad and carbon fiber plate, polished software for actuation points / rapid trigger. (≈160–165$)***
+
+
+***⌨️ WLMOUSE HUAN63 — 60% magnetic hall-effect, 0.742ms latency, 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), hot-swap PCB, stainless magnesium alloy case, gasket mount, WL software; ultra-light premium performance build. (259–269$)***
 
 
 
