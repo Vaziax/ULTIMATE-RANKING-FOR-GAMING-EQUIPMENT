@@ -83,6 +83,9 @@
 ***⌨️ AULA Hero68HE — 68% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 48-128K scan rate, rapid trigger (0.01mm adjustable), hot-swap PCB, ABS plastic case + metal plate, 5-layer sound dampening, web driver software; premium performance with thocky sound. (80–100$)***
 
 
+***⌨️ Gamakay TK75HE V2 — 75% magnetic hall-effect, 0.82ms wired latency (1.142ms wireless), 8000Hz polling, 10KHz scan rate, rapid trigger (0.005-3.7mm adjustable), hot-swap PCB, plastic case + gasket mount, Gamakay/QMK software; premium wireless HE with TFT display. (90-110$)***
+
+
 
 ***⌨️ ATK 68 RX — 68% magnetic hall-effect, 0.125ms delay (0.912ms switch latency), 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), plastic case construction, QMK/VIA firmware; elite performance specs at budget price point. (80–100$)***
 
