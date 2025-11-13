@@ -141,12 +141,6 @@
 ***⌨️ Akko TAC75 HE — 8k polling, 0.005 mm RT, good value/performance, mid-tier software, 0.694 ms (tested). (59–85$)***
 
 
-
-***⌨️ SteelSeries Apex Pro Gen 3 / Mini — Hall-effect OmniPoint 3.0, Rapid Trigger, programmable OLED, firmware solid, not tested. (220–230$)***
-
-
-
-
 ***⌨️ DAREU COOL60 — Compact 60% layout, 8K polling, 0.01mm RT switches, hot-swappable, RGB, configurable software, 0.936 ms (tested). (60–85$)***
 
 
@@ -158,6 +152,8 @@
 
 
 ***⌨️ Wooting 80HE — TKL analog optical, 0.25ms delay, 1000Hz polling, rapid trigger (0.1mm), plastic case, Wootility software; best TKL analog layout. (199–229$)***
+
+***⌨️ Irok MG68 — 68% magnetic hall-effect, 0.1ms delay, 8000Hz polling, 128K/16K scan rate, rapid trigger (0.005mm), hot-swap PCB, full aluminum alloy case, gasket mount, web/HUB driver software; premium aluminum HE performance. (40–70$)***
 
 
 
@@ -173,6 +169,10 @@
 
 
 ***⌨️ Redragon Eisa K686 HE — 98-key wireless Hall Effect (UltraMag mag switches w/ 0.1-4mm/Rapid Trigger/PRCS SOCD/Snap Tap, 8K polling/0.125ms latency), tri-mode (2.4G/BT/USB)/MOA PBT/hot-swap/anti-wobble floating/dual damp/RGB/knob/2000mAh (200hr no RGB), software for budget HE FPS. (40–60$)***
+
+
+***⌨️ SteelSeries Apex Pro Gen 3 / Mini — Hall-effect OmniPoint 3.0, Rapid Trigger, programmable OLED, firmware solid, not tested. (220–230$)***
+
 
 
 ***⌨️ DrunkDeer A75 (base) — Cheapest HE entry, basic case/firmware, not tested. (80–90$)***
