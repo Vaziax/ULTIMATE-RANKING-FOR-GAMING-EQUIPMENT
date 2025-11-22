@@ -366,6 +366,12 @@
 
 ***🖱️ WLMouse Beast X Max — 42g magnesium alloy shell, PAW3950 HS sensor, 8K wireless polling, <0.25 ms latency, esports-grade build, top wireless tech. (≈150$)***
 
+
+***🖱️ Ninjutso Ten Air — 45g wireless, AimNinja sensor (PAW3950), 8000Hz polling, 30K DPI, 95h battery, HyperSwitch clicks, HyperSkates feet; ultra-light wireless performance with elite specs. (80–100$)***
+
+
+***🖱️ Ninjutso Ten — 53g wireless, AimNinja sensor (PAW3950), 8000Hz polling, 30K DPI, 140h battery, HyperSwitch clicks, HyperSkates feet; premium wireless performance with elite specs. (80–100$)***
+
 ###### 
 
 ###### ***🟧 S Tier (excellent, not absolute best)***
