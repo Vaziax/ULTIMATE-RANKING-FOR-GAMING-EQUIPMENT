@@ -17,8 +17,7 @@
 
 
 
-***⌨️ IQUNIX EV63 — CNC aluminum + carbon, true 8K polling, 0.737 ms (tested), premium typing feel, excellent stabilizers, solid firmware; high-end build with esports performance. (160–180$)***
-
+***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
 
 ***⌨️ IQUNIX EZ60/EZ63/EZ80 — Premium CNC, great typing feel, 0.899 ms (tested), solid firmware. (170–190$)***
@@ -54,6 +53,8 @@
 ***⌨️ WLMOUSE HUAN63 — 60% magnetic hall-effect, 0.742ms latency, 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), hot-swap PCB, stainless magnesium alloy case, gasket mount, WL software; ultra-light premium performance build. (259–269$)***
 
 ***⌨️ NuPhy WH80 — 80% magnetic hall-effect, 1.4ms wired latency (1.7ms wireless), 8000Hz polling (2.4G/wired), rapid trigger (0.005mm), hot-swap PCB, aluminum alloy case + gasket mount, PBT keycaps; premium wireless HE with high-profile switches. (230-250$)***
+
+
 
 
 
@@ -385,6 +386,8 @@
 
 
 ***🖱️ IPI Float Qi — Tri-mode (wired/wireless/Bluetooth) symmetrical shell + PAW3395 sensor (26K DPI/650 IPS/50G/4000Hz polling), 42g lightweight + Huano optical switches (80M clicks)/PTFE feet/Qi wireless charging dock, DPI/RGB via software, 70-hour battery; versatile mid-range grip. (≈70–90$)***
+
+***🖱️ VAXEE ZYGEN NP-01S V2 Wireless — 2.4Ghz asymmetrical ergo (Solid shell, matte coating, no flex) + PixArt PAW3950 (1K-4K polling, "Competitive Mode" low latency), 56-57g + Huano 60g (Tactile mechanical)/PTFE feet (smooth), Driverless on-mouse settings (DPI/Polling/LOD/Debounce), 30h battery (at 4KHz); pro-focused, tactile claw grip build. Variants: Black, White, Orange, Pink, Yellow, Blue. ($129.99 w/ 4K receiver)***
 
 
 ***🖱️ Epomaker CarbonX — 50g ultralight wireless (PAW3950 sensor/Nordic MCU, 30K DPI/650+ IPS/up to 8K Hz polling), tri-mode (2.4G/BT 5.0/USB-C)/Omron switches (60M clicks)/PTFE feet/carbon shell/300mAh (80hr @1K; ~20–30hr @8K), symmetric ergo for FPS. (50–80$)***
