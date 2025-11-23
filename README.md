@@ -343,6 +343,8 @@
 
 ***🖱️ WLMouse Beast X (Pro/Mini Pro) — 38g, 4K/8K wireless, top-tier esports mouse, elite build quality, configurable software; ultra-light wireless leaders. (125–150$)***
 
+***🖱️ Orbitalworks Pathfinder — Modular wireless chassis (3000+ configs). PixArt PAW3950DM sensor (30K DPI). 8000Hz wireless polling. 0.4ms click latency. Omron Optical switches. 52–55g weight. 300mAh battery. multiple premium skates included (PTFE/Obsidian); ultimate customizable competitive shape and performance. (≈$189)***
+
 
 
 ***🖱️ Lamzu Maya X — 45g, PAW3395 sensor, 4K polling, perfect balance of performance, weight, and price, stable software; versatile esports shape. (100–125$)***
