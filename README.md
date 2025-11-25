@@ -349,8 +349,7 @@
 
 
 
-***🖱️ Lamzu Maya X — 45g, PAW3395 sensor, 4K polling, perfect balance of performance, weight, and price, stable software; versatile esports shape. (100–125$)***
-
+***🖱️ Lamzu Maya X — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. ≈0.5ms click latency. Lamzu Custom Omron Optical switches. 47g weight. Nordic 52840 MCU. 2.4G wireless/wired. 8K dongle included; absolute peak wireless competitive performance. (≈$140)***
 
 
 ***🖱️ WLMouse Miao — <40g, ultra-light variant of Beast X, same 4K/8K performance, software for DPI/macros; featherweight precision. (125–150$)***
