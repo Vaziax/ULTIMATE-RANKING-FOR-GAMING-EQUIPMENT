@@ -416,7 +416,7 @@
 
 
 
-***🖱️ Scyrox V8 — ~40–41g ultra-light wireless, PAW3950 sensor, 8K polling, optical switches, claw/fingertip-friendly shape, web-based software. (69–75$)***
+***🖱️ Scyrox V8 — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. 0.4ms click latency. Omron Optical switches. 36g weight (superlight). Nordic 52840 MCU. 250mAh battery. 8K dongle included. web-based S-center; absolute fastest competitive performance at an aggressive price. (≈$70)***
 
 
 
