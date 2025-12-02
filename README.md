@@ -24,6 +24,8 @@
 
 ***⌨️ MCHOSE Ace 68 Turbo (GT) — 65% compact layout. Mount Tai magnetic hall-effect switches. 16000Hz polling rate (world's first). 0.06ms input latency. 256KHz scan rate. rapid trigger (0.001mm precision). full CNC aluminum case. dual-core MCU. SOCD/DKS/MT support; cutting-edge, fastest-tier wired competitive build. (≈$140)***
 
+***⌨️ AKKO MOD 007 V5 HE — 75% wired layout with knob and screen. Akko AstroAim Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.125ms input latency (implied by 8KHz). ultra-dynamic rapid trigger (0.005mm adjustable precision). adjustable actuation (0.1mm–3.4mm, 0.005mm steps). Full CNC Aluminum case/Gasket Mount structure. Poron/IXPE/PET/Case Foam dampening. PBT Double-shot keycaps. Web/Cloud Driver (Snap Key [SOCD], DKS, RT Stabilizer support); ultimate speed and precision in a heavy, premium CNC aluminum chassis. (≈$180–$250)***
+
 
 
 ***⌨️ IPI Aurora75 HE — 75% wired layout. Custom IPI Thunder Magnetic switches. 8000Hz polling rate. 128KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC Aluminum case. Multi-layer dampening (Silicone/Poron/IXPE). PBT transparent keycaps. Software/Driver (DKS/SOCD/MT support); elite speed and ultimate precision in a premium, custom-grade aluminum chassis. (≈$110)***
