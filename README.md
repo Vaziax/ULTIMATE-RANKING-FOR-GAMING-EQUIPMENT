@@ -97,8 +97,6 @@
 ***⌨️ GAMAKAY TK75HE V2 — 75% tri-mode layout (wired/2.4GHz/BT). Gamakay Mercury/Phoenix V3 Magnetic switches. 8000Hz polling rate. 10KHz scanning rate (manufacturer stated). 0.06ms input latency (manufacturer stated). rapid trigger (0.005mm precision). adjustable actuation (0.01mm–3.7mm). ABS plastic chassis with aluminum alloy plate. Gasket mount/foam dampening. PBT keycaps. Features 0.85" TFT screen, Snap Tap, DKS; elite speed performance with premium features. (≈$80–$100)***
 
 
-**⌨️ Irok MG75 Max — 75% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 256K single key scan rate, rapid trigger (RT) 0.005mm step 0.001mm, full CNC aluminum alloy build, hot-swap PCB, GTURBO algorithm, web/HUB driver software. (85–95$)***
-
 
 ***⌨️ AULA Hero68HE — 68% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 48-128K scan rate, rapid trigger (0.01mm adjustable), hot-swap PCB, ABS plastic case + metal plate, 5-layer sound dampening, web driver software; premium performance with thocky sound. (80–100$)***
 
