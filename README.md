@@ -91,6 +91,9 @@
 ***⌨️ EWEADN DEEP80 HE — 80-key/TKL wired layout. Gateron Magnetic Pole/Pro switches. 8000Hz polling rate. 128KHz scan rate. 0.1ms input latency. rapid trigger (0.01mm global accuracy). adjustable actuation (0.1mm–4.0mm). aluminum alloy plate (5-layer dampening). PBT keycaps. Web/Software driver (SOCD/DKS/MT support); elite performance in a versatile TKL form factor. (≈$100–$140)***
 
 
+***⌨️ VGN Neon HE+ — 75% wired layout (81/82 keys). TTC Sprite King Magnetic switches. 8000Hz polling rate. 32KHz full-key / 256KHz channel scan rate. 0.1ms input latency. ultra-dynamic rapid trigger (0.005mm adjustable precision). adjustable actuation (0.1mm–3.8mm). ABS plastic case/FR4 plate/Gasket Mount structure. 5-layer internal dampening (PORON+IXPE+PET+EVA+Silicone). Double-shot PBT keycaps. Web-based V-HUB driver (DKS, SOCD, Analog Mode support); ultimate speed and precision in an acoustically tuned, plastic Gasket Mount chassis. (≈$80–$120)***
+
+
 ***⌨️ MarsGear Mars68 — 68% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 64KHz full key scan rate, rapid trigger (RT), hot-swap PCB, plastic case, basic software; elite scanning performance and latency at budget price. (45–65$)***
 
 
