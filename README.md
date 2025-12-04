@@ -482,55 +482,8 @@
 
 
 
-###### ***⬜ SSS Tier (absolute elite / pro hi-fi, aspirational benchmarks)***
-
-
-
-***🎧 Focal Bathys — Wireless Bluetooth 5.1 over-ears, 30h ANC battery, 40mm hi-res drivers/USB-DAC, app EQ, elite staging for music/gaming; Android/iOS. (≈700–800$)***
-
-
-
-***🎧 Bowers \& Wilkins Px8 — Wireless Bluetooth 5.0 over-ears, 30h ANC battery, 40mm carbon drivers/adaptive ANC, lush dynamics/app EQ, luxury hi-fi sound; Android/iOS. (≈600–700$)***
-
-
-
 ###### ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
 
-
-
-***🎧 AKG Maxwell — Wireless 2.4GHz+BT over-ear headset, 80h battery, 40mm Dolby Atmos drivers/ANC/AI mic, head-tracking EQ app, plush for PC/PS/Xbox/gaming; multi-platform. (≈200–250$)***
-
-
-
-***🎧 SteelSeries Arctis Nova Pro Wireless — Wireless base+BT over-ear headset, 44h swappable battery, 40mm Sonar spatial/ANC/retractable mic, EQ software, comfy for PC/PS/Xbox; multi-platform. (≈300–350$)***
-
-
-
-***🎧 Astro A50 X — Wireless 2.4GHz base+BT over-ear headset, 24h battery, 40mm Dolby/DTS drivers/flip-mic, HDMI passthrough EQ app, plush for PC/PS/Xbox; multi-platform. (≈300–380$)***
-
-
-
-***🎧 Razer Kraken V4 Pro — Wireless 2.4GHz+BT over-ear headset, 70h battery, 50mm THX/haptic drivers/retractable mic, Synapse EQ/RGB, immersive gaming; PC/PS/multi. (≈200–250$)***
-
-
-
-***🎧 ASUS ROG Delta II — Wireless 2.4GHz+BT over-ear headset, 110h battery, 50mm Dirac spatial/AI mic, Armoury Crate EQ/RGB, steel yoke comfort; PC/PS/multi. (≈250–300$)***
-
-
-
-***🎧 Alienware Pro Wireless — Wireless 2.4GHz+BT over-ear headset, 45h battery, 50mm Dolby drivers/AI mic, Command Center EQ/RGB, breathable for PC/PS/Xbox; multi-platform. (≈200–250$)***
-
-
-
-***🎧 Sony WH-1000XM5 — Wireless BT 5.2 over-ears, 30h ANC battery, 30mm LDAC/DSEE drivers/adaptive ANC, app EQ/360 audio, balanced for casual hi-res; Android/iOS. (≈350–400$)***
-
-
-
-***🎧 Bose QuietComfort Ultra — Wireless BT 5.3 over-ears, 24h ANC battery, 35mm Immersive Audio drivers/custom ANC, app EQ, top noise-block for daily use; Android/iOS. (≈400–430$)***
-
-
-
-***🎧 Sennheiser Momentum 4 Wireless — Wireless BT 5.2 over-ears, 60h ANC battery, 42mm aptX/3D audio drivers/adaptive ANC, Smart Control app EQ, neutral endurance; Android/iOS. (≈300–350$)***
 
 
 
@@ -542,67 +495,10 @@
 
 
 
-***🎧 Turtle Beach Stealth 700 Gen 3 — Wireless 2.4GHz+BT over-ear headset, 40h battery, 50mm DTS/ANC/AI mic, Swarm II EQ, clear audio for PC/PS/Xbox; multi-platform. (≈150–180$)***
-
-
-
-***🎧 Beyerdynamic DT 900 PRO X — Wired open-back over-ears, no battery, 45mm Tesla neutral drivers/replaceable parts, precise for PC/DAW/studio. (≈250–300$)***
-
-
-
-***🎧 Audio-Technica ATH-M50xBT2 — Wireless BT 5.0 over-ears, 50h battery, 45mm LDAC neutral drivers/app EQ, fidelity-focused no ANC; Android/iOS. (≈200–250$)***
-
-
-
-***🎧 Sennheiser HD 560S — Wired open-back over-ears, no battery, 38mm linear drivers/velour pads, angled imaging for PC/amps/critical listening. (≈150–180$)***
-
-
-
-***🎧 Audio-Technica ATH-M20x — Wired closed-back over-ears, no battery, 40mm neutral drivers/sturdy build, reliable for PC/DAW/interfaces. (≈50–60$)***
-
-
-
-***🎧 Beyerdynamic DT 990 Pro — Wired open-back over-ears, no battery, 45mm Tesla drivers (5Hz–35kHz/250Ω)/velour pads/replaceable cable, bright analytical profile for precise imaging/studio/DAW/PC gaming; amp recommended. (≈130–160$)***
-
-
-
-***🎧 HiFiMan Sundara — Wired open-back over-ears, no battery, planar magnetic drivers (6Hz–75kHz/37Ω)/velour pads/detachable cable, neutral analytical profile with precise imaging/hi-res extension for music/studio/PC gaming; amp optional for dynamics. (≈300–350$)***
-
-
 
 ###### ***🟨 A Tier (solid mid-range, good everyday alternatives)***
 
 
-
-***🎧 Turtle Beach Stealth 500 Gen 2 — Wireless 2.4GHz+BT over-ear headset, 40h battery, 40mm Superhuman Hearing/flip-mic, Swarm II EQ, lightweight for Xbox/PC/PS; multi. (≈80–100$)***
-
-
-
-***🎧 Razer BlackShark V2X — Wireless 2.4GHz over-ear headset, 35h battery, 50mm THX spatial/flip-mic, Synapse EQ, competitive gaming; PC/PS/Xbox/multi. (≈50–70$)***
-
-
-
-***🎧 JBL Tune 770NC — Wireless BT 5.3 over-ears, 70h battery (44h ANC), 40mm Pure Bass drivers/ANC, foldable app EQ, bassy casual; Android/iOS. (≈100–130$)***
-
-
-
-***🎧 Anker Soundcore Life Q35 — Wireless BT 5.0 over-ears, 60h battery (40h ANC), 40mm LDAC/adaptive drivers, app EQ, versatile value ANC; Android/iOS. (≈70–80$)***
-
-
-
-***🎧 Sony WH-CH720N — Wireless BT 5.2 on-ears, 50h battery (35h ANC), 30mm DSEE drivers/ANC, app EQ, compact daily audio; Android/iOS. (≈100–130$)***
-
-
-
-***🎧 Anker Soundcore Life Q30 — Wireless BT 5.0 over-ears, 60h battery (40h ANC), 40mm hybrid ANC/multi-EQ, budget endurance for casual; Android/iOS. (≈60–70$)***
-
-
-
-***🎧 Philips Fidelio X2HR — Wired open-back over-ears, no battery, 50mm hi-res detail drivers/L-pads, lightweight home/PC fun. (≈120–150$)***
-
-
-
-***🎧 Superlux HD681 Evo — Wired semi-open over-ears, no battery, 50mm bright/analytical drivers/comfy pads, budget pro sound; PC/amps. (≈20–30$)***
 
 
 
@@ -610,55 +506,9 @@
 
 ###### 
 
-***🎧 JBL Tune 670 NC — Wireless BT 5.3 on-ears, 70h battery (44h ANC), 40mm Pure Bass drivers/ANC, foldable app EQ, portable casual; Android/iOS. (≈80–100$)***
-
-
-
-***🎧 JBL Tune 760NC — Wireless BT 5.0 over-ears, 50h battery (35h ANC), 40mm Pure Bass/voice support, app EQ, bass-forward daily; Android/iOS. (≈70–90$)***
-
-
-
-***🎧 1More SonoFlow — Wireless BT 5.2 over-ears, 70h battery (50h ANC), 40mm LDAC drivers/app EQ, hi-res value ANC; Android/iOS. (≈80–100$)***
-
-
-
-***🎧 Edifier W830NB — Wireless BT 5.3 over-ears, 94h battery (54h ANC), 40mm ANC drivers/app modes, long-haul budget; Android/iOS. (≈40–60$)***
-
-
-
-***🎧 Edifier WH700NB — Wireless BT 5.3 on-ears, 68h battery (48h ANC), 40mm hybrid ANC drivers, Connect app, compact endurance; Android/iOS. (≈50–70$)***
-
-
-
-***🎧 JLab Lux ANC — Wireless BT 5.2 over-ears, 70h battery (40h ANC), 40mm ANC drivers/app EQ, foldable niche; Android/iOS. (≈60–80$)***
-
-
-
-***🎧 TOZO HT2 — Wireless BT 5.3 over-ears, 80h battery (60h ANC), 40mm hi-res/hybrid ANC, app EQ, bassy budget; Android/iOS. (≈70–90$)***
-
-
-
-***🎧 Anker Soundcore Space One — Wireless BT 5.3 over-ears, 55h battery (40h ANC), 40mm LDAC/adaptive drivers, app EQ, adaptive casual; Android/iOS. (≈90–100$)***
-
-
-
-***🎧 Koss Porta Pro Classic — Wired 3.5mm on-ears, no battery, dynamic bass/treble drivers/adjustable, foldable portable niche. (≈30–50$)***
-
 
 
 ###### ***🟦 C Tier (entry-level basics, no-frills starters)***
-
-
-
-***🎧 OneOdio A10 — Wireless BT 5.0 over-ears, 120h battery (100h ANC), 40mm studio drivers/foldable, basic ANC value; Android/iOS. (≈30–50$)***
-
-
-
-***🎧 Edifier W800BT — Wireless BT 5.1 over-ears, 50h battery, 40mm low-latency drivers/foldable, simple daily; Android/iOS. (≈30–40$)***
-
-
-
-***🎧 Anker Soundcore Life Q20 — Wireless BT 5.0 over-ears, 60h battery (40h ANC), 40mm hybrid ANC/bass mode, entry endurance; Android/iOS. (≈40–50$)***
 
 
 
@@ -668,33 +518,28 @@
 
 **Budget All-Rounder (<$50 – Starter Music/Light Gaming):**
 
----
 
-🎧 Superlux HD681 Evo — Wired semi-open, bright detail/comfy, pro sound on dime for PC/casual (amp optional). (≈20–30$)
+
 
 
 
 **Best Casual Daily Driver ($50–150 – ANC/Music/Commutes):**
 
----
 
-🎧 Anker Soundcore Life Q30 — Wireless over-ears, 60h ANC battery/app EQ, versatile bassy value for Android/iOS daily. (≈60–70$)
+
 
 
 
 **Best Gaming Pick ($150–300 – Low-Latency/Mics/Spatial):**
 
----
 
-🎧 AKG Maxwell — Wireless headset, 80h Dolby/ANC/AI mic, immersive cross-platform for PC/PS/Xbox gaming comfort. (≈200–250$)
 
 
 
 **Aspirational Elite ($300+ – Top-Tier If You Upgrade):**
 
----
 
-🎧 Focal Bathys — Wireless hi-fi, 30h ANC/USB-DAC detail, SSS staging for music/games—benchmark luxury, not daily essential. (≈700–800$)
+
 
 
 
