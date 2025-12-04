@@ -62,7 +62,7 @@
 ***⌨️ SKYLOONG GK68HE — 65% wired layout. SKYLOONG/Gateron Jade Pro/TTC Maneto magnetic switches. 8000Hz polling rate. 8000Hz synchronized key scan rate (Pro version has 256KHz reporting). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). ABS/Optional CNC Aluminum case. Plateless design. PBT keycaps. Web/Software driver (DKS/TGL/MT/SOCD support); elite speed and high precision with advanced competitive features. (≈$80–$160)***
 
 
-###### ***🟧 S Tier (excellent, not absolute best)***
+# ***🟧 S Tier (excellent, not absolute best)***
 
 
 ***⌨️ IQUNIX EZ60 HE — 60% compact layout. Gateron Star Trail magnetic hall-effect switches. 8000Hz polling rate. 0.125ms input latency. rapid trigger (0.01mm sensitivity). adjustable actuation (0.1mm-3.3mm). full aluminum case. gasket mount. web-based software (SOCD/DKS/MT support); ultimate wired competitive performance. (≈$189)***
