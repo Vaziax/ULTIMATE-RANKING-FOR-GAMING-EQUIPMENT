@@ -8,20 +8,20 @@
 
 # **Keyboards Tier List (Hall-Effect / TMR / Analog Focus)**
 
-
-
-# ***🟥 SS Tier (cutting-edge performance + premium build)***
-
+# ***⬜ SSS Tier (Absolute best of the best)***
 
 ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
-
 ***⌨️ MCHOSE Ace 68 Turbo (GT) — 65% compact layout. Mount Tai magnetic hall-effect switches. 16000Hz polling rate (world's first). 0.06ms input latency. 256KHz scan rate. rapid trigger (0.001mm precision). full CNC aluminum case. dual-core MCU. SOCD/DKS/MT support; cutting-edge, fastest-tier wired competitive build. (≈$140)***
 
 ***⌨️ AKKO MOD 007 V5 HE — 75% wired layout with knob and screen. Akko AstroAim Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.125ms input latency (implied by 8KHz). ultra-dynamic rapid trigger (0.005mm adjustable precision). adjustable actuation (0.1mm–3.4mm, 0.005mm steps). Full CNC Aluminum case/Gasket Mount structure. Poron/IXPE/PET/Case Foam dampening. PBT Double-shot keycaps. Web/Cloud Driver (Snap Key [SOCD], DKS, RT Stabilizer support); ultimate speed and precision in a heavy, premium CNC aluminum chassis. (≈$180–$250)***
 
+***⌨️ WLMOUSE Ying63 — 60% (64-key) wired layout. Gateron Magnetic Jade Pro switches. 8000Hz polling rate. ~32KHz scan rate (implied by specs). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Full CNC Forged Carbon Fiber case. Gasket Mount structure/Aluminum plate. Poron and Silicone dampening. Web-based WL software (RTMC/SOCD support); ultimate speed and precision in an extremely unique, ultra-premium carbon fiber chassis. (≈$259–$280)***
+
+
+# ***🟥 SS Tier (cutting-edge performance + premium build)***
 
 ***⌨️ IPI Aurora75 HE — 75% wired layout. Custom IPI Thunder Magnetic switches. 8000Hz polling rate. 128KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC Aluminum case. Multi-layer dampening (Silicone/Poron/IXPE). PBT transparent keycaps. Software/Driver (DKS/SOCD/MT support); elite speed and ultimate precision in a premium, custom-grade aluminum chassis. (≈$110)***
 
@@ -47,12 +47,9 @@
 ***⌨️ Pwnage Zenblade 65 — 65% wired layout. Gateron Jade Pro/Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm ultra-fine precision). adjustable actuation (0.01mm–3.5mm). full CNC aerospace-grade aluminum chassis. Cherry profile PBT keycaps. Web-based software (SOCD/DKS support); ultimate precision and premium build quality. (≈$219–$249)***
 
 
-***⌨️ WLMOUSE Ying63 — 60% (64-key) wired layout. Gateron Magnetic Jade Pro switches. 8000Hz polling rate. ~32KHz scan rate (implied by specs). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Full CNC Forged Carbon Fiber case. Gasket Mount structure/Aluminum plate. Poron and Silicone dampening. Web-based WL software (RTMC/SOCD support); ultimate speed and precision in an extremely unique, ultra-premium carbon fiber chassis. (≈$259–$280)***
-
 ***⌨️ WLMOUSE HUAN63 — 60% magnetic hall-effect, 0.742ms latency, 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), hot-swap PCB, stainless magnesium alloy case, gasket mount, WL software; ultra-light premium performance build. (259–269$)***
 
 **⌨️ Irok MG75 Max — 75% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 256K single key scan rate, rapid trigger (RT) 0.005mm step 0.001mm, full CNC aluminum alloy build, hot-swap PCB, GTURBO algorithm, web/HUB driver software. (85–95$)***
-
 
 ***⌨️ SKYLOONG GK68HE — 65% wired layout. SKYLOONG/Gateron Jade Pro/TTC Maneto magnetic switches. 8000Hz polling rate. 8000Hz synchronized key scan rate (Pro version has 256KHz reporting). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). ABS/Optional CNC Aluminum case. Plateless design. PBT keycaps. Web/Software driver (DKS/TGL/MT/SOCD support); elite speed and high precision with advanced competitive features. (≈$80–$160)***
 
@@ -294,6 +291,8 @@
 
 # **Mice Tier List**
 
+# ***⬜ SSS Tier (Absolute best of the best)***
+
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
@@ -475,6 +474,9 @@
 
 # **Headphones/Earphones List**
 
+# ***⬜ SSS Tier (Absolute best of the best)***
+
+***🎧 Logitech G PRO X 2 Wireless LIGHTSPEED — Elite-grade closed-back tri-mode wireless headset (345g). Aluminum/Steel Frame, Rotating Hinge. PRO-G 50mm GRAPHENE Drivers. DTS Headphone:X 2.0 (Virtual 7.1). Detachable 6mm Mic with BLUE VO!CE Technology. Tri-Mode Connectivity (LIGHTSPEED 2.4 GHz, Bluetooth, 3.5mm Aux). Battery Life: Up to 50 Hours. G HUB Software (EQ/BLUE VO!CE); the pinnacle of Logitech's competitive audio, delivering unparalleled clarity through Graphene technology. (≈$250 – $280)***
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
@@ -482,10 +484,10 @@
 ***🎧 HyperX Cloud III Wireless — High-tier closed-back wireless headset (330g). Durable Aluminum Frame. Re-engineered, Angled Dynamic 53mm Drivers (64Ω). DTS® Headphone:X® Spatial Audio (Lifetime Activation). Upgraded, Detachable 10mm Noise-Cancelling Mic. 2.4 GHz Wireless (low latency, 20m range). Battery Life: Up to 120 Hours (at 50% volume). NGENUITY Software (EQ/Spatial Audio); combines unmatched endurance and superior comfort with accurate positional audio. (≈$140 – $180)***
 
 
-***🎧 Logitech G PRO X 2 Wireless LIGHTSPEED — Elite-grade closed-back tri-mode wireless headset (345g). Aluminum/Steel Frame, Rotating Hinge. PRO-G 50mm GRAPHENE Drivers. DTS Headphone:X 2.0 (Virtual 7.1). Detachable 6mm Mic with BLUE VO!CE Technology. Tri-Mode Connectivity (LIGHTSPEED 2.4 GHz, Bluetooth, 3.5mm Aux). Battery Life: Up to 50 Hours. G HUB Software (EQ/BLUE VO!CE); the pinnacle of Logitech's competitive audio, delivering unparalleled clarity through Graphene technology. (≈$250 – $280)***
-
-
 ***🎧 SteelSeries Arctis Nova Pro Wireless — Premium closed-back tri-mode wireless headset (337g). Steel Frame/Aluminum Alloy. Premium Hi-Res Capable Dynamic 40mm Drivers (38Ω). 360° Spatial Audio (Sonar). Retractable ClearCast Gen 2 Mic with AI Noise Cancellation. Dual Connectivity (2.4 GHz Quantum 2.0 Wireless & Bluetooth 5.0). Hot-Swap Infinity Power System (22 hrs per battery, 2 batteries included). Wireless GameDAC Gen 2 (OLED screen, Dual USB inputs, ChatMix, EQ). Lifestyle Features: Active Noise Cancellation (ANC) with Transparency Mode. (≈$350 – $380)***
+
+
+***🎧 Razer BlackShark V2 Pro (2023 Edition) — Elite-grade closed-back tri-mode wireless headset (320g). Steel-Reinforced Headband. Razer™ TriForce Titanium 50mm Drivers (32Ω). THX Spatial Audio. Detachable Razer™ HyperClear Super Wideband Mic (32kHz sampling rate). Dual Connectivity (HyperSpeed 2.4 GHz & Bluetooth 5.2). Battery Life: Up to 70 Hours. On-headset EQ Profiles (Pro-Tuned FPS Presets); the ultimate blend of endurance, lightweight comfort, and best-in-class microphone clarity for esports pros. (≈$200 – $220)***
 
 
 # ***🟧 S Tier (excellent, solid performers without fluff)***
