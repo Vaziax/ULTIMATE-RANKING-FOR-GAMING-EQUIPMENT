@@ -20,6 +20,8 @@
 
 ***⌨️ WLMOUSE Ying63 — 60% (64-key) wired layout. Gateron Magnetic Jade Pro switches. 8000Hz polling rate. ~32KHz scan rate (implied by specs). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Full CNC Forged Carbon Fiber case. Gasket Mount structure/Aluminum plate. Poron and Silicone dampening. Web-based WL software (RTMC/SOCD support); ultimate speed and precision in an extremely unique, ultra-premium carbon fiber chassis. (≈$259–$280)***
 
+***⌨️ Neo65 Sonic HE+ — 65% compact layout. OwLab Nova Magnetic Switches (Hall Effect). True 8000Hz Polling Rate (0.125ms latency). Adjustable Actuation (0.1mm–4.0mm range, 0.01mm sensitivity). Dynamic Rapid Trigger & Dynamic Keystroke (DKS). Full CNC Aluminum Case (approx. 1.5kg). Gasket Mounted, Carbon Fiber Plate. Connection: Detachable USB-C Cable. Custom Web Configurator (NeoFlux); a heavyweight, surgically precise board combining competitive speed with enthusiast-grade build quality and acoustics. (≈$125 – $199)***
+
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
@@ -33,9 +35,6 @@
 
 
 ***⌨️ Chilkey Slice68 HE — 68% magnetic hall-effect, 1.7ms latency (0.1ms delay), 8000Hz polling, rapid trigger (0.005mm), adjustable actuation (0.01-3.3mm), hot-swap PCB, CNC aluminum case, web driver software; premium compact performance with dynamic keystroke. (200$)***
-
-
-***⌨️ Neo65 Sonic HE+ — 65% layout, proprietary magnetic (Hall-Effect) "OwLab Nova" linear switches, 8 kHz polling rate, 0.934 ms (tested), CNC aluminum case, hot-swappable, gasket mount, PET pad and carbon fiber plate, polished software for actuation points / rapid trigger. (≈160–165$)***
 
 
 ***⌨️ ATK 68 V3 HE — 65% wired layout. Jadalon Magnetic Jade Shaft Pro (Gateron) switches. 8000Hz polling rate. 256KHz scan rate. 0.08ms input latency. rapid trigger (0.001mm precision). adjustable actuation (0.005mm–3.3mm). full CNC aluminum case/aluminum plate. PBT/PC keycaps. ATK HUB software (RT/DKS/MT support); ultra-precise and high-end competitive build. (≈$109–$149)***
