@@ -484,21 +484,27 @@
 
 ###### ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
 
+***🎧 HyperX Cloud III Wireless — High-tier closed-back wireless headset (330g). Durable Aluminum Frame. Re-engineered, Angled Dynamic 53mm Drivers (64Ω). DTS® Headphone:X® Spatial Audio (Lifetime Activation). Upgraded, Detachable 10mm Noise-Cancelling Mic. 2.4 GHz Wireless (low latency, 20m range). Battery Life: Up to 120 Hours (at 50% volume). NGENUITY Software (EQ/Spatial Audio); combines unmatched endurance and superior comfort with accurate positional audio. (≈$140 – $180)***
 
+
+***🎧 Logitech G PRO X 2 Wireless LIGHTSPEED — Elite-grade closed-back tri-mode wireless headset (345g). Aluminum/Steel Frame, Rotating Hinge. PRO-G 50mm GRAPHENE Drivers. DTS Headphone:X 2.0 (Virtual 7.1). Detachable 6mm Mic with BLUE VO!CE Technology. Tri-Mode Connectivity (LIGHTSPEED 2.4 GHz, Bluetooth, 3.5mm Aux). Battery Life: Up to 50 Hours. G HUB Software (EQ/BLUE VO!CE); the pinnacle of Logitech's competitive audio, delivering unparalleled clarity through Graphene technology. (≈$250 – $280)***
+
+
+***🎧 SteelSeries Arctis Nova Pro Wireless — Premium closed-back tri-mode wireless headset (337g). Steel Frame/Aluminum Alloy. Premium Hi-Res Capable Dynamic 40mm Drivers (38Ω). 360° Spatial Audio (Sonar). Retractable ClearCast Gen 2 Mic with AI Noise Cancellation. Dual Connectivity (2.4 GHz Quantum 2.0 Wireless & Bluetooth 5.0). Hot-Swap Infinity Power System (22 hrs per battery, 2 batteries included). Wireless GameDAC Gen 2 (OLED screen, Dual USB inputs, ChatMix, EQ). Lifestyle Features: Active Noise Cancellation (ANC) with Transparency Mode. (≈$350 – $380)***
 
 
 ###### ***🟧 S Tier (excellent, solid performers without fluff)***
 
 
-
-***🎧 HyperX Cloud III Wireless — Wireless 2.4GHz over-ear headset, 120h battery, 53mm DTS spatial/noise mic, NGENUITY EQ, foam comfort for PC/PS/Switch gaming; multi. (≈150–170$)***
-
-
+***🎧 Logitech G PRO X Wireless LIGHTSPEED — Professional-grade closed-back wireless headset (370g). Aluminum/Steel Construction. PRO-G 50mm Hybrid Mesh Drivers. DTS Headphone:X 2.0 (Virtual 7.1 Surround). Detachable 6mm Mic with BLUE VO!CE Technology. LIGHTSPEED 2.4 GHz Wireless (low latency). Battery Life: Up to 20 Hours. G HUB Software (Pro-Tuned EQ/BLUE VO!CE profiles); high-quality wireless audio and communications built for tournament play. (≈$180 – $220)***
 
 
 ###### ***🟨 A Tier (solid mid-range, good everyday alternatives)***
 
+***🎧 HyperX Cloud II Core Wireless — High-end endurance closed-back wireless headset (335g). Durable Aluminum Frame. Dynamic 53mm Drivers (62Ω Impedance). DTS® Headphone:X® Spatial Audio (Virtual 7.1). Detachable Noise-Cancelling Mic (Bi-directional). 2.4 GHz Wireless Connection. Battery Life: Up to 80 Hours. NGENUITY Software (EQ customization); a market leader in battery life for its price point, delivering reliable competitive audio in an extremely comfortable chassis. (≈$99 – $130)***
 
+
+***🎧 SteelSeries Arctis Nova 7 Wireless — High-tier closed-back tri-mode wireless headset (322g). Steel Headband, ComfortMAX System. Dynamic 40mm Neodymium Drivers (36Ω). 360° Spatial Audio (Sonar). Retractable ClearCast Gen 2 Mic with AI Noise Cancellation. Dual Connectivity (2.4 GHz Quantum 2.0 Wireless & Bluetooth 5.0). Battery Life: Up to 50+ Hours. ChatMix dial, USB-C Dongle, On-Headset Controls; a feature-rich powerhouse focused on comfort and software-driven audio precision. (≈$180 – $200)***
 
 
 
@@ -516,27 +522,24 @@
 
 ###### 
 
-**Budget All-Rounder (<$50 – Starter Music/Light Gaming):**
+###### **Budget King:**
 
 
 
 
 
-
-**Best Casual Daily Driver ($50–150 – ANC/Music/Commutes):**
-
+###### **Mid-Range King:**
 
 
 
 
 
-**Best Gaming Pick ($150–300 – Low-Latency/Mics/Spatial):**
+###### **Premium Pick:**
 
 
 
 
 
-**Aspirational Elite ($300+ – Top-Tier If You Upgrade):**
 
 
 
