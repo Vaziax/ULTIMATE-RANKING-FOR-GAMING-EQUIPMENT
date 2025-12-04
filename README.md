@@ -180,7 +180,7 @@
 ***⌨️ MelGeek MADE68 Ultra — 65% wired layout. TTC KOM Magnetic switches. 8000Hz polling rate. 16KHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). full CNC Aluminum Alloy Case/Forged Carbon Fiber Side Panels. Gasket Mount structure (4-layer dampening). PBT keycaps. MelGeek HIVE software (Snap Tap/4-in-1 DKS/SOCD support); ultimate speed and precision in a unique, ultra-premium aluminum chassis. (≈$149–$199)***
 
 
-###### ***🟨 A Tier (budget/mid-focused)***
+# ***🟨 A Tier (budget/mid-focused)***
 
 
 
@@ -231,17 +231,17 @@
 
 
 
-###### ***🟩 B Tier (budget/niche/inconsistent)***
+# ***🟩 B Tier (budget/niche/inconsistent)***
 
 
 ***⌨️ MADLIONS MAD60HE (Flagship) — 60% wired layout. MADLIONS Magnetic/Amber Pro switches. 8000Hz polling rate. 16KHz/32KHz scan rate (128KHz on higher-end variants). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). ABS plastic/Aluminum plate. Web-based software (Full Analog, SOCD, DKS, MT support); extreme budget competitive speed and precision. (≈$49–$80)***
 
 
-##### 🏆 Best Overall Keyboards (Considering Price \& Performance)
+# 🏆 Best Overall Keyboards (Considering Price \& Performance)
 
 
 
-###### **Budget pick:** (Below 100$)
+# **Budget pick:** (Below 100$)
 
 
 ***⌨️ EWEADN DEEP68 HE — 65% wired layout. Gateron Magnetic Pole/Pro switches. 8000Hz polling rate. 128KHz scan rate. 0.1ms input latency. rapid trigger (0.01mm global accuracy). adjustable actuation (0.1mm–4.0mm). aluminum alloy plate (5-layer dampening). PBT keycaps. Web/Software driver (SOCD/DKS/MT support); elite budget competitive performance. (≈$70-80)***
@@ -252,7 +252,7 @@
 
 
 
-###### **Mid-Range King:** (100$-200$)
+# **Mid-Range King:** (100$-200$)
 
 
 
@@ -267,7 +267,7 @@
 
 
 
-###### **High pick:** (200$-unlimited)
+# **High pick:** (200$-unlimited)
 
 
 
@@ -282,7 +282,7 @@
 ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
 
 
-###### **Software King:**
+# **Software King:**
 
 
 ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
@@ -295,11 +295,11 @@
 ===============================================================================================================================================================================
 
 
-##### **Mice Tier List**
+# **Mice Tier List**
 
 
 
-###### ***🟥 SS Tier (cutting-edge performance + best value)***
+# ***🟥 SS Tier (cutting-edge performance + best value)***
 
 
 
@@ -336,9 +336,9 @@
 
 ***🖱️ Ninjutso Ten — 53g wireless, AimNinja sensor (PAW3950), 8000Hz polling, 30K DPI, 140h battery, HyperSwitch clicks, HyperSkates feet; premium wireless performance with elite specs. (80–100$)***
 
-###### 
+# 
 
-###### ***🟧 S Tier (excellent, not absolute best)***
+# ***🟧 S Tier (excellent, not absolute best)***
 
 
 
@@ -403,7 +403,7 @@
 
 
 
-###### ***🟨 A Tier (solid mid-range / good alternatives)***
+# ***🟨 A Tier (solid mid-range / good alternatives)***
 
 
 
@@ -427,7 +427,7 @@
 
 
 
-###### ***🟩 B Tier (budget/niche)***
+# ***🟩 B Tier (budget/niche)***
 
 
 
@@ -447,11 +447,11 @@
 
 
 
-##### 🏆 Best Overall Picks
+# 🏆 Best Overall Picks
 
-##### 
+# 
 
-###### **Budget King:**
+# **Budget King:**
 
 
 
@@ -459,7 +459,7 @@
 
 
 
-###### **Mid-Range King:**
+# **Mid-Range King:**
 
 
 
@@ -467,7 +467,7 @@
 
 
 
-###### **Premium Pick:**
+# **Premium Pick:**
 
 
 
@@ -476,11 +476,11 @@
 ==================================================================================================================================================================
 
 
-##### **Headphones/Earphones List**
+# **Headphones/Earphones List**
 
 
 
-###### ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
+# ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
 
 ***🎧 HyperX Cloud III Wireless — High-tier closed-back wireless headset (330g). Durable Aluminum Frame. Re-engineered, Angled Dynamic 53mm Drivers (64Ω). DTS® Headphone:X® Spatial Audio (Lifetime Activation). Upgraded, Detachable 10mm Noise-Cancelling Mic. 2.4 GHz Wireless (low latency, 20m range). Battery Life: Up to 120 Hours (at 50% volume). NGENUITY Software (EQ/Spatial Audio); combines unmatched endurance and superior comfort with accurate positional audio. (≈$140 – $180)***
 
@@ -491,13 +491,13 @@
 ***🎧 SteelSeries Arctis Nova Pro Wireless — Premium closed-back tri-mode wireless headset (337g). Steel Frame/Aluminum Alloy. Premium Hi-Res Capable Dynamic 40mm Drivers (38Ω). 360° Spatial Audio (Sonar). Retractable ClearCast Gen 2 Mic with AI Noise Cancellation. Dual Connectivity (2.4 GHz Quantum 2.0 Wireless & Bluetooth 5.0). Hot-Swap Infinity Power System (22 hrs per battery, 2 batteries included). Wireless GameDAC Gen 2 (OLED screen, Dual USB inputs, ChatMix, EQ). Lifestyle Features: Active Noise Cancellation (ANC) with Transparency Mode. (≈$350 – $380)***
 
 
-###### ***🟧 S Tier (excellent, solid performers without fluff)***
+# ***🟧 S Tier (excellent, solid performers without fluff)***
 
 
 ***🎧 Logitech G PRO X Wireless LIGHTSPEED — Professional-grade closed-back wireless headset (370g). Aluminum/Steel Construction. PRO-G 50mm Hybrid Mesh Drivers. DTS Headphone:X 2.0 (Virtual 7.1 Surround). Detachable 6mm Mic with BLUE VO!CE Technology. LIGHTSPEED 2.4 GHz Wireless (low latency). Battery Life: Up to 20 Hours. G HUB Software (Pro-Tuned EQ/BLUE VO!CE profiles); high-quality wireless audio and communications built for tournament play. (≈$180 – $220)***
 
 
-###### ***🟨 A Tier (solid mid-range, good everyday alternatives)***
+# ***🟨 A Tier (solid mid-range, good everyday alternatives)***
 
 ***🎧 HyperX Cloud II Core Wireless — High-end endurance closed-back wireless headset (335g). Durable Aluminum Frame. Dynamic 53mm Drivers (62Ω Impedance). DTS® Headphone:X® Spatial Audio (Virtual 7.1). Detachable Noise-Cancelling Mic (Bi-directional). 2.4 GHz Wireless Connection. Battery Life: Up to 80 Hours. NGENUITY Software (EQ customization); a market leader in battery life for its price point, delivering reliable competitive audio in an extremely comfortable chassis. (≈$99 – $130)***
 
@@ -506,33 +506,33 @@
 
 
 
-###### ***🟩 B Tier (budget/niche, reliable basics)***
+# ***🟩 B Tier (budget/niche, reliable basics)***
 
-###### 
-
-
-
-###### ***🟦 C Tier (entry-level basics, no-frills starters)***
+# 
 
 
 
-##### 🏆 Best Overall Picks (Casual \& Gaming Focus – Relatable for Most Users)
-
-###### 
-
-###### **Budget King:**
+# ***🟦 C Tier (entry-level basics, no-frills starters)***
 
 
 
+# 🏆 Best Overall Picks (Casual \& Gaming Focus – Relatable for Most Users)
 
+# 
 
-###### **Mid-Range King:**
+# **Budget King:**
 
 
 
 
 
-###### **Premium Pick:**
+# **Mid-Range King:**
+
+
+
+
+
+# **Premium Pick:**
 
 
 
