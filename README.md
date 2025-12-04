@@ -13,7 +13,7 @@
 
 
 
-### ***🟥 SS Tier (cutting-edge performance + premium build)***
+# ***🟥 SS Tier (cutting-edge performance + premium build)***
 
 
 ##### ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
