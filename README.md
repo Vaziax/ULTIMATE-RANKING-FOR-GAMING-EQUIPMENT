@@ -223,12 +223,16 @@
 
 ***⌨️ DAREU A75 HE — 75% wired layout with volume knob. Gateron Jade Pro/Sky Magnetic switches. 8000Hz polling rate. ~32KHz scan rate (implied by latency). 0.125ms input latency. rapid trigger (0.02mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC Aluminum chassis/Gasket Mount structure. Ceramic keycaps. DAREU Driver (DKS/SOCD/Three Preset Modes support); elite speed and high precision in a premium aluminum chassis. (≈$170–$200)***
 
+***⌨️ Razer Huntsman Mini — 60% wired layout. Razer™ 2nd Gen Linear Optical Switches. 1000Hz Polling Rate (1ms latency). Actuation Point: 1.2 mm. Actuation Force: 40 G. PBT Doubleshot Keycaps with side-printed secondary functions. Aluminum Top Plate/Plastic Base. Connection: Detachable USB-C Cable. Hybrid Onboard Storage (up to 5 profiles); a minimalist, lightning-fast board built for maximum mouse space and portability in tournaments. (≈$80 – $130)***
+
 
 
 # ***🟩 B Tier (budget/niche/inconsistent)***
 
 
 ***⌨️ MADLIONS MAD60HE (Flagship) — 60% wired layout. MADLIONS Magnetic/Amber Pro switches. 8000Hz polling rate. 16KHz/32KHz scan rate (128KHz on higher-end variants). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). ABS plastic/Aluminum plate. Web-based software (Full Analog, SOCD, DKS, MT support); extreme budget competitive speed and precision. (≈$49–$80)***
+
+
 
 
 # 🏆 Best Overall Keyboards (Considering Price \& Performance)
@@ -293,6 +297,15 @@
 
 # ***⬜ SSS Tier (Absolute best of the best)***
 
+***🖱️ Lamzu Maya X — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. ≈0.5ms click latency. Lamzu Custom Omron Optical switches. 47g weight. Nordic 52840 MCU. 2.4G wireless/wired. 8K dongle included; absolute peak wireless competitive performance. (≈$140)***
+
+***🖱️ Ninjutso Ten Air — 45g wireless, AimNinja sensor (PAW3950), 8000Hz polling, 30K DPI, 95h battery, HyperSwitch clicks, HyperSkates feet; ultra-light wireless performance with elite specs. (80–100$)***
+
+
+***🖱️ Ninjutso Ten — 53g wireless, AimNinja sensor (PAW3950), 8000Hz polling, 30K DPI, 140h battery, HyperSwitch clicks, HyperSkates feet; premium wireless performance with elite specs. (80–100$)***
+
+***🖱️ Orbitalworks Pathfinder — Modular wireless chassis (3000+ configs). PixArt PAW3950DM sensor (30K DPI). 8000Hz wireless polling. 0.4ms click latency. Omron Optical switches. 52–55g weight. 300mAh battery. multiple premium skates included (PTFE/Obsidian); ultimate customizable competitive shape and performance. (≈$189)***
+
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
@@ -300,12 +313,6 @@
 
 
 ***🖱️ WLMouse Beast X (Pro/Mini Pro) — 38g, 4K/8K wireless, top-tier esports mouse, elite build quality, configurable software; ultra-light wireless leaders. (125–150$)***
-
-***🖱️ Orbitalworks Pathfinder — Modular wireless chassis (3000+ configs). PixArt PAW3950DM sensor (30K DPI). 8000Hz wireless polling. 0.4ms click latency. Omron Optical switches. 52–55g weight. 300mAh battery. multiple premium skates included (PTFE/Obsidian); ultimate customizable competitive shape and performance. (≈$189)***
-
-
-
-***🖱️ Lamzu Maya X — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. ≈0.5ms click latency. Lamzu Custom Omron Optical switches. 47g weight. Nordic 52840 MCU. 2.4G wireless/wired. 8K dongle included; absolute peak wireless competitive performance. (≈$140)***
 
 
 ***🖱️ WLMouse Miao — <40g, ultra-light variant of Beast X, same 4K/8K performance, software for DPI/macros; featherweight precision. (125–150$)***
@@ -325,12 +332,6 @@
 
 
 ***🖱️ WLMouse Beast X Max — 42g magnesium alloy shell, PAW3950 HS sensor, 8K wireless polling, <0.25 ms latency, esports-grade build, top wireless tech. (≈150$)***
-
-
-***🖱️ Ninjutso Ten Air — 45g wireless, AimNinja sensor (PAW3950), 8000Hz polling, 30K DPI, 95h battery, HyperSwitch clicks, HyperSkates feet; ultra-light wireless performance with elite specs. (80–100$)***
-
-
-***🖱️ Ninjutso Ten — 53g wireless, AimNinja sensor (PAW3950), 8000Hz polling, 30K DPI, 140h battery, HyperSwitch clicks, HyperSkates feet; premium wireless performance with elite specs. (80–100$)***
 
 # 
 
@@ -472,11 +473,13 @@
 ==================================================================================================================================================================
 
 
-# **Headphones/Earphones List**
+# **Headphones/Earphones/IEMs List**
 
 # ***⬜ SSS Tier (Absolute best of the best)***
 
 ***🎧 Logitech G PRO X 2 Wireless LIGHTSPEED — Elite-grade closed-back tri-mode wireless headset (345g). Aluminum/Steel Frame, Rotating Hinge. PRO-G 50mm GRAPHENE Drivers. DTS Headphone:X 2.0 (Virtual 7.1). Detachable 6mm Mic with BLUE VO!CE Technology. Tri-Mode Connectivity (LIGHTSPEED 2.4 GHz, Bluetooth, 3.5mm Aux). Battery Life: Up to 50 Hours. G HUB Software (EQ/BLUE VO!CE); the pinnacle of Logitech's competitive audio, delivering unparalleled clarity through Graphene technology. (≈$250 – $280)***
+
+***🎧 Kiwi Ears Quintet (Wired IEM) — High-Resolution wired In-Ear Monitor (IEM). Resin Shell with Metal Faceplate. Quad-Hybrid Drivers (1x DLC Dynamic, 2x Balanced Armature, 1x Planar Magnetic, 1x Piezoelectric Bone Conductor). Total Drivers: 5 per side. Soundstage: Wide and Airy with precise depth. Passive Noise Cancellation (Requires deep seal). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 32Ω. Sound Profile: Balanced U-Shape (natural mids, strong sub-bass, extended, airy treble) focused on technical separation and resolution. (≈$219 – $229)***
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
@@ -490,18 +493,36 @@
 ***🎧 Razer BlackShark V2 Pro (2023 Edition) — Elite-grade closed-back tri-mode wireless headset (320g). Steel-Reinforced Headband. Razer™ TriForce Titanium 50mm Drivers (32Ω). THX Spatial Audio. Detachable Razer™ HyperClear Super Wideband Mic (32kHz sampling rate). Dual Connectivity (HyperSpeed 2.4 GHz & Bluetooth 5.2). Battery Life: Up to 70 Hours. On-headset EQ Profiles (Pro-Tuned FPS Presets); the ultimate blend of endurance, lightweight comfort, and best-in-class microphone clarity for esports pros. (≈$200 – $220)***
 
 
+***🎧 Beyerdynamic DT 990 Pro (250 Ohm) — Professional-grade wired open-back studio headphones (250g). Steel Headband, Highly Durable Build. Dynamic Proprietary Drivers (250Ω). Soundstage: Extremely Wide and Natural. NO integrated mic (requires external mic). Required Gear: External Headphone Amplifier/DAC is strongly recommended. Transmission Type: Wired (3m coiled cable). Sound Profile: V-Shaped (prominent sub-bass, recessed mids, sharp treble) with excellent depth gradation; the quintessential open-back headphone for competitive FPS gaming where spatial awareness is paramount. (≈$140 – $180)***
+
+***🎧 Tipsy M3 (Wired IEM) — Professional-grade wired In-Ear Monitor (IEM). Hand-finished Gem-Grade Resin Shell. Triple-Driver Hybrid (1x Dynamic, 2x Balanced Armature). Proprietary Acoustic-Runway Technology (independent physical tubes for bass/mids/highs). Passive Noise Cancellation (-26dB). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 17Ω. Sound Profile: V-Shaped (prominent sub-bass, clean treble) with incredible separation and layering for micro-details. (≈$219 – $397)***
+
+
 # ***🟧 S Tier (excellent, solid performers without fluff)***
 
 
 ***🎧 Logitech G PRO X Wireless LIGHTSPEED — Professional-grade closed-back wireless headset (370g). Aluminum/Steel Construction. PRO-G 50mm Hybrid Mesh Drivers. DTS Headphone:X 2.0 (Virtual 7.1 Surround). Detachable 6mm Mic with BLUE VO!CE Technology. LIGHTSPEED 2.4 GHz Wireless (low latency). Battery Life: Up to 20 Hours. G HUB Software (Pro-Tuned EQ/BLUE VO!CE profiles); high-quality wireless audio and communications built for tournament play. (≈$180 – $220)***
 
+***🎧 Padsmith IEM — Competitive-tuned wired In-Ear Monitor (IEM). 3D-Printed Medical-Grade Resin Shell. Dual-Driver Hybrid (1x Titanium-Coated Dynamic Driver, 1x Micro-Planar Transducer). Soundstage: Open with excellent separation. Passive Noise Cancellation (Requires proper seal). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Custom modular cable with swappable 3.5mm/4.4mm plugs). Impedance: 16Ω. Sound Profile: Neutral/Balanced (mild sub-bass, clean mids, smooth, detailed treble) focusing on precision and low fatigue. (≈$119 – $129)***
+
+**🎧 Razer BlackShark V3 X HyperSpeed — Ultra-light wireless gaming headset (270g). Steel-Reinforced Headband. Razer™ TriForce Bio-Cellulose 40mm Drivers (32Ω). THX Spatial Audio. Detachable Razer™ HyperClear Super Wideband Mic (9.9mm). Tri-Mode Connectivity (HyperSpeed 2.4 GHz, Bluetooth, USB-C). Battery Life: Up to 70 Hours. On-headset EQ Profiles; a lightweight, high-endurance headset focusing on core esports performance. (≈$129 – $149)***
+
+# 🏆 Tier Rank (Headphone): A Tier
 
 # ***🟨 A Tier (solid mid-range, good everyday alternatives)***
 
 ***🎧 HyperX Cloud II Core Wireless — High-end endurance closed-back wireless headset (335g). Durable Aluminum Frame. Dynamic 53mm Drivers (62Ω Impedance). DTS® Headphone:X® Spatial Audio (Virtual 7.1). Detachable Noise-Cancelling Mic (Bi-directional). 2.4 GHz Wireless Connection. Battery Life: Up to 80 Hours. NGENUITY Software (EQ customization); a market leader in battery life for its price point, delivering reliable competitive audio in an extremely comfortable chassis. (≈$99 – $130)***
 
+***🎧 Beyerdynamic DT 770 Pro (80 Ohm) — Professional-grade wired closed-back studio headphones (270g). Steel Headband, Highly Durable Build. Dynamic Proprietary Drivers (80Ω). Innovative Bass Reflex System. NO integrated mic (requires external mic). Transmission Type: Wired (3m straight cable). Sound Profile: Analytical/V-Shaped (accentuated bass and treble) with exceptional imaging; a legendary, comfortable headphone delivering highly accurate spatial awareness for competitive play. (≈$140 – $180)***
+
 
 ***🎧 SteelSeries Arctis Nova 7 Wireless — High-tier closed-back tri-mode wireless headset (322g). Steel Headband, ComfortMAX System. Dynamic 40mm Neodymium Drivers (36Ω). 360° Spatial Audio (Sonar). Retractable ClearCast Gen 2 Mic with AI Noise Cancellation. Dual Connectivity (2.4 GHz Quantum 2.0 Wireless & Bluetooth 5.0). Battery Life: Up to 50+ Hours. ChatMix dial, USB-C Dongle, On-Headset Controls; a feature-rich powerhouse focused on comfort and software-driven audio precision. (≈$180 – $200)***
+
+
+***🎧 Tipsy M1 (Wired IEM) — Mid-tier wired In-Ear Monitor (IEM). Hand-finished Resin Shell. Single Custom 10mm Dynamic Driver (Bamboo Fiber Diaphragm). Total Harmonic Distortion (THD) < 1%. Passive Noise Cancellation (-26dB). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 24Ω. Sound Profile: Warm, Musical U-Shape (prominent sub-bass, pleasant natural mids, clear highs) with excellent micro-detail; a compelling blend of comfort and natural clarity for gaming and daily listening. (≈$70 – $100)***
+
+
+***🎧 Moondrop Chu 2 (Wired IEM) — Budget-friendly wired In-Ear Monitor (IEM). Durable ZN Alloy Shell. Single 10mm Dynamic Driver (Aluminum-Magnesium Alloy Dome Composite Diaphragm). Low Distortion (THD ≤0.5%). Passive Noise Cancellation. NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 18Ω. Sound Profile: Balanced V-Shape (follows VDSF Target Response) with great detail, punchy bass, and clear, extended treble for competitive audio cues. (≈$19 – $25)***
 
 
 
