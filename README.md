@@ -308,6 +308,8 @@
 
 ***🖱️ WLMouse Beast X Mini Pro — Symmetrical, small-sized wireless mouse (116x58x35mm). ULTRALIGHT 34g Magnesium Alloy Shell. Sensor: PixArt PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 220mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the smallest size in the line to feature the competitive trinity of Magnesium, 8KHz, and a flagship sensor. (≈$145 – $155)***
 
+***🖱️ MCHOSE A7X Ultra — Ergonomic right-handed shape (125.7x63.2x39.8mm, similar to the DeathAdder/GPX hybrid). ULTRALIGHT 53g Magnesium Alloy Shell. Sensor: PixArt PAW3950 TI Flagship Sensor (up to 42000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Wireless Accelerator. Switches: Omron Optical Micro Switches (70M rated). Connectivity: Tri-Mode (2.4GHz Wireless, Bluetooth, USB-C Wired). Battery: 500mAh (High capacity for extended play); a phenomenal, complete package that includes glass skates and a premium carry case. (≈$90 – $120)***
+
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
