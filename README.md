@@ -52,6 +52,8 @@
 
 ***⌨️ SKYLOONG GK68HE — 65% wired layout. SKYLOONG/Gateron Jade Pro/TTC Maneto magnetic switches. 8000Hz polling rate. 8000Hz synchronized key scan rate (Pro version has 256KHz reporting). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). ABS/Optional CNC Aluminum case. Plateless design. PBT keycaps. Web/Software driver (DKS/TGL/MT/SOCD support); elite speed and high precision with advanced competitive features. (≈$80–$160)***
 
+***⌨️ NuPhy WH80 — 80% magnetic hall-effect, 1.4ms wired latency (1.7ms wireless), 8000Hz polling (2.4G/wired), rapid trigger (0.005mm), hot-swap PCB, aluminum alloy case + gasket mount, PBT keycaps; premium wireless HE with high-profile switches. (230-250$)***
+
 
 # ***🟧 S Tier (excellent, not absolute best)***
 
@@ -70,8 +72,6 @@
 
 ***⌨️ QwertyKeys x ATK Hex80 — TKL/80% wired layout. Owlab Ti HE Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.08ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.1mm–4.0mm). full CNC 6063 aluminum case/PVD weight. Gasket mount/Carbon Fiber plate. ATK HUB software (RT/RS/DKS/SOCD support); ultimate competitive performance in a premium TKL chassis. (≈$249)***
 
-
-***⌨️ NuPhy WH80 — 80% magnetic hall-effect, 1.4ms wired latency (1.7ms wireless), 8000Hz polling (2.4G/wired), rapid trigger (0.005mm), hot-swap PCB, aluminum alloy case + gasket mount, PBT keycaps; premium wireless HE with high-profile switches. (230-250$)***
 
 
 ***⌨️ MORKBLADE MK60 — 60% wired layout. AULA Custom Ice King Magnetic switches. 8000Hz polling rate. 2304K/256K scan rate (with Dual MCU/Direct ADC). 0.08ms input latency. ultra-dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Carbon Fiber plate/Gasket structure. 5-layer internal dampening. PC/PBT keycaps. Web-based driver (SOCD, DKS, Analog Mode support); ultimate speed, precision, and a heavy, premium build. (≈$220–$250)***
