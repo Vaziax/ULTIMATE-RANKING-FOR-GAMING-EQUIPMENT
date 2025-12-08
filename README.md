@@ -22,6 +22,8 @@
 
 ***⌨️ Neo65 Sonic HE+ — 65% compact layout. OwLab Nova Magnetic Switches (Hall Effect). True 8000Hz Polling Rate (0.125ms latency). Adjustable Actuation (0.1mm–4.0mm range, 0.01mm sensitivity). Dynamic Rapid Trigger & Dynamic Keystroke (DKS). Full CNC Aluminum Case (approx. 1.5kg). Gasket Mounted, Carbon Fiber Plate. Connection: Detachable USB-C Cable. Custom Web Configurator (NeoFlux); a heavyweight, surgically precise board combining competitive speed with enthusiast-grade build quality and acoustics. (≈$125 – $199)***
 
+***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
+
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
