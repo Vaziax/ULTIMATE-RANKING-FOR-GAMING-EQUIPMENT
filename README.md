@@ -319,6 +319,9 @@
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
 
+
+***🖱️ RAWM Leviathan V4 — Large Symmetrical shape (126.7 x 63.9 x 40mm, similar profile to the Razer Viper V3 Pro). ULTRALIGHT 55g Plastic Shell (Solid/No holes, Thermo-Sensitive Coating). Sensor: PixArt PAW3950 (up to 45000 DPI, 750 IPS). MCU: Nordic nRF54L15 (Next-Gen High-Efficiency Chip). Polling Rate: Native Dual 8000Hz Wireless (0.125ms latency) via included 8K Receiver. Switches: TTC Optical Switches (100M rated). Encoder: RAESHA Gen 3 Optical Encoder. Connectivity: Dual-Mode (2.4GHz Wireless, Wired USB-C). Battery: Up to 150 hours (Standard usage). (≈$85 – $100)***
+
 ***🖱️ Ninjutso Ten Air — Versatile, mid-sized wireless mouse (125x64x39mm). ULTRALIGHT 45g Polycarbonate Shell. Sensor: AimNinja (PixArt 3395-based, 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Ninjutso HyperSwitch Mechanical (0.57N force) with Button Tensioning System. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: Up to 95 Hours; the lightest possible version, built for maximum agility and raw speed. (≈$99 – $110)***
 
 ***🖱️ Ninjutso Ten — Versatile, mid-sized wireless mouse (125x64x39mm). LIGHTWEIGHT 53g Polycarbonate Shell. Sensor: AimNinja (PixArt 3395-based, 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Ninjutso HyperSwitch Mechanical (0.57N force) with Button Tensioning System. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: Up to 140 Hours; the ultimate endurance mouse, trading minimal weight for class-leading battery longevity. (≈$89 – $100)***
