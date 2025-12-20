@@ -65,6 +65,9 @@
 ***⌨️ IQUNIX EZ60 HE — 60% compact layout. Gateron Star Trail magnetic hall-effect switches. 8000Hz polling rate. 0.125ms input latency. rapid trigger (0.01mm sensitivity). adjustable actuation (0.1mm-3.3mm). full aluminum case. gasket mount. web-based software (SOCD/DKS/MT support); ultimate wired competitive performance. (≈$189)***
 
 
+***⌨️ DAREU COOL68 — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: DAREU Shadow Blade / Ice Blade Magnetic Switches (Hall Effect) with Hybrid Switch Support. Polling Rate: 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate: High-speed scanning with D.H.A Smart Filtering Algorithm. Rapid Trigger (RT) Range: 0.1mm to 4.0mm (Adjustable in 0.01mm precision steps). Processing: 15 Control Chips for enhanced stability. Connectivity: Wired USB-C (Web Driver Support). Chassis: Translucent Case with Original 3D Light Wing Design. (≈$85 – $100)***
+
+
 ***⌨️ Epomaker HE75 Mag — Compact 75% Layout (82 keys with dedicated function row and knob). Switches: Gateron Magnetic Orange Switches (Hall Effect). Polling Rate: Max 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate (32 KHz). Rapid Trigger (RT) Range: 0.1mm to 4.0mm (40 adjustable levels) and Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth 5.1). Chassis: Aluminum Alloy Case. (≈$99)***
 
 
