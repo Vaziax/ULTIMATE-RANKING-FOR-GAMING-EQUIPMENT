@@ -24,6 +24,8 @@
 
 ***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
 
+***⌨️ IPI QBZ65 — Compact 65% Layout. Switches: IPI/Gateron "Northgard" Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate: Dual 8K Core Processing (High-speed scanning). Rapid Trigger (RT) Range: 0.01mm to 3.4mm (Adjustable in 0.01mm increments). Connectivity: Wired USB-C (Strictly for eSports latency). Chassis: 205-Mesh Anodized CNC Aluminum Case with Patented Quick-Disassembly. (≈$95 – $125)***
+
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
