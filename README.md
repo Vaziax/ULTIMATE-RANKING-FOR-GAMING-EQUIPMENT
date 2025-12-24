@@ -322,6 +322,8 @@
 
 ***🖱️ MCHOSE A7X Ultra — Ergonomic right-handed shape (125.7x63.2x39.8mm, similar to the DeathAdder/GPX hybrid). ULTRALIGHT 53g Magnesium Alloy Shell. Sensor: PixArt PAW3950 TI Flagship Sensor (up to 42000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Wireless Accelerator. Switches: Omron Optical Micro Switches (70M rated). Connectivity: Tri-Mode (2.4GHz Wireless, Bluetooth, USB-C Wired). Battery: 500mAh (High capacity for extended play); a phenomenal, complete package that includes glass skates and a premium carry case. (≈$90 – $120)***
 
+***🖱️ WLMOUSE HUAN — Compact Symmetrical Shape (116 x 61 x 38mm, Viper Mini inspired). WEIGHT: 48g (Solid Magnesium Alloy Shell). Sensor: PixArt PAW3950 HS (Flagship, optimized for high speed). MCU: Nordic nRF54H20 (Next-Gen High-Efficiency Chip). Polling Rate: Native 8000Hz Wireless & Wired (0.125ms latency) via included Smart Screen Dongle. Switches: Omron Optical Switches (Crisp, instant actuation). Encoder: TTC Dust-Proof Silver. Battery: 300mAh. Connectivity: Dual-Mode (2.4GHz Wireless, Wired). (≈$155)***
+
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
