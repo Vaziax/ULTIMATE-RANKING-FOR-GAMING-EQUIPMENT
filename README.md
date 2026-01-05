@@ -26,6 +26,8 @@
 
 ***⌨️ IPI QBZ65 — Compact 65% Layout. Switches: IPI/Gateron "Northgard" Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate: Dual 8K Core Processing (High-speed scanning). Rapid Trigger (RT) Range: 0.01mm to 3.4mm (Adjustable in 0.01mm increments). Connectivity: Wired USB-C (Strictly for eSports latency). Chassis: 205-Mesh Anodized CNC Aluminum Case with Patented Quick-Disassembly. (≈$95 – $125)***
 
+***⌨️ GATERON FORT68 Sakura HE — Layout: 68-Key Pre-Assembled with Patented Tri-Split Modular Spacebar (Interchangeable with 6.25u). Switches: Gateron Magnetic Jade Sakura (22mm Long Spring, Enhanced Rebound, 3.0 Light Zone Effect). Processing: AVKE "Primordial Algorithm" with 18 Control Chips ("18 Masteries Unleashed"). RT Resolution: 0.01mm (Full Range) with Ultimate Precision of 0.001. Latency: <0.125 ms (Millisecond Acuity). Features: Kaleidoscope-Inspired Optical System, Nano-Shield Waterproofing, Drawer-Style Dual-Layer Presentation Box. (≈$220 – $250)***
+
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
