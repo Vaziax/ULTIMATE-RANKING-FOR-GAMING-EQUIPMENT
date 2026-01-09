@@ -471,6 +471,8 @@
 
 ***🎧 Kiwi Ears Quintet (Wired IEM) — High-Resolution wired In-Ear Monitor (IEM). Resin Shell with Metal Faceplate. Quad-Hybrid Drivers (1x DLC Dynamic, 2x Balanced Armature, 1x Planar Magnetic, 1x Piezoelectric Bone Conductor). Total Drivers: 5 per side. Soundstage: Wide and Airy with precise depth. Passive Noise Cancellation (Requires deep seal). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 32Ω. Sound Profile: Balanced U-Shape (natural mids, strong sub-bass, extended, airy treble) focused on technical separation and resolution. (≈$219 – $229)***
 
+***🎧 Tipsy M5 — Universal Fit Quadbrid IEM. Drivers (5 Per Side): 1x 10mm Bone Conduction (Sub-bass tactility), 1x 8mm PU+DLC Dynamic Driver (Bass), 2x Custom Balanced Armatures (Mids/Highs), 1x Planar Magnetic Unit (Ultra-highs). Tuning: Reference/Neutral with Sub-bass boost. Impedance: 20Ω. Sensitivity: 109dB. Weight: 5.3g (3D Printed Resin Shell). Features: Pressure Relief System, Included Dual-Chip USB-C DAC. (≈$399)***
+
 
 # ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
 
