@@ -35,6 +35,8 @@
 
 ***⌨️ IPI Aurora75 HE — 75% wired layout. Custom IPI Thunder Magnetic switches. 8000Hz polling rate. 128KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC Aluminum case. Multi-layer dampening (Silicone/Poron/IXPE). PBT transparent keycaps. Software/Driver (DKS/SOCD/MT support); elite speed and ultimate precision in a premium, custom-grade aluminum chassis. (≈$110)***
 
+***⌨️ MONSGEEK M1 V5 HE — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: Hall Effect (HE). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.500mm. Actuation Range: 0.100mm - 3.300mm. Chassis: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), RT Stabilizer, Demagnetized Plate-mounted Stabilizers. Connectivity: Tri-Mode (8K Wired/Wireless). (≈$120 – $140)***
+
 ***⌨️ ATK RS6 Air — Compact 65% Layout (68 keys). Switches: Gateron/ATK Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired (0.125ms latency). Scan Rate: ~32KHz (Elite detection speed). Rapid Trigger (RT) Range: 0.02mm to 3.3mm (Adjustable in 0.01mm steps); supports Dynamic Reset. Connectivity: Wired (USB-C) for maximum speed. Chassis: High-Quality ABS Plastic (Translucent "Air" Design). Keycaps: PBT or Polycarbonate (depending on colorway). (≈$80 – $100)***
 
 
