@@ -12,6 +12,8 @@
 
 ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
 
+***⌨️ MONSGEEK M1 V5 TMR — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: TMR (Tunneling Magnetoresistance). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.00mm. Actuation Range: 0.1mm - 3.3mm. Hardware: Arm Cortex-M4 + 15 Dedicated Logic ICs. Case: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), Mod-Tap, TGL, Dynamic Keystroke, RT Stabilizer, Demagnetized Plate-mounted Stabilizers. (≈$140 – $170)*** 
+
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
 ***⌨️ MCHOSE Ace 68 Turbo (GT) — 65% compact layout. Mount Tai magnetic hall-effect switches. 16000Hz polling rate (world's first). 0.06ms input latency. 256KHz scan rate. rapid trigger (0.001mm precision). full CNC aluminum case. dual-core MCU. SOCD/DKS/MT support; cutting-edge, fastest-tier wired competitive build. (≈$140)***
