@@ -18,13 +18,13 @@
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
-***⌨️ MCHOSE Ace 68 Turbo (GT) — 65% compact layout. Mount Tai magnetic hall-effect switches. 16000Hz polling rate (world's first). 0.06ms input latency. 256KHz scan rate. rapid trigger (0.001mm precision). full CNC aluminum case. dual-core MCU. SOCD/DKS/MT support; cutting-edge, fastest-tier wired competitive build. (≈$140)***
-
 ***⌨️ AKKO MOD 007 V5 HE — 75% wired layout with knob and screen. Akko AstroAim Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.125ms input latency (implied by 8KHz). ultra-dynamic rapid trigger (0.005mm adjustable precision). adjustable actuation (0.1mm–3.4mm, 0.005mm steps). Full CNC Aluminum case/Gasket Mount structure. Poron/IXPE/PET/Case Foam dampening. PBT Double-shot keycaps. Web/Cloud Driver (Snap Key [SOCD], DKS, RT Stabilizer support); ultimate speed and precision in a heavy, premium CNC aluminum chassis. (≈$180–$250)***
 
 ***⌨️ WLMOUSE Ying63 — 60% (64-key) wired layout. Gateron Magnetic Jade Pro switches. 8000Hz polling rate. ~32KHz scan rate (implied by specs). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Full CNC Forged Carbon Fiber case. Gasket Mount structure/Aluminum plate. Poron and Silicone dampening. Web-based WL software (RTMC/SOCD support); ultimate speed and precision in an extremely unique, ultra-premium carbon fiber chassis. (≈$259–$280)***
 
 ***⌨️ Neo65 Sonic HE+ — 65% compact layout. OwLab Nova Magnetic Switches (Hall Effect). True 8000Hz Polling Rate (0.125ms latency). Adjustable Actuation (0.1mm–4.0mm range, 0.01mm sensitivity). Dynamic Rapid Trigger & Dynamic Keystroke (DKS). Full CNC Aluminum Case (approx. 1.5kg). Gasket Mounted, Carbon Fiber Plate. Connection: Detachable USB-C Cable. Custom Web Configurator (NeoFlux); a heavyweight, surgically precise board combining competitive speed with enthusiast-grade build quality and acoustics. (≈$125 – $199)***
+
+***⌨️ MCHOSE Ace 68 Turbo (GT) — 65% compact layout. Mount Tai magnetic hall-effect switches. 16000Hz polling rate (world's first). 0.06ms input latency. 256KHz scan rate. rapid trigger (0.001mm precision). full CNC aluminum case. dual-core MCU. SOCD/DKS/MT support; cutting-edge, fastest-tier wired competitive build. (≈$140)***
 
 ***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
 
@@ -267,6 +267,10 @@
 
 ***⌨️ MCHOSE Ace 68 Air — 65% wired layout. Kailh Magnetic God/Mount Tai GT switches. 8000Hz polling rate. 0.08ms input latency. rapid trigger (0.001mm precision). adjustable actuation (0.1mm–3.4mm). aluminum alloy plate/5-layer dampening. PBT keycaps. M HUB software (SOCD/DKS/MT/TGL support); elite budget competitive performance. (≈$79)***
 
+***⌨️ ATK RS6 Air — Compact 65% Layout (68 keys). Switches: Gateron/ATK Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired (0.125ms latency). Scan Rate: ~32KHz (Elite detection speed). Rapid Trigger (RT) Range: 0.02mm to 3.3mm (Adjustable in 0.01mm steps); supports Dynamic Reset. Connectivity: Wired (USB-C) for maximum speed. Chassis: High-Quality ABS Plastic (Translucent "Air" Design). Keycaps: PBT or Polycarbonate (depending on colorway). (≈$80 – $100)***
+
+**⌨️ Irok MG75 Max — 75% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 256K single key scan rate, rapid trigger (RT) 0.005mm step 0.001mm, full CNC aluminum alloy build, hot-swap PCB, GTURBO algorithm, web/HUB driver software. (85–95$)***
+
 
 
 # **Mid-Range King:** (100$-200$)
@@ -277,26 +281,26 @@
 
 ***⌨️ Everglide SU75 Pro — 75% wired layout. Everglide Siren/Skyline Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.1ms input latency. dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Gasket Mount structure/Carbon Fiber Plate. Multi-layer dampening. Frosted PC/PBT keycaps. Web-based software (DKS/LKP/Snap Click/SOCD support); ultimate speed and precision in a high-end, heavy CNC aluminum chassis. (≈$110)***
 
+***⌨️ MONSGEEK M1 V5 TMR — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: TMR (Tunneling Magnetoresistance). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.00mm. Actuation Range: 0.1mm - 3.3mm. Hardware: Arm Cortex-M4 + 15 Dedicated Logic ICs. Case: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), Mod-Tap, TGL, Dynamic Keystroke, RT Stabilizer, Demagnetized Plate-mounted Stabilizers. (≈$140 – $170)*** 
 
-***⌨️ IPI Aurora75 HE — 75% wired layout. Custom IPI Thunder Magnetic switches. 8000Hz polling rate. 128KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC Aluminum case. Multi-layer dampening (Silicone/Poron/IXPE). PBT transparent keycaps. Software/Driver (DKS/SOCD/MT support); elite speed and ultimate precision in a premium, custom-grade aluminum chassis. (≈$110)***
+***⌨️ MCHOSE Ace 68 Turbo (GT) — 65% compact layout. Mount Tai magnetic hall-effect switches. 16000Hz polling rate (world's first). 0.06ms input latency. 256KHz scan rate. rapid trigger (0.001mm precision). full CNC aluminum case. dual-core MCU. SOCD/DKS/MT support; cutting-edge, fastest-tier wired competitive build. (≈$140)***
 
-***⌨️ Chilkey Slice 75 HE — 75% wired layout. WS Flux/Gateron Jade Pro Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.125ms input latency. ultra-dynamic rapid trigger (0.005mm adjustable precision). adjustable actuation (0.005mm–3.3mm). Full CNC Aluminum case/Silicone Bead Gasket Mount. Cork Dampening. PBT Doubleshot keycaps. Chilkey Web Driver (Snappy Tappy, DKS, SOCD support); ultimate precision and speed in a premium, acoustically engineered chassis. (≈$149–$200)***
+***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
+
+
 
 
 
 # **High pick:** (200$-unlimited)
 
 
-
-***⌨️ MORKBLADE MK60 — 60% wired layout. AULA Custom Ice King Magnetic switches. 8000Hz polling rate. 2304K/256K scan rate (with Dual MCU/Direct ADC). 0.08ms input latency. ultra-dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Carbon Fiber plate/Gasket structure. 5-layer internal dampening. PC/PBT keycaps. Web-based driver (SOCD, DKS, Analog Mode support); ultimate speed, precision, and a heavy, premium build. (≈$220–$250)***
-
-***⌨️ Pwnage Zenblade 65 — 65% wired layout. Gateron Jade Pro/Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm ultra-fine precision). adjustable actuation (0.01mm–3.5mm). full CNC aerospace-grade aluminum chassis. Cherry profile PBT keycaps. Web-based software (SOCD/DKS support); ultimate precision and premium build quality. (≈$219–$249)***
-
 ***⌨️ WLMOUSE Ying63 — 60% (64-key) wired layout. Gateron Magnetic Jade Pro switches. 8000Hz polling rate. ~32KHz scan rate (implied by specs). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Full CNC Forged Carbon Fiber case. Gasket Mount structure/Aluminum plate. Poron and Silicone dampening. Web-based WL software (RTMC/SOCD support); ultimate speed and precision in an extremely unique, ultra-premium carbon fiber chassis. (≈$259–$270)***
 
 ***⌨️ WLMOUSE HUAN63 — 60% magnetic hall-effect, 0.742ms latency, 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), hot-swap PCB, stainless magnesium alloy case, gasket mount, WL software; ultra-light premium performance build. (259–269$)***
 
 ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
+
+***⌨️ RAKKA 80 Edge — Layout: 80% TKL (87 Keys). Sensor: High-Sensitivity Hall Effect. Polling Rate: 8000Hz. Scan Rate: 135,000Hz (0.007ms internal interval). RT Accuracy: 0.005mm (Bottom-out) / 0.01mm (General). Resolution: 0.005mm (Smallest detectable change). Latency: 0.19ms average (Tested, including host processing). Switches: GATERON Magnetic Grey Jade PRO. Build: Full Aluminum Case (1.9kg), 6-layer PCB, FR4 Plate, Silicone/Rubber foam filling. Features: Web-based software, SOCD (Snap Tap), 4 Onboard Profiles, Tap Hold, Independent LED Controller. (≈$240 – $300)***
 
 
 # **Software King:**
