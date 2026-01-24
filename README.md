@@ -212,9 +212,6 @@
 ***⌨️ Keychron Q1 HE — 75% tri-mode layout (wired/2.4GHz/BT). Gateron Double-Rail Magnetic/Nebula switches. 1000Hz polling rate (wired/2.4GHz). 0.2ms-1ms input latency (manufacturer/test variance). rapid trigger (0.1mm sensitivity). adjustable actuation (0.2mm–3.8mm). full CNC aluminum body/double-gasket mount (1.7kg weight). PBT keycaps/QMK/VIA software; premium build quality but restricted to 1KHz speed. (≈$180–$220)***
 
 
-***⌨️ SteelSeries Apex Pro Gen 3 — Full-size (100%) wired layout. OmniPoint 3.0 HyperMagnetic switches. 1000Hz polling rate. ~16KHz scan rate (implied by latency). 0.7ms mechanical response time. dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). aluminum alloy top plate. Double-shot PBT keycaps/OLED screen/wrist rest; feature-rich, large-format HE keyboard, restricted to 1KHz speed. (≈$200–$250)***
-
-
 ***⌨️ DrunkDeer A75 (Base) — 75% wired layout. RAESHA V1 Magnetic switches. 1000Hz polling rate. ~16KHz scan rate (implied by specs). 1ms input latency. rapid trigger (0.1mm adjustable precision). adjustable actuation (0.2mm–3.8mm). ABS chassis/Series 5000 metal plate. EVA foam/case foam dampening. ABS/PBT keycaps. Web-based software (RT/Analog Mode/DKS support); original HE feature set but limited to 1KHz speed. (≈$80–$120)***
 
 
@@ -227,11 +224,7 @@
 ***⌨️ Royal Kludge C98 HE — 96% wired layout with numpad and knob. RK Magnetic switches. 8000Hz polling rate. 64KHz key scanning frequency. 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Triple-Layer sound dampening. Cherry profile PBT keycaps. Web-based driver (DKS/MT/TGL/SOCD support); elite budget speed performance in a near-full-size format. (≈$90–$120)***
 
 
-
 ***⌨️ Endgame Gear KB65HE (Base) — 65% wired layout. Gateron KS-37B Hall Effect switches. 1000Hz polling rate. ~16KHz scan rate (implied by specs). ~1ms input latency. rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). full CNC Aluminum case. Silicone dampening. Double-shot PBT keycaps. Software/Driver (RT/Actuation support); premium build quality restricted to 1KHz speed. (≈$150–$200)***
-
-
-***⌨️ Razer Huntsman V3 Pro — Full-size/TKL wired layout. Razer Analog Optical Switches Gen 2. 8000Hz polling rate. ~8000Hz Synchronized Key Scan Rate (implied by 0.58ms response). 0.58ms input latency (manufacturer quoted at 8KHz). dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). 5052 Brushed Aluminum Alloy Top Case. Doubleshot PBT keycaps. Razer Synapse/On-board adjustment (Snap Tap/Analog Mode/Quick RT/Actuation adjustment support); elite speed from an established brand with unique optical switch technology. (≈$219–$249)***
 
 
 ***⌨️ MechLands M75 — 75% wired layout with knob. Outemu Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.128ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–3.5mm). ABS plastic case/Aluminum side plates. Double-shot PBT keycaps. MechLands Driver (DKS, MT, TGL, SOCD support); extreme budget speed performance with high precision features. (≈$59–$79)***
@@ -242,7 +235,6 @@
 
 ***⌨️ DAREU A75 HE — 75% wired layout with volume knob. Gateron Jade Pro/Sky Magnetic switches. 8000Hz polling rate. ~32KHz scan rate (implied by latency). 0.125ms input latency. rapid trigger (0.02mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC Aluminum chassis/Gasket Mount structure. Ceramic keycaps. DAREU Driver (DKS/SOCD/Three Preset Modes support); elite speed and high precision in a premium aluminum chassis. (≈$170–$200)***
 
-***⌨️ Razer Huntsman Mini — 60% wired layout. Razer™ 2nd Gen Linear Optical Switches. 1000Hz Polling Rate (1ms latency). Actuation Point: 1.2 mm. Actuation Force: 40 G. PBT Doubleshot Keycaps with side-printed secondary functions. Aluminum Top Plate/Plastic Base. Connection: Detachable USB-C Cable. Hybrid Onboard Storage (up to 5 profiles); a minimalist, lightning-fast board built for maximum mouse space and portability in tournaments. (≈$80 – $130)***
 
 
 
@@ -250,6 +242,14 @@
 
 
 ***⌨️ MADLIONS MAD60HE (Flagship) — 60% wired layout. MADLIONS Magnetic/Amber Pro switches. 8000Hz polling rate. 16KHz/32KHz scan rate (128KHz on higher-end variants). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). ABS plastic/Aluminum plate. Web-based software (Full Analog, SOCD, DKS, MT support); extreme budget competitive speed and precision. (≈$49–$80)***
+
+***⌨️ Razer Huntsman Mini — 60% wired layout. Razer™ 2nd Gen Linear Optical Switches. 1000Hz Polling Rate (1ms latency). Actuation Point: 1.2 mm. Actuation Force: 40 G. PBT Doubleshot Keycaps with side-printed secondary functions. Aluminum Top Plate/Plastic Base. Connection: Detachable USB-C Cable. Hybrid Onboard Storage (up to 5 profiles); a minimalist, lightning-fast board built for maximum mouse space and portability in tournaments. (≈$80 – $130)***
+
+***⌨️ Razer Huntsman V3 Pro — Full-size/TKL wired layout. Razer Analog Optical Switches Gen 2. 8000Hz polling rate. ~8000Hz Synchronized Key Scan Rate (implied by 0.58ms response). 0.58ms input latency (manufacturer quoted at 8KHz). dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). 5052 Brushed Aluminum Alloy Top Case. Doubleshot PBT keycaps. Razer Synapse/On-board adjustment (Snap Tap/Analog Mode/Quick RT/Actuation adjustment support); elite speed from an established brand with unique optical switch technology. (≈$219–$249)***
+
+***⌨️ SteelSeries Apex Pro Gen 3 — Full-size (100%) wired layout. OmniPoint 3.0 HyperMagnetic switches. 1000Hz polling rate. ~16KHz scan rate (implied by latency). 0.7ms mechanical response time. dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). aluminum alloy top plate. Double-shot PBT keycaps/OLED screen/wrist rest; feature-rich, large-format HE keyboard, restricted to 1KHz speed. (≈$200–$250)***
+
+***⌨️ SteelSeries Apex Pro Gen 3 — Full-size (100%) wired layout. OmniPoint 3.0 HyperMagnetic switches. 1000Hz polling rate. ~16KHz scan rate (implied by latency). 0.7ms mechanical response time. dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). aluminum alloy top plate. Double-shot PBT keycaps/OLED screen/wrist rest; feature-rich, large-format HE keyboard, restricted to 1KHz speed. (≈$200–$250)***
 
 
 
