@@ -3,7 +3,7 @@
 
 # **About Tiers: In each group (like S Tier), the order doesn't mean one is better. For example, the GAMAKAY TK75HE V2 at the top is about the same as the QwertyKeys x ATK Hex80 in the middle or end.** 
 # **They're all good quality for keyboards, mice, or headphones. Pick what fits your needs, money, and use.**
-# **If you want to search you're equipment click Ctrl + F then search it up
+# **If you want to search you're equipment click Ctrl + F then search it up**
 
 
 
