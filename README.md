@@ -30,7 +30,6 @@
 
 ***⌨️ IPI QBZ65 — Compact 65% Layout. Switches: IPI/Gateron "Northgard" Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate: Dual 8K Core Processing (High-speed scanning). Rapid Trigger (RT) Range: 0.01mm to 3.4mm (Adjustable in 0.01mm increments). Connectivity: Wired USB-C (Strictly for eSports latency). Chassis: 205-Mesh Anodized CNC Aluminum Case with Patented Quick-Disassembly. (≈$95 – $125)***
 
-***⌨️ GATERON FORT68 Sakura HE — Layout: 68-Key Pre-Assembled with Patented Tri-Split Modular Spacebar (Interchangeable with 6.25u). Switches: Gateron Magnetic Jade Sakura (22mm Long Spring, Enhanced Rebound, 3.0 Light Zone Effect). Processing: AVKE "Primordial Algorithm" with 18 Control Chips ("18 Masteries Unleashed"). RT Resolution: 0.01mm (Full Range) with Ultimate Precision of 0.001. Latency: <0.125 ms (Millisecond Acuity). Features: Kaleidoscope-Inspired Optical System, Nano-Shield Waterproofing, Drawer-Style Dual-Layer Presentation Box. (≈$220 – $250)***
 
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
@@ -52,6 +51,8 @@
 
 ***⌨️ Chilkey Slice68 HE — 68% magnetic hall-effect, 1.7ms latency (0.1ms delay), 8000Hz polling, rapid trigger (0.005mm), adjustable actuation (0.01-3.3mm), hot-swap PCB, CNC aluminum case, web driver software; premium compact performance with dynamic keystroke. (200$)***
 
+***⌨️ GATERON x Sikakeyb FORT68 Sakura HE — 65% Layout. Gateron Magnetic Jade "Sakura" Switches (Dual-Rail). 8k polling rate. <0.125ms latency. 0.01mm RT resolution. Tri-Split Spacebar Module. CNC "Openwork" Aluminum Chassis. Gasket Mount. Web Driver. (≈$219)***
+
 
 ***⌨️ ATK 68 V3 HE — 65% wired layout. Jadalon Magnetic Jade Shaft Pro (Gateron) switches. 8000Hz polling rate. 256KHz scan rate. 0.08ms input latency. rapid trigger (0.001mm precision). adjustable actuation (0.005mm–3.3mm). full CNC aluminum case/aluminum plate. PBT/PC keycaps. ATK HUB software (RT/DKS/MT support); ultra-precise and high-end competitive build. (≈$109–$149)***
 
@@ -69,6 +70,10 @@
 ***⌨️ SKYLOONG GK68HE — 65% wired layout. SKYLOONG/Gateron Jade Pro/TTC Maneto magnetic switches. 8000Hz polling rate. 8000Hz synchronized key scan rate (Pro version has 256KHz reporting). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). ABS/Optional CNC Aluminum case. Plateless design. PBT keycaps. Web/Software driver (DKS/TGL/MT/SOCD support); elite speed and high precision with advanced competitive features. (≈$80–$160)***
 
 ***⌨️ NuPhy WH80 — 80% magnetic hall-effect, 1.4ms wired latency (1.7ms wireless), 8000Hz polling (2.4G/wired), rapid trigger (0.005mm), hot-swap PCB, aluminum alloy case + gasket mount, PBT keycaps; premium wireless HE with high-profile switches. (230-250$)***
+
+***⌨️ IQUNIX EZ63 HE — 60% with arrow keys (64-key layout). Gateron Star Trail magnetic hall-effect switches. 8000Hz polling rate. 0.125ms input latency. rapid trigger (0.01mm sensitivity). adjustable actuation (0.1mm-3.3mm). full aluminum case. gasket mount. web-based software (SOCD/DKS/MT support); ultimate wired competitive performance with arrows. (≈$189)***
+
+***⌨️ IQUNIX EZ80 HE — TKL (80%) layout. Gateron Magnetic HE switches. 8000Hz polling rate. 0.125ms input latency. rapid trigger (0.01mm sensitivity). adjustable actuation (0.1mm-3.3mm). full aluminum case. gasket mount. web-based software (SOCD/DKS/MT support); ultimate wired competitive performance in a larger frame. (250-300$)***
 
 
 # ***🟧 S Tier (excellent, not absolute best)***
