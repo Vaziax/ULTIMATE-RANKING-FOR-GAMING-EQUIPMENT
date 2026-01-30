@@ -35,6 +35,8 @@
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
+***⌨️ LUMINKEY Magger60 HE — 60% Layout (GH60 Compatible). LUMINKEY "Magger" Dual-Rail Magnetic Switches (Gateron Structure). 8k polling rate. 48k scan rate. 0.08ms latency (Claimed). 0.005mm RT resolution. 0.1mm–3.5mm actuation. CNC 6063 Aluminum chassis. Mag-Sync Gasket Mount. FR4/Aluminum Plate. Poron/Silicone dampening. LUMINKEY Web Driver. (≈$149–$169)***
+
 ***⌨️ IPI Aurora75 HE — 75% wired layout. Custom IPI Thunder Magnetic switches. 8000Hz polling rate. 128KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC Aluminum case. Multi-layer dampening (Silicone/Poron/IXPE). PBT transparent keycaps. Software/Driver (DKS/SOCD/MT support); elite speed and ultimate precision in a premium, custom-grade aluminum chassis. (≈$110)***
 
 ***⌨️ MONSGEEK M1 V5 HE — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: Hall Effect (HE). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.500mm. Actuation Range: 0.100mm - 3.300mm. Chassis: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), RT Stabilizer, Demagnetized Plate-mounted Stabilizers. Connectivity: Tri-Mode (8K Wired/Wireless). (≈$120 – $140)***
@@ -361,14 +363,15 @@
 
 ***🖱️ Finalmouse ULX Prophecy — Symmetrical/Ambidextrous shape. EXTREME ULTRALIGHT 38g (Classic size) Carbon Fiber Composite Chassis (Solid sides, perforated base). Sensor: Latest-Gen PixArt Sensor (Customized PMW3395 variant, high IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included Dual-Chip Receiver. Switches: Custom Superbinned Huano Blue Shell Mechanical (Ultralight click tensioning system). Connectivity: Finalmouse Highspeed Wireless (2.4 GHz) & USB-C Wired. Battery: Up to 2 months intermittent use (Heavily dependent on 8KHz usage); the undisputed lightest, fastest, and most advanced mouse on the market. (Original Price: ~$189. Resale Price: Highly variable, often $220-$400+)***
 
+***🖱️ Endgame Gear OP1 8K — Small, right-handed/ambidextrous shape (118.2x60.5x37.2mm). ULTRALIGHT 50.5g Plastic Shell (Dry Grip Coating). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Exceptionally low click latency). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); a surgical, high-speed wired mouse optimized for claw grip and professional competitive play. (≈$75 – $89)***
+
 
 # 
 
 # ***🟧 S Tier (excellent, not absolute best)***
 
+***🖱️ Akko Nest — Ergonomic (Small-Medium). PixArt PAW3950 Sensor. 8k Polling Rate (Wired & Wireless). Nordic 52840+52820 Dual-Chip. 49g Ultra-lightweight. Omron 100M Switches. 250mAh Battery. PTFE Skates. Akko Cloud Driver. (≈$59–$65)***
 
-
-***🖱️ Endgame Gear OP1 8K — Small, right-handed/ambidextrous shape (118.2x60.5x37.2mm). ULTRALIGHT 50.5g Plastic Shell (Dry Grip Coating). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Exceptionally low click latency). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); a surgical, high-speed wired mouse optimized for claw grip and professional competitive play. (≈$75 – $89)***
 
 ***Incott G23 — Symmetrical/Ambidextrous shape (120x63.5x40mm, similar to the GPX). ULTRALIGHT 49g Plastic Shell (Solid/No holes). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8KHz Receiver. Switches: Kailh GM 8.0 Black Mamba Mechanical (80M rated) or Huano Blue Shell Pink Dot (varies by batch). Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 500mAh (High capacity for extended play); a phenomenal value mouse delivering elite performance metrics for competitive players. (≈$50 – $75)***
 
