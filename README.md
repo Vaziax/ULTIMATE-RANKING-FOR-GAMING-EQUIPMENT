@@ -348,6 +348,8 @@
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
 
+***🖱️ EWEADN Z7 — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. 8k Polling Rate (Wired & Wireless). Nordic 54L15 MCU. 49g Composite Carbon Fiber shell. Omron Optical Switches. 500mAh Battery. Nano Ice Skin Coating. Web Driver. (≈$55–$70)***
+
 
 ***🖱️ RAWM Leviathan V4 — Large Symmetrical shape (126.7 x 63.9 x 40mm, similar profile to the Razer Viper V3 Pro). ULTRALIGHT 55g Plastic Shell (Solid/No holes, Thermo-Sensitive Coating). Sensor: PixArt PAW3950 (up to 45000 DPI, 750 IPS). MCU: Nordic nRF54L15 (Next-Gen High-Efficiency Chip). Polling Rate: Native Dual 8000Hz Wireless (0.125ms latency) via included 8K Receiver. Switches: TTC Optical Switches (100M rated). Encoder: RAESHA Gen 3 Optical Encoder. Connectivity: Dual-Mode (2.4GHz Wireless, Wired USB-C). Battery: Up to 150 hours (Standard usage). (≈$85 – $100)***
 
