@@ -205,6 +205,8 @@
 
 # ***🟨 A Tier (budget/mid-focused)***
 
+***⌨️ Gamakay x NaughShark NS75 — 75% Layout (83 Keys + Knob). Gamakay Phoenix / Outemu White Jade Magnetic Switches. 8k polling rate. 16k scan rate. 0.06ms latency (Claimed/Theoretical). 0.005mm RT resolution. 0.1mm–3.5mm actuation. Translucent Polycarbonate (PC) / ABS chassis. Gasket Mount structure. PC Plate. Silicone/EVA dampening. Gamakay Web Driver. (≈$79–$99)***
+
 
 
 ***⌨️ NJ80-CP V2 HE — 75% aluminum gasket-mount chassis/FR4 plate/hot-swappable magnetic Hall Effect switches (0.1–4.0mm actuation/Rapid Trigger), south-facing per-key RGB LEDs/gasket dampening/PBT keycaps; wired USB-C for PC (pre-built or kit options). (≈120–170$)***
