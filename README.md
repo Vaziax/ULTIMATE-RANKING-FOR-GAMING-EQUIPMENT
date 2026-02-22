@@ -81,6 +81,8 @@
 
 # ***🟧 S Tier (excellent, not absolute best)***
 
+***⌨️ Akko MOD68 HE — 65% Layout. Akko AstroAim Magnetic Switches (Cross-compatible). 8k polling rate (Wired/Wireless). 16k scan rate. 0.125ms latency (Theoretical). 0.005mm RT resolution. 0.1mm–3.4mm actuation. Full CNC Aluminum chassis. Gasket Mount. 10,000mAh Battery (Wireless config). Snap Key (SOCD). Akko Web Driver. (≈$69–$115)***
+
 
 ***⌨️ IQUNIX EZ60 HE — 60% compact layout. Gateron Star Trail magnetic hall-effect switches. 8000Hz polling rate. 0.125ms input latency. rapid trigger (0.01mm sensitivity). adjustable actuation (0.1mm-3.3mm). full aluminum case. gasket mount. web-based software (SOCD/DKS/MT support); ultimate wired competitive performance. (≈$189)***
 
