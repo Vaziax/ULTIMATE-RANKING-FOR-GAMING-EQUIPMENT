@@ -354,6 +354,8 @@
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
 
+***🖱️ ATK Blazing Sky GHOST — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. Nordic 54L15 / 54H20 MCU. True 8,000Hz Polling. 48g Hollow Carbon Fiber Composite shell. ATK Lightblade Mechanical / Optical Switches. 300mAh Battery. Nano Coating. ATK Hub Software. (≈$110–$130)***
+
 ***🖱️ EWEADN Z7 — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. 8k Polling Rate (Wired & Wireless). Nordic 54L15 MCU. 49g Composite Carbon Fiber shell. Omron Optical Switches. 500mAh Battery. Nano Ice Skin Coating. Web Driver. (≈$55–$70)***
 
 ***🖱️ Akko Dash Ultra — Symmetrical Shape (Small/Medium). PixArt PAW3950 Sensor (42k DPI Overclocked). Nordic nRF54L15 MCU. 8,000Hz Polling (Native 2.4G & Wired). 40g weight. Omron Optical / Akko Custom Optical Switches. 300mAh Battery. EDM Polymer Finish. Tri-Mode (8k Wireless). (≈$59–$69)***
