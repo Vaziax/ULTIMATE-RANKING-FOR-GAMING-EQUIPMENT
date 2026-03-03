@@ -340,6 +340,8 @@
 
 ***🖱️ Orbitalworks Pathfinder — Modular wireless chassis (3000+ configs). PixArt PAW3950DM sensor (30K DPI). 8000Hz wireless polling. 0.4ms click latency. Omron Optical switches. 52–55g weight. 300mAh battery. multiple premium skates included (PTFE/Obsidian); ultimate customizable competitive shape and performance. (≈$189)***
 
+***🖱️ Logitech G PRO X2 Superstrike — Symmetrical Shape. HERO 2 Sensor (44k DPI). Haptic Inductive Trigger System (HITS). 8k Polling Rate (Wireless). 60g–61g weight. Inductive Analog Switches (10 levels of actuation). 90-hour Battery (1k) / ~30h (8k). G HUB Cloud Driver. (≈$180)***
+
 ***🖱️ WLMouse Beast X Pro — Symmetrical, medium-sized wireless mouse (122x62x37mm). ULTRALIGHT 39g Magnesium Alloy Shell. Sensor: PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 300mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the pinnacle of lightweight performance, prioritizing raw speed and durability through advanced materials. (≈$145 – $155)***
 
 ***🖱️ WLMouse Beast Miao — Ultra-compact symmetrical shape (91x55x34mm). ULTRALIGHT 31g Magnesium Alloy Shell. Sensor: PixArt PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 220mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the pinnacle of lightweight agility, built for the fastest micro-adjustments and fingertip control. (≈$145 – $155)***
