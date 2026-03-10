@@ -104,11 +104,9 @@
 
 ***⌨️ QwertyKeys x ATK Hex80 — TKL/80% wired layout. Owlab Ti HE Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.08ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.1mm–4.0mm). full CNC 6063 aluminum case/PVD weight. Gasket mount/Carbon Fiber plate. ATK HUB software (RT/RS/DKS/SOCD support); ultimate competitive performance in a premium TKL chassis. (≈$249)***
 
-
-
 ***⌨️ MORKBLADE MK60 — 60% wired layout. AULA Custom Ice King Magnetic switches. 8000Hz polling rate. 2304K/256K scan rate (with Dual MCU/Direct ADC). 0.08ms input latency. ultra-dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Carbon Fiber plate/Gasket structure. 5-layer internal dampening. PC/PBT keycaps. Web-based driver (SOCD, DKS, Analog Mode support); ultimate speed, precision, and a heavy, premium build. (≈$220–$250)***
 
-
+***⌨️ VGN Neon 75 HE+ — 75% Layout (81 Keys). TTC Elf King Magnetic Switches. 8k Polling Rate (Wired). 32k Full-Key Scan Rate. ~0.1ms latency (Claimed). 0.005mm RT resolution. 0.1mm–3.8mm actuation. Plastic Chassis. Gasket Mount. 5-Layer Acoustic Dampening. RGB + Neon Side Light Bar. VGN Hub Web Driver. (≈$90–$100)***
 
 ***⌨️ EWEADN DEEP68 HE — 65% wired layout. Gateron Magnetic Pole/Pro switches. 8000Hz polling rate. 128KHz scan rate. 0.1ms input latency. rapid trigger (0.01mm global accuracy). adjustable actuation (0.1mm–4.0mm). aluminum alloy plate (5-layer dampening). PBT keycaps. Web/Software driver (SOCD/DKS/MT support); elite budget competitive performance. (≈$70-80)***
 
