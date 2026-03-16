@@ -332,6 +332,8 @@
 
 # ***⬜ SSS Tier (Absolute best of the best)***
 
+***🖱️ WLMOUSE Ying MG — Symmetrical Shape (OP1-inspired). PixArt PAW3950HS Sensor. Nordic nRF52840 MCU. 8k Polling Rate (Wireless). 47g Weight. Omron Optical / Custom TTC Nihil Switches. 220mAh Battery. Solid Magnesium Alloy Exoskeleton. Web-Based Configurator. (≈$139)***
+
 ***🖱️ WLMouse Beast X Max — Large, symmetrical shape (126x65x39mm). ULTRALIGHT 42g Magnesium Alloy Shell (plus ABS bottom). Sensor: PixArt PAW3950 HS (up to 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 300mAh (Roughly 2 days of heavy use at 8KHz); the lightest large mouse on the market, achieving maximum speed in a big mouse format. (≈$145 – $155)***
 
 ***🖱️ Lamzu Maya X — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. ≈0.5ms click latency. Lamzu Custom Omron Optical switches. 47g weight. Nordic 52840 MCU. 2.4G wireless/wired. 8K dongle included; absolute peak wireless competitive performance. (≈$140)***
@@ -349,6 +351,8 @@
 ***🖱️ MCHOSE A7X Ultra — Ergonomic right-handed shape (125.7x63.2x39.8mm, similar to the DeathAdder/GPX hybrid). ULTRALIGHT 53g Magnesium Alloy Shell. Sensor: PixArt PAW3950 TI Flagship Sensor (up to 42000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Wireless Accelerator. Switches: Omron Optical Micro Switches (70M rated). Connectivity: Tri-Mode (2.4GHz Wireless, Bluetooth, USB-C Wired). Battery: 500mAh (High capacity for extended play); a phenomenal, complete package that includes glass skates and a premium carry case. (≈$90 – $120)***
 
 ***🖱️ WLMOUSE HUAN — Compact Symmetrical Shape (116 x 61 x 38mm, Viper Mini inspired). WEIGHT: 48g (Solid Magnesium Alloy Shell). Sensor: PixArt PAW3950 HS (Flagship, optimized for high speed). MCU: Nordic nRF54H20 (Next-Gen High-Efficiency Chip). Polling Rate: Native 8000Hz Wireless & Wired (0.125ms latency) via included Smart Screen Dongle. Switches: Omron Optical Switches (Crisp, instant actuation). Encoder: TTC Dust-Proof Silver. Battery: 300mAh. Connectivity: Dual-Mode (2.4GHz Wireless, Wired). (≈$155)***
+
+***🖱️ Endgame Gear OP1 8K V2 — Small, ambidextrous/right-handed shape (118x60.5x37.2mm). ULTRALIGHT 49.5g Plastic Shell (Dry Grip Coating). Sensor: Custom PixArt PAW3950 U+1F95A (up to 30000 DPI, 750 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Industry-leading low click latency: <70μs). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); the ultimate wired mouse for claw grip users who demand mathematically minimal input delay. (≈$89 – $99)***
 
 
 
@@ -370,7 +374,6 @@
 
 ***🖱️ Razer DeathAdder V4 Pro — Iconic ergonomic right-handed shape. ULTRALIGHT 56g Plastic Shell. Sensor: Razer™ Focus Pro 45K Optical Sensor Gen-2 (45000 DPI, 900 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via HyperPolling Dongle. Switches: Razer™ Optical Mouse Switches Gen-4 (100M click rating). Optical Scroll Wheel Encoder. Connectivity: HyperSpeed Wireless (2.4 GHz) & USB-C Wired. Battery: Up to 150 hours (at 1000Hz) / 22 hours (at 8000Hz); the ultimate ergonomic mouse for palm/claw grip users who require the fastest technology. (≈$169 – $179)***
 
-***🖱️ Endgame Gear OP1 8K V2 — Small, ambidextrous/right-handed shape (118x60.5x37.2mm). ULTRALIGHT 49.5g Plastic Shell (Dry Grip Coating). Sensor: Custom PixArt PAW3950 U+1F95A (up to 30000 DPI, 750 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Industry-leading low click latency: <70μs). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); the ultimate wired mouse for claw grip users who demand mathematically minimal input delay. (≈$89 – $99)***
 
 ***🖱️ Scyrox V6 — Small/Medium symmetrical shape (119x61x40mm, pronounced center hump). ULTRALIGHT 40g Plastic Shell (Solid/No holes). Sensor: PixArt PAW3950 (up to 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8KHz Wireless Receiver. Switches: Omron Optical Switches. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 250mAh (Very short battery life at 8KHz in "Competitive Mode"); a perfect mix of extreme speed, elite weight, and value for claw grip users. (≈$65 – $70)***
 
