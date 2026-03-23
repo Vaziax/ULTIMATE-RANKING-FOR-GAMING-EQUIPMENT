@@ -1,4 +1,4 @@
-# **Disclaimer**
+q# **Disclaimer**
 
 
 # **About Tiers: In each group (like S Tier), the order doesn't mean one is better. For example, the GAMAKAY TK75HE V2 at the top is about the same as the QwertyKeys x ATK Hex80 in the middle or end.** 
@@ -17,10 +17,6 @@
 
 ***⌨️ MONSGEEK M1 V5 TMR — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: TMR (Tunneling Magnetoresistance). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.00mm. Actuation Range: 0.1mm - 3.3mm. Hardware: Arm Cortex-M4 + 15 Dedicated Logic ICs. Case: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), Mod-Tap, TGL, Dynamic Keystroke, RT Stabilizer, Demagnetized Plate-mounted Stabilizers. (≈$140 – $170)*** 
 
-***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
-
-***⌨️ Everglide AE68 Pro — 65% Layout (68 Keys). Everglide Siren / Wukong Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate. ~0.09ms latency (Claimed). 0.001mm RT resolution. Exclusive "ADC Direct Connect" for WASD. Built-in Temperature Sensor (Thermal Drift Comp). 6063 CNC Aluminum (or ABS) chassis. Carbon Fiber / Aluminum Plate. Dual-LED RGB (184 LEDs total) w/ 360° Halo Ring. SOCD Support. (≈$75 for ABS, ≈$169 for Aluminum)***
-
 ***⌨️ AKKO MOD 007 V5 HE — 75% wired layout with knob and screen. Akko AstroAim Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.125ms input latency (implied by 8KHz). ultra-dynamic rapid trigger (0.005mm adjustable precision). adjustable actuation (0.1mm–3.4mm, 0.005mm steps). Full CNC Aluminum case/Gasket Mount structure. Poron/IXPE/PET/Case Foam dampening. PBT Double-shot keycaps. Web/Cloud Driver (Snap Key [SOCD], DKS, RT Stabilizer support); ultimate speed and precision in a heavy, premium CNC aluminum chassis. (≈$180–$250)***
 
 ***⌨️ WLMOUSE Ying63 — 60% (64-key) wired layout. Gateron Magnetic Jade Pro switches. 8000Hz polling rate. ~32KHz scan rate (implied by specs). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Full CNC Forged Carbon Fiber case. Gasket Mount structure/Aluminum plate. Poron and Silicone dampening. Web-based WL software (RTMC/SOCD support); ultimate speed and precision in an extremely unique, ultra-premium carbon fiber chassis. (≈$259–$280)***
@@ -36,6 +32,10 @@
 
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
+
+***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
+
+***⌨️ Everglide AE68 Pro — 65% Layout (68 Keys). Everglide Siren / Wukong Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate. ~0.09ms latency (Claimed). 0.001mm RT resolution. Exclusive "ADC Direct Connect" for WASD. Built-in Temperature Sensor (Thermal Drift Comp). 6063 CNC Aluminum (or ABS) chassis. Carbon Fiber / Aluminum Plate. Dual-LED RGB (184 LEDs total) w/ 360° Halo Ring. SOCD Support. (≈$75 for ABS, ≈$169 for Aluminum)***
 
 ***⌨️ LUMINKEY Magger60 HE — 60% Layout (GH60 Compatible). LUMINKEY "Magger" Dual-Rail Magnetic Switches (Gateron Structure). 8k polling rate. 48k scan rate. 0.08ms latency (Claimed). 0.005mm RT resolution. 0.1mm–3.5mm actuation. CNC 6063 Aluminum chassis. Mag-Sync Gasket Mount. FR4/Aluminum Plate. Poron/Silicone dampening. LUMINKEY Web Driver. (≈$149–$169)***
 
