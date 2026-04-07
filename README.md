@@ -87,6 +87,8 @@ q# **Disclaimer**
 
 # ***🟧 S Tier (excellent, not absolute best)***
 
+***⌨️ Akko 5075 V3 HE — 75% Layout (82 Keys). Akko AstroAim Magnetic Switches. 8k Polling Rate (Wired/Wireless). 16k Scan Rate. 0.125ms Latency (Theoretical). 0.005mm RT resolution. 0.1mm–3.3mm actuation. ABS Plastic Chassis. Gasket Mount. 10,000mAh Battery (Wireless config). ARGB Lighting. Akko Web Driver (w/ SOCD). (≈$60–$80)***
+
 ***⌨️ Akko MOD68 HE — 65% Layout. Akko AstroAim Magnetic Switches (Cross-compatible). 8k polling rate (Wired/Wireless). 16k scan rate. 0.125ms latency (Theoretical). 0.005mm RT resolution. 0.1mm–3.4mm actuation. Full CNC Aluminum chassis. Gasket Mount. 10,000mAh Battery (Wireless config). Snap Key (SOCD). Akko Web Driver. (≈$69–$115)***
 
 
