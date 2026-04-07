@@ -82,6 +82,8 @@ q# **Disclaimer**
 
 ***⌨️ IQUNIX EZ80 HE — TKL (80%) layout. Gateron Magnetic HE switches. 8000Hz polling rate. 0.125ms input latency. rapid trigger (0.01mm sensitivity). adjustable actuation (0.1mm-3.3mm). full aluminum case. gasket mount. web-based software (SOCD/DKS/MT support); ultimate wired competitive performance in a larger frame. (250-300$)***
 
+***⌨️ GamaKay TK75 TMR — 75% Layout (81 Keys). TMR (Tunnel Magnetoresistance) Sensors. 8k Polling Rate (Wired/Wireless). ~0.06ms Latency (Claimed). 0.01mm RT resolution. 0.01mm–3.0mm actuation. Top-Mounted. ABS Plastic Chassis. PBT Cherry Keycaps. 8,000mAh Battery. Tri-Mode Connectivity. Hot-Swappable (Magnetic & Mechanical Dual-Support). GamaKay V3 Silent/Linear Switches. Web Driver (w/ SOCD & DKS). (≈$109)***
+
 ***⌨️ AULA AG60 Max — 60% Layout (61 Keys). AULA "Supreme" Magnetic Switches. 8k polling rate. 2,304k scan rate (Claimed/ADC). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.02mm–3.4mm actuation. Full CNC 6063 Aluminum chassis. Gasket Mount. Carbon Fiber Plate. 5-Layer Acoustic dampening. AULA Web Driver. (≈$140–$180)***
 
 
