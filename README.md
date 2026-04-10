@@ -286,6 +286,8 @@ q# **Disclaimer**
 
 ***⌨️ EWEADN DEEP68 HE — 65% wired layout. Gateron Magnetic Pole/Pro switches. 8000Hz polling rate. 128KHz scan rate. 0.1ms input latency. rapid trigger (0.01mm global accuracy). adjustable actuation (0.1mm–4.0mm). aluminum alloy plate (5-layer dampening). PBT keycaps. Web/Software driver (SOCD/DKS/MT support); elite budget competitive performance. (≈$70-80)***
 
+***⌨️ ATK RS7 Air — 75% Layout (81 Keys). ATK Gen-3 Magnetic Switches (Lucidblade / Iceblade). 8k Polling Rate (Wired). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.1mm–3.3mm actuation. Mecha-Style ABS Plastic Case. Aluminum Plate. Gasket Mount (Poron dampening). Frosted Translucent Cherry PC Keycaps. ATK HUB Web Driver (w/ SOCD & DKS). (≈$99)***
+
 ***⌨️ MonsGeek FUN60 Pro — 60% wired layout. Akko Glare Magnetic switches. 8000Hz polling rate. 32KHz sampling rate. 0.125ms input latency. full range rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–3.4mm). ABS plastic case/Aluminum plate. Tray-mount. PBT shine-through keycaps. Web/Software driver (Snap Key/DKS/RT Stabilizer/SOCD support); extreme budget competitive speed and precision in a wired setup. (≈$40–$60)***
 
 ***⌨️ MCHOSE Ace 68 Air — 65% wired layout. Kailh Magnetic God/Mount Tai GT switches. 8000Hz polling rate. 0.08ms input latency. rapid trigger (0.001mm precision). adjustable actuation (0.1mm–3.4mm). aluminum alloy plate/5-layer dampening. PBT keycaps. M HUB software (SOCD/DKS/MT/TGL support); elite budget competitive performance. (≈$79)***
