@@ -33,6 +33,8 @@ q# **Disclaimer**
 
 ***⌨️ IPI QBZ65 — Compact 65% Layout. Switches: IPI/Gateron "Northgard" Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate: Dual 8K Core Processing (High-speed scanning). Rapid Trigger (RT) Range: 0.01mm to 3.4mm (Adjustable in 0.01mm increments). Connectivity: Wired USB-C (Strictly for eSports latency). Chassis: 205-Mesh Anodized CNC Aluminum Case with Patented Quick-Disassembly. (≈$95 – $125)***
 
+***⌨️ Tekkusai x Luminkey Titan75 HE — 75% Layout (81 Keys + Scroll Wheel). Titan Magnetic Switches (Linear). 8k Polling Rate (Wired). 48k Full-Key Scan Rate. ~0.8ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Full 6063 CNC Aluminum Chassis. Gasket Mount (Quick-Release). PC Plate. PBT Keycaps. Proprietary Web Driver (w/ SOCD/Snap Tap). (≈$215)***
+
 
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
