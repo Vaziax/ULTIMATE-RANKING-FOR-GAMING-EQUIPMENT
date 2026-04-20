@@ -286,8 +286,6 @@ q# **Disclaimer**
 # **Budget pick:** (Below 100$)
 
 
-***⌨️ EWEADN DEEP68 HE — 65% wired layout. Gateron Magnetic Pole/Pro switches. 8000Hz polling rate. 128KHz scan rate. 0.1ms input latency. rapid trigger (0.01mm global accuracy). adjustable actuation (0.1mm–4.0mm). aluminum alloy plate (5-layer dampening). PBT keycaps. Web/Software driver (SOCD/DKS/MT support); elite budget competitive performance. (≈$70-80)***
-
 ***⌨️ ATK RS7 Air — 75% Layout (81 Keys). ATK Gen-3 Magnetic Switches (Lucidblade / Iceblade). 8k Polling Rate (Wired). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.1mm–3.3mm actuation. Mecha-Style ABS Plastic Case. Aluminum Plate. Gasket Mount (Poron dampening). Frosted Translucent Cherry PC Keycaps. ATK HUB Web Driver (w/ SOCD & DKS). (≈$99)***
 
 ***⌨️ MonsGeek FUN60 Pro — 60% wired layout. Akko Glare Magnetic switches. 8000Hz polling rate. 32KHz sampling rate. 0.125ms input latency. full range rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–3.4mm). ABS plastic case/Aluminum plate. Tray-mount. PBT shine-through keycaps. Web/Software driver (Snap Key/DKS/RT Stabilizer/SOCD support); extreme budget competitive speed and precision in a wired setup. (≈$40–$60)***
@@ -300,13 +298,15 @@ q# **Disclaimer**
 
 
 
-# **Mid-Range King:** (100$-200$)
+# **Mid-Range pick:** (100$-200$)
 
 
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
 ***⌨️ Everglide SU75 Pro — 75% wired layout. Everglide Siren/Skyline Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.1ms input latency. dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Gasket Mount structure/Carbon Fiber Plate. Multi-layer dampening. Frosted PC/PBT keycaps. Web-based software (DKS/LKP/Snap Click/SOCD support); ultimate speed and precision in a high-end, heavy CNC aluminum chassis. (≈$110)***
+
+***⌨️ MCHOSE Ace 68 GT — 65% Layout (68 Keys). Magnetic Switches (Mount Tai GT / Polaris). 16,000Hz (16k) Polling Rate (Wired). 0.06ms Latency (Claimed). 0.001mm RT resolution. 0.1mm–3.4mm actuation. Full CNC Aluminum Chassis. Carbon Fiber / Aluminum Plate. 5-Layer Acoustic Dampening. Dynamic RGB Light Bar. M HUB Web Driver (w/ SOCD & DKS). (≈$109–$149)***
 
 ***⌨️ MONSGEEK M1 V5 TMR — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: TMR (Tunneling Magnetoresistance). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.00mm. Actuation Range: 0.1mm - 3.3mm. Hardware: Arm Cortex-M4 + 15 Dedicated Logic ICs. Case: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), Mod-Tap, TGL, Dynamic Keystroke, RT Stabilizer, Demagnetized Plate-mounted Stabilizers. (≈$140 – $170)*** 
 
