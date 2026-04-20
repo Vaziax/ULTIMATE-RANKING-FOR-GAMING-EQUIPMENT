@@ -1,4 +1,4 @@
-q# **Disclaimer**
+# **Disclaimer**
 
 
 # **About Tiers: In each group (like S Tier), the order doesn't mean one is better. For example, the GAMAKAY TK75HE V2 at the top is about the same as the QwertyKeys x ATK Hex80 in the middle or end.** 
