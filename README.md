@@ -373,6 +373,8 @@ q# **Disclaimer**
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
 
+***🖱️ Pwnage Ultra Custom Pro Symm 3 — Symmetrical Shape (Modulable). PixArt XERO Sensor (3950-based / 36k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired/Wireless). ~50g Weight. Hot-Swap Switches (3-pin Mech / 5-pin Optical). Adjustable Sensor Position. Swappable Humps/Buttons. Web Driver. (≈$139–$159)***
+
 ***🖱️ ATK Blazing Sky GHOST — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. Nordic 54L15 / 54H20 MCU. True 8,000Hz Polling. 48g Hollow Carbon Fiber Composite shell. ATK Lightblade Mechanical / Optical Switches. 300mAh Battery. Nano Coating. ATK Hub Software. (≈$110–$130)***
 
 ***🖱️ EWEADN Z7 — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. 8k Polling Rate (Wired & Wireless). Nordic 54L15 MCU. 49g Composite Carbon Fiber shell. Omron Optical Switches. 500mAh Battery. Nano Ice Skin Coating. Web Driver. (≈$55–$70)***
