@@ -331,6 +331,8 @@ q# **Disclaimer**
 
 ***⌨️ RAKKA 80 Edge — Layout: 80% TKL (87 Keys). Sensor: High-Sensitivity Hall Effect. Polling Rate: 8000Hz. Scan Rate: 135,000Hz (0.007ms internal interval). RT Accuracy: 0.005mm (Bottom-out) / 0.01mm (General). Resolution: 0.005mm (Smallest detectable change). Latency: 0.19ms average (Tested, including host processing). Switches: GATERON Magnetic Grey Jade PRO. Build: Full Aluminum Case (1.9kg), 6-layer PCB, FR4 Plate, Silicone/Rubber foam filling. Features: Web-based software, SOCD (Snap Tap), 4 Onboard Profiles, Tap Hold, Independent LED Controller. (≈$240 – $300)***
 
+***⌨️ Tekkusai x Luminkey Titan75 HE — 75% Layout (81 Keys + Scroll Wheel). Titan Magnetic Switches (Linear). 8k Polling Rate (Wired). 48k Full-Key Scan Rate. ~0.8ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Full 6063 CNC Aluminum Chassis. Gasket Mount (Quick-Release). PC Plate. PBT Keycaps. Proprietary Web Driver (w/ SOCD/Snap Tap). (≈$215)***
+
 
 # **Software King:**
 
