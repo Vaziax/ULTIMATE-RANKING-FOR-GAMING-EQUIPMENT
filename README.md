@@ -303,6 +303,7 @@
 # **Mid-Range pick:** (100$-200$)
 
 
+***⌨️ ATK RS7 V2 Aluminum — 75% Layout (81 Keys). ATK Gen-3 Blazing Wind Ultra switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate. 0.08ms Latency. 0.001mm RT resolution. Full CNC 6063 Aluminum Chassis (220-mesh anodized). Aluminum/Carbon Fiber Plate. Top/Core-Flex Dual Mount. 6-layer Padding. ATK HUB 3.0. (≈$169–$199)***
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
