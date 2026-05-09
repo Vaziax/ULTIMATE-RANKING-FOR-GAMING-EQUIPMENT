@@ -39,6 +39,8 @@
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
+***⌨️ Lofree Hyzen — 65% Layout (67 Keys). Kailh Nexus Hybrid TMR/Mechanical Switches. 8k Polling Rate (Wired & 2.4GHz). ~0.36ms Latency (Wired). 0.01mm RT resolution. Full CNC Aluminum Chassis. FR4 Plate. Gasket Mount. Dual-Socket (Supports 3/5-pin Mech AND Magnetic). 10,000mAh Battery. Physical Num/F-Row Toggle. (≈$279 MSRP)***
+
 ***⌨️ ATK RS7 Air — 75% Layout (81 Keys). ATK Gen-3 Magnetic Switches (Lucidblade / Iceblade). 8k Polling Rate (Wired). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.1mm–3.3mm actuation. Mecha-Style ABS Plastic Case. Aluminum Plate. Gasket Mount (Poron dampening). Frosted Translucent Cherry PC Keycaps. ATK HUB Web Driver (w/ SOCD & DKS). (≈$99)***
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
@@ -217,11 +219,12 @@
 
 ***⌨️ MelGeek MADE68 Ultra — 65% wired layout. TTC KOM Magnetic switches. 8000Hz polling rate. 16KHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–4.0mm). full CNC Aluminum Alloy Case/Forged Carbon Fiber Side Panels. Gasket Mount structure (4-layer dampening). PBT keycaps. MelGeek HIVE software (Snap Tap/4-in-1 DKS/SOCD support); ultimate speed and precision in a unique, ultra-premium aluminum chassis. (≈$149–$199)***
 
+***⌨️ ATTACK SHARK R85 HE — 75% Layout (79 Keys + Multimedia Knob + Custom Lightbox). Attack Shark Purple Magnetic Switches. 8k Polling Rate (Wired). 256kHz Full-Key Scan Rate. ~0.08ms Latency (Claimed). 0.005mm RT resolution. 0.1mm–3.3mm actuation. ABS Plastic Chassis. Aluminum Plate. Top Mount. 5-Layer Acoustic Dampening. Web Driver (w/ SOCD/Snap Tap). (≈$65–$85)***
+
 
 # ***🟨 A Tier (budget/mid-focused)***
 
 ***⌨️ Gamakay x NaughShark NS75 — 75% Layout (83 Keys + Knob). Gamakay Phoenix / Outemu White Jade Magnetic Switches. 8k polling rate. 16k scan rate. 0.06ms latency (Claimed/Theoretical). 0.005mm RT resolution. 0.1mm–3.5mm actuation. Translucent Polycarbonate (PC) / ABS chassis. Gasket Mount structure. PC Plate. Silicone/EVA dampening. Gamakay Web Driver. (≈$79–$99)***
-
 
 
 ***⌨️ NJ80-CP V2 HE — 75% aluminum gasket-mount chassis/FR4 plate/hot-swappable magnetic Hall Effect switches (0.1–4.0mm actuation/Rapid Trigger), south-facing per-key RGB LEDs/gasket dampening/PBT keycaps; wired USB-C for PC (pre-built or kit options). (≈120–170$)***
@@ -377,6 +380,8 @@
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
+
+***🖱️ ATK Blazing Sky ZERO — Symmetrical Shape (Pulsar X2/MAD R inspired). PixArt PAW3950 Ultra Sensor (42k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wireless). 39g Weight. ATK Custom Optical Switches. TTC Gold Encoder. Translucent Polycarbonate / Solid ABS Shell. ATK HUB Web Driver. (≈$59)***
 
 ***🖱️ Pwnage Ultra Custom Pro Symm 3 — Symmetrical Shape (Modulable). PixArt XERO Sensor (3950-based / 36k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired/Wireless). ~50g Weight. Hot-Swap Switches (3-pin Mech / 5-pin Optical). Adjustable Sensor Position. Swappable Humps/Buttons. Web Driver. (≈$139–$159)***
 
