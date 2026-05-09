@@ -33,14 +33,13 @@
 
 ***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
 
-
 ***⌨️ Tekkusai x Luminkey Titan75 HE — 75% Layout (81 Keys + Scroll Wheel). Titan Magnetic Switches (Linear). 8k Polling Rate (Wired). 48k Full-Key Scan Rate. ~0.8ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Full 6063 CNC Aluminum Chassis. Gasket Mount (Quick-Release). PC Plate. PBT Keycaps. Proprietary Web Driver (w/ SOCD/Snap Tap). (≈$215)***
+
+***⌨️ Lofree Hyzen — 65% Layout (67 Keys). Kailh Nexus Hybrid TMR/Mechanical Switches. 8k Polling Rate (Wired & 2.4GHz). ~0.36ms Latency (Wired). 0.01mm RT resolution. Full CNC Aluminum Chassis. FR4 Plate. Gasket Mount. Dual-Socket (Supports 3/5-pin Mech AND Magnetic). 10,000mAh Battery. Physical Num/F-Row Toggle. (≈$279 MSRP)***
 
 
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
-
-***⌨️ Lofree Hyzen — 65% Layout (67 Keys). Kailh Nexus Hybrid TMR/Mechanical Switches. 8k Polling Rate (Wired & 2.4GHz). ~0.36ms Latency (Wired). 0.01mm RT resolution. Full CNC Aluminum Chassis. FR4 Plate. Gasket Mount. Dual-Socket (Supports 3/5-pin Mech AND Magnetic). 10,000mAh Battery. Physical Num/F-Row Toggle. (≈$279 MSRP)***
 
 ***⌨️ ATK RS7 Air — 75% Layout (81 Keys). ATK Gen-3 Magnetic Switches (Lucidblade / Iceblade). 8k Polling Rate (Wired). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.1mm–3.3mm actuation. Mecha-Style ABS Plastic Case. Aluminum Plate. Gasket Mount (Poron dampening). Frosted Translucent Cherry PC Keycaps. ATK HUB Web Driver (w/ SOCD & DKS). (≈$99)***
 
