@@ -15,6 +15,8 @@
 
 ***⌨️ RAKKA 80 Edge — Layout: 80% TKL (87 Keys). Sensor: High-Sensitivity Hall Effect. Polling Rate: 8000Hz. Scan Rate: 135,000Hz (0.007ms internal interval). RT Accuracy: 0.005mm (Bottom-out) / 0.01mm (General). Resolution: 0.005mm (Smallest detectable change). Latency: 0.19ms average (Tested, including host processing). Switches: GATERON Magnetic Grey Jade PRO. Build: Full Aluminum Case (1.9kg), 6-layer PCB, FR4 Plate, Silicone/Rubber foam filling. Features: Web-based software, SOCD (Snap Tap), 4 Onboard Profiles, Tap Hold, Independent LED Controller. (≈$240 – $300)***
 
+***⌨️ IPI QBZ65 — Compact 65% Layout. Switches: IPI/Gateron "Northgard" Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate: Dual 8K Core Processing (High-speed scanning). Rapid Trigger (RT) Range: 0.01mm to 3.4mm (Adjustable in 0.01mm increments). Connectivity: Wired USB-C (Strictly for eSports latency). Chassis: 205-Mesh Anodized CNC Aluminum Case with Patented Quick-Disassembly. (≈$95 – $125)***
+
 ***⌨️ MONSGEEK M1 V5 TMR — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: TMR (Tunneling Magnetoresistance). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.00mm. Actuation Range: 0.1mm - 3.3mm. Hardware: Arm Cortex-M4 + 15 Dedicated Logic ICs. Case: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), Mod-Tap, TGL, Dynamic Keystroke, RT Stabilizer, Demagnetized Plate-mounted Stabilizers. (≈$140 – $170)*** 
 
 ***⌨️ ATK RS7 V2 Aluminum — 75% Layout (81 Keys). ATK Gen-3 Blazing Wind Ultra switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate. 0.08ms Latency. 0.001mm RT resolution. Full CNC 6063 Aluminum Chassis (220-mesh anodized). Aluminum/Carbon Fiber Plate. Top/Core-Flex Dual Mount. 6-layer Padding. ATK HUB 3.0. (≈$169–$199)***
@@ -31,7 +33,6 @@
 
 ***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
 
-***⌨️ IPI QBZ65 — Compact 65% Layout. Switches: IPI/Gateron "Northgard" Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired Polling Rate (0.125ms latency). Scan Rate: Dual 8K Core Processing (High-speed scanning). Rapid Trigger (RT) Range: 0.01mm to 3.4mm (Adjustable in 0.01mm increments). Connectivity: Wired USB-C (Strictly for eSports latency). Chassis: 205-Mesh Anodized CNC Aluminum Case with Patented Quick-Disassembly. (≈$95 – $125)***
 
 ***⌨️ Tekkusai x Luminkey Titan75 HE — 75% Layout (81 Keys + Scroll Wheel). Titan Magnetic Switches (Linear). 8k Polling Rate (Wired). 48k Full-Key Scan Rate. ~0.8ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Full 6063 CNC Aluminum Chassis. Gasket Mount (Quick-Release). PC Plate. PBT Keycaps. Proprietary Web Driver (w/ SOCD/Snap Tap). (≈$215)***
 
