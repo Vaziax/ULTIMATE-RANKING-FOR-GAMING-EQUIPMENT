@@ -37,6 +37,7 @@
 
 ***⌨️ Lofree Hyzen — 65% Layout (67 Keys). Kailh Nexus Hybrid TMR/Mechanical Switches. 8k Polling Rate (Wired & 2.4GHz). ~0.36ms Latency (Wired). 0.01mm RT resolution. Full CNC Aluminum Chassis. FR4 Plate. Gasket Mount. Dual-Socket (Supports 3/5-pin Mech AND Magnetic). 10,000mAh Battery. Physical Num/F-Row Toggle. (≈$279 MSRP)***
 
+***⌨️ Everglide SU75 Pro — 75% wired layout. Everglide Siren/Skyline Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.1ms input latency. dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Gasket Mount structure/Carbon Fiber Plate. Multi-layer dampening. Frosted PC/PBT keycaps. Web-based software (DKS/LKP/Snap Click/SOCD support); ultimate speed and precision in a high-end, heavy CNC aluminum chassis. (≈$110)***
 
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
@@ -54,9 +55,6 @@
 ***⌨️ MONSGEEK M1 V5 HE — Layout: 75% Gasket-Mounted (82 Keys + Knob). Sensor: Hall Effect (HE). Polling Rate: Universal 8K (Wired & 2.4G Wireless). Internal Scan Rate: 32,000Hz (0.03ms - 0.05ms detection). RT Accuracy: 0.005mm – 2.500mm. Actuation Range: 0.100mm - 3.300mm. Chassis: 6063 CNC Aluminum (2.2kg). Battery: 8000mAh. Features: Snap Key (SOCD), RT Stabilizer, Demagnetized Plate-mounted Stabilizers. Connectivity: Tri-Mode (8K Wired/Wireless). (≈$120 – $140)***
 
 ***⌨️ ATK RS6 Air — Compact 65% Layout (68 keys). Switches: Gateron/ATK Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired (0.125ms latency). Scan Rate: ~32KHz (Elite detection speed). Rapid Trigger (RT) Range: 0.02mm to 3.3mm (Adjustable in 0.01mm steps); supports Dynamic Reset. Connectivity: Wired (USB-C) for maximum speed. Chassis: High-Quality ABS Plastic (Translucent "Air" Design). Keycaps: PBT or Polycarbonate (depending on colorway). (≈$80 – $100)***
-
-
-***⌨️ Everglide SU75 Pro — 75% wired layout. Everglide Siren/Skyline Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.1ms input latency. dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Gasket Mount structure/Carbon Fiber Plate. Multi-layer dampening. Frosted PC/PBT keycaps. Web-based software (DKS/LKP/Snap Click/SOCD support); ultimate speed and precision in a high-end, heavy CNC aluminum chassis. (≈$110)***
 
 
 ***⌨️ Chilkey Slice 75 HE — 75% wired layout. WS Flux/Gateron Jade Pro Magnetic switches. 8000Hz polling rate. 32KHz scan rate. 0.125ms input latency. ultra-dynamic rapid trigger (0.005mm adjustable precision). adjustable actuation (0.005mm–3.3mm). Full CNC Aluminum case/Silicone Bead Gasket Mount. Cork Dampening. PBT Doubleshot keycaps. Chilkey Web Driver (Snappy Tappy, DKS, SOCD support); ultimate precision and speed in a premium, acoustically engineered chassis. (≈$149–$200)***
