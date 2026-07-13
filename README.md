@@ -2,7 +2,7 @@
 
 
 # **About Tiers: In each group (like S Tier), the order doesn't mean one is better. For example, the GAMAKAY TK75HE V2 at the top is about the same as the QwertyKeys x ATK Hex80 in the middle or end.** 
-# **They're all good quality for keyboards, mice, or headphones. Pick what fits your needs, money, and use.**
+# **They're all good quality for keyboards and mices. Pick what fits your needs, money, and use.**
 # **If you want to search you're equipment click Ctrl + F then search it up**
 
 
@@ -515,103 +515,6 @@
 # **Premium Pick:**
 
 ***🖱️ WLMouse Beast X Max — Large, symmetrical shape (126x65x39mm). ULTRALIGHT 42g Magnesium Alloy Shell (plus ABS bottom). Sensor: PixArt PAW3950 HS (up to 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 300mAh (Roughly 2 days of heavy use at 8KHz); the lightest large mouse on the market, achieving maximum speed in a big mouse format. (≈$145 – $155)***
-
-
-
-
-==================================================================================================================================================================
-
-
-# **Headphones/Earphones/IEMs List**
-
-# ***⬜ SSS Tier (Absolute best of the best)***
-
-***🎧 Logitech G PRO X 2 Wireless LIGHTSPEED — Elite-grade closed-back tri-mode wireless headset (345g). Aluminum/Steel Frame, Rotating Hinge. PRO-G 50mm GRAPHENE Drivers. DTS Headphone:X 2.0 (Virtual 7.1). Detachable 6mm Mic with BLUE VO!CE Technology. Tri-Mode Connectivity (LIGHTSPEED 2.4 GHz, Bluetooth, 3.5mm Aux). Battery Life: Up to 50 Hours. G HUB Software (EQ/BLUE VO!CE); the pinnacle of Logitech's competitive audio, delivering unparalleled clarity through Graphene technology. (≈$250 – $280)***
-
-***🎧 Kiwi Ears Quintet (Wired IEM) — High-Resolution wired In-Ear Monitor (IEM). Resin Shell with Metal Faceplate. Quad-Hybrid Drivers (1x DLC Dynamic, 2x Balanced Armature, 1x Planar Magnetic, 1x Piezoelectric Bone Conductor). Total Drivers: 5 per side. Soundstage: Wide and Airy with precise depth. Passive Noise Cancellation (Requires deep seal). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 32Ω. Sound Profile: Balanced U-Shape (natural mids, strong sub-bass, extended, airy treble) focused on technical separation and resolution. (≈$219 – $229)***
-
-***🎧 Tipsy M5 — Universal Fit Quadbrid IEM. Drivers (5 Per Side): 1x 10mm Bone Conduction (Sub-bass tactility), 1x 8mm PU+DLC Dynamic Driver (Bass), 2x Custom Balanced Armatures (Mids/Highs), 1x Planar Magnetic Unit (Ultra-highs). Tuning: Reference/Neutral with Sub-bass boost. Impedance: 20Ω. Sensitivity: 109dB. Weight: 5.3g (3D Printed Resin Shell). Features: Pressure Relief System, Included Dual-Chip USB-C DAC. (≈$399)***
-
-
-# ***🟥 SS Tier (cutting-edge performance + best value, versatile pros)***
-
-***🎧 HyperX Cloud III Wireless — High-tier closed-back wireless headset (330g). Durable Aluminum Frame. Re-engineered, Angled Dynamic 53mm Drivers (64Ω). DTS® Headphone:X® Spatial Audio (Lifetime Activation). Upgraded, Detachable 10mm Noise-Cancelling Mic. 2.4 GHz Wireless (low latency, 20m range). Battery Life: Up to 120 Hours (at 50% volume). NGENUITY Software (EQ/Spatial Audio); combines unmatched endurance and superior comfort with accurate positional audio. (≈$140 – $180)***
-
-
-***🎧 SteelSeries Arctis Nova Pro Wireless — Premium closed-back tri-mode wireless headset (337g). Steel Frame/Aluminum Alloy. Premium Hi-Res Capable Dynamic 40mm Drivers (38Ω). 360° Spatial Audio (Sonar). Retractable ClearCast Gen 2 Mic with AI Noise Cancellation. Dual Connectivity (2.4 GHz Quantum 2.0 Wireless & Bluetooth 5.0). Hot-Swap Infinity Power System (22 hrs per battery, 2 batteries included). Wireless GameDAC Gen 2 (OLED screen, Dual USB inputs, ChatMix, EQ). Lifestyle Features: Active Noise Cancellation (ANC) with Transparency Mode. (≈$350 – $380)***
-
-
-***🎧 Razer BlackShark V2 Pro (2023 Edition) — Elite-grade closed-back tri-mode wireless headset (320g). Steel-Reinforced Headband. Razer™ TriForce Titanium 50mm Drivers (32Ω). THX Spatial Audio. Detachable Razer™ HyperClear Super Wideband Mic (32kHz sampling rate). Dual Connectivity (HyperSpeed 2.4 GHz & Bluetooth 5.2). Battery Life: Up to 70 Hours. On-headset EQ Profiles (Pro-Tuned FPS Presets); the ultimate blend of endurance, lightweight comfort, and best-in-class microphone clarity for esports pros. (≈$200 – $220)***
-
-
-***🎧 Beyerdynamic DT 990 Pro (250 Ohm) — Professional-grade wired open-back studio headphones (250g). Steel Headband, Highly Durable Build. Dynamic Proprietary Drivers (250Ω). Soundstage: Extremely Wide and Natural. NO integrated mic (requires external mic). Required Gear: External Headphone Amplifier/DAC is strongly recommended. Transmission Type: Wired (3m coiled cable). Sound Profile: V-Shaped (prominent sub-bass, recessed mids, sharp treble) with excellent depth gradation; the quintessential open-back headphone for competitive FPS gaming where spatial awareness is paramount. (≈$140 – $180)***
-
-***🎧 Tipsy M3 (Wired IEM) — Professional-grade wired In-Ear Monitor (IEM). Hand-finished Gem-Grade Resin Shell. Triple-Driver Hybrid (1x Dynamic, 2x Balanced Armature). Proprietary Acoustic-Runway Technology (independent physical tubes for bass/mids/highs). Passive Noise Cancellation (-26dB). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 17Ω. Sound Profile: V-Shaped (prominent sub-bass, clean treble) with incredible separation and layering for micro-details. (≈$219 – $397)***
-
-
-# ***🟧 S Tier (excellent, solid performers without fluff)***
-
-
-***🎧 Logitech G PRO X Wireless LIGHTSPEED — Professional-grade closed-back wireless headset (370g). Aluminum/Steel Construction. PRO-G 50mm Hybrid Mesh Drivers. DTS Headphone:X 2.0 (Virtual 7.1 Surround). Detachable 6mm Mic with BLUE VO!CE Technology. LIGHTSPEED 2.4 GHz Wireless (low latency). Battery Life: Up to 20 Hours. G HUB Software (Pro-Tuned EQ/BLUE VO!CE profiles); high-quality wireless audio and communications built for tournament play. (≈$180 – $220)***
-
-***🎧 Padsmith IEM — Competitive-tuned wired In-Ear Monitor (IEM). 3D-Printed Medical-Grade Resin Shell. Dual-Driver Hybrid (1x Titanium-Coated Dynamic Driver, 1x Micro-Planar Transducer). Soundstage: Open with excellent separation. Passive Noise Cancellation (Requires proper seal). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Custom modular cable with swappable 3.5mm/4.4mm plugs). Impedance: 16Ω. Sound Profile: Neutral/Balanced (mild sub-bass, clean mids, smooth, detailed treble) focusing on precision and low fatigue. (≈$119 – $129)***
-
-**🎧 Razer BlackShark V3 X HyperSpeed — Ultra-light wireless gaming headset (270g). Steel-Reinforced Headband. Razer™ TriForce Bio-Cellulose 40mm Drivers (32Ω). THX Spatial Audio. Detachable Razer™ HyperClear Super Wideband Mic (9.9mm). Tri-Mode Connectivity (HyperSpeed 2.4 GHz, Bluetooth, USB-C). Battery Life: Up to 70 Hours. On-headset EQ Profiles; a lightweight, high-endurance headset focusing on core esports performance. (≈$129 – $149)***
-
-# 🏆 Tier Rank (Headphone): A Tier
-
-# ***🟨 A Tier (solid mid-range, good everyday alternatives)***
-
-***🎧 HyperX Cloud II Core Wireless — High-end endurance closed-back wireless headset (335g). Durable Aluminum Frame. Dynamic 53mm Drivers (62Ω Impedance). DTS® Headphone:X® Spatial Audio (Virtual 7.1). Detachable Noise-Cancelling Mic (Bi-directional). 2.4 GHz Wireless Connection. Battery Life: Up to 80 Hours. NGENUITY Software (EQ customization); a market leader in battery life for its price point, delivering reliable competitive audio in an extremely comfortable chassis. (≈$99 – $130)***
-
-***🎧 Beyerdynamic DT 770 Pro (80 Ohm) — Professional-grade wired closed-back studio headphones (270g). Steel Headband, Highly Durable Build. Dynamic Proprietary Drivers (80Ω). Innovative Bass Reflex System. NO integrated mic (requires external mic). Transmission Type: Wired (3m straight cable). Sound Profile: Analytical/V-Shaped (accentuated bass and treble) with exceptional imaging; a legendary, comfortable headphone delivering highly accurate spatial awareness for competitive play. (≈$140 – $180)***
-
-
-***🎧 SteelSeries Arctis Nova 7 Wireless — High-tier closed-back tri-mode wireless headset (322g). Steel Headband, ComfortMAX System. Dynamic 40mm Neodymium Drivers (36Ω). 360° Spatial Audio (Sonar). Retractable ClearCast Gen 2 Mic with AI Noise Cancellation. Dual Connectivity (2.4 GHz Quantum 2.0 Wireless & Bluetooth 5.0). Battery Life: Up to 50+ Hours. ChatMix dial, USB-C Dongle, On-Headset Controls; a feature-rich powerhouse focused on comfort and software-driven audio precision. (≈$180 – $200)***
-
-
-***🎧 Tipsy M1 (Wired IEM) — Mid-tier wired In-Ear Monitor (IEM). Hand-finished Resin Shell. Single Custom 10mm Dynamic Driver (Bamboo Fiber Diaphragm). Total Harmonic Distortion (THD) < 1%. Passive Noise Cancellation (-26dB). NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 24Ω. Sound Profile: Warm, Musical U-Shape (prominent sub-bass, pleasant natural mids, clear highs) with excellent micro-detail; a compelling blend of comfort and natural clarity for gaming and daily listening. (≈$70 – $100)***
-
-
-***🎧 Moondrop Chu 2 (Wired IEM) — Budget-friendly wired In-Ear Monitor (IEM). Durable ZN Alloy Shell. Single 10mm Dynamic Driver (Aluminum-Magnesium Alloy Dome Composite Diaphragm). Low Distortion (THD ≤0.5%). Passive Noise Cancellation. NO integrated mic (requires separate cable/mic). Transmission Type: Wired (Detachable 0.78mm 2-pin cable, 3.5mm termination). Impedance: 18Ω. Sound Profile: Balanced V-Shape (follows VDSF Target Response) with great detail, punchy bass, and clear, extended treble for competitive audio cues. (≈$19 – $25)***
-
-
-
-# ***🟩 B Tier (budget/niche, reliable basics)***
-
-# 
-
-
-
-# ***🟦 C Tier (entry-level basics, no-frills starters)***
-
-
-
-# 🏆 Best Overall Picks (Casual \& Gaming Focus – Relatable for Most Users)
-
-# 
-
-# **Budget King:**
-
-***🎧 HyperX Cloud II Core Wireless — High-end endurance closed-back wireless headset (335g). Durable Aluminum Frame. Dynamic 53mm Drivers (62Ω Impedance). DTS® Headphone:X® Spatial Audio (Virtual 7.1). Detachable Noise-Cancelling Mic (Bi-directional). 2.4 GHz Wireless Connection. Battery Life: Up to 80 Hours. NGENUITY Software (EQ customization); a market leader in battery life for its price point, delivering reliable competitive audio in an extremely comfortable chassis. (≈$99 – $130)***
-
-
-
-# **Mid-Range King:**
-
-
-***🎧 HyperX Cloud III Wireless — High-tier closed-back wireless headset (330g). Durable Aluminum Frame. Re-engineered, Angled Dynamic 53mm Drivers (64Ω). DTS® Headphone:X® Spatial Audio (Lifetime Activation). Upgraded, Detachable 10mm Noise-Cancelling Mic. 2.4 GHz Wireless (low latency, 20m range). Battery Life: Up to 120 Hours (at 50% volume). NGENUITY Software (EQ/Spatial Audio); combines unmatched endurance and superior comfort with accurate positional audio. (≈$140 – $180)***
-
-***🎧 Beyerdynamic DT 990 Pro (250 Ohm) — Professional-grade wired open-back studio headphones (250g). Steel Headband, Highly Durable Build. Dynamic Proprietary Drivers (250Ω). Soundstage: Extremely Wide and Natural. NO integrated mic (requires external mic). Required Gear: External Headphone Amplifier/DAC is strongly recommended. Transmission Type: Wired (3m coiled cable). Sound Profile: V-Shaped (prominent sub-bass, recessed mids, sharp treble) with excellent depth gradation; the quintessential open-back headphone for competitive FPS gaming where spatial awareness is paramount. (≈$140 – $180)***
-
-
-# **Premium Pick:**
-
-
-***🎧 Logitech G PRO X 2 Wireless LIGHTSPEED — Elite-grade closed-back tri-mode wireless headset (345g). Aluminum/Steel Frame, Rotating Hinge. PRO-G 50mm GRAPHENE Drivers. DTS Headphone:X 2.0 (Virtual 7.1). Detachable 6mm Mic with BLUE VO!CE Technology. Tri-Mode Connectivity (LIGHTSPEED 2.4 GHz, Bluetooth, 3.5mm Aux). Battery Life: Up to 50 Hours. G HUB Software (EQ/BLUE VO!CE); the pinnacle of Logitech's competitive audio, delivering unparalleled clarity through Graphene technology. (≈$250 – $280)***
-
-
-
 
 
 
