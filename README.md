@@ -335,6 +335,8 @@
 
 ***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
 
+***⌨️ Everglide AE64 Pro — 60% Layout (64 Keys / GH60 Compatible). Everglide Siren V3 / Wukong / Yao Wang Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.09ms Latency. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC Aluminum Chassis (Hollow Side Accents) or GH60-compatible custom cases. Aluminum, Carbon Fiber, or FR4 Plate. Tray Mount. Wired Only. Dual-LED Matrix (174 LEDs total, Dual North & South Facing RGB). Web-Based Online Driver (w/ SOCD, MT, TGL, and ADC Direct Link). (≈$89–$119)***
+
 
 
 
