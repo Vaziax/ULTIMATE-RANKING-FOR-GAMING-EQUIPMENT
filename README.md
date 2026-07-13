@@ -39,10 +39,20 @@
 
 ***⌨️ Everglide SU75 Pro — 75% wired layout. Everglide Siren/Skyline Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.1ms input latency. dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Gasket Mount structure/Carbon Fiber Plate. Multi-layer dampening. Frosted PC/PBT keycaps. Web-based software (DKS/LKP/Snap Click/SOCD support); ultimate speed and precision in a high-end, heavy CNC aluminum chassis. (≈$110)***
 
+***⌨️ Everglide AE64 Pro — 60% Layout (64 Keys / GH60 Compatible). Everglide Siren V3 / Wukong / Yao Wang Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.09ms Latency. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC Aluminum Chassis (Hollow Side Accents) or GH60-compatible custom cases. Aluminum, Carbon Fiber, or FR4 Plate. Tray Mount. Wired Only. Dual-LED Matrix (174 LEDs total, Dual North & South Facing RGB). Web-Based Online Driver (w/ SOCD, MT, TGL, and ADC Direct Link). (≈$89–$119)***
+
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
+***⌨️ ATK RS6+ Ultra — 65% Layout (68 Keys). ATK Ice Blade Pro Magnetic Switches (Fully Translucent, 35gf). 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency (Claimed) / ~0.28ms End-to-End. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC-Machined Aluminum Case (220-mesh anodized). Gasket Mount. FR4 Gold-Plated Position Plate. 5-Layer Acoustic Padding (Poron, EPDM, & PET). Premium Keycraft PBT Five-Side Dye-Sub Keycaps + 23 Frosted PC Keycaps. ATK HUB Web Driver (w/ SOCD, DKS, & Champion Presets). (≈$149–$179)***
+
+***⌨️ ATK RS6+ — 65% Layout (68 Keys). ATK Snow Blade Pro Magnetic Switches (Linear, 35gf). 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz) in Extreme Mode. ~0.08ms Latency (Claimed) / ~0.28ms End-to-End. 0.001mm RT resolution. 0.01mm–3.5mm actuation. CNC-Machined Aluminum Case (220-mesh anodized). Gasket Mount. Aluminum Plate. 5-Layer Acoustic Padding (Poron & PET). Top-Frosted Translucent PC Keycaps. ATK HUB Web Driver (w/ SOCD & Champion Presets). (≈$110–$130)***
+
+***⌨️ Chilkey SF60 HE — 60% Layout (64 Keys). WS Flux Poseidon Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate. ~0.08ms Latency. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC Aluminum Chassis. Gasket Mount. Aluminum Plate. Wired Only. Aluminum Keycaps (MCAPs) with Infilled Enamel Legends. Chilkey Web Driver (w/ SOCD & DKS). (≈$179)***
+
 ***⌨️ ATK RS7 Air — 75% Layout (81 Keys). ATK Gen-3 Magnetic Switches (Lucidblade / Iceblade). 8k Polling Rate (Wired). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.1mm–3.3mm actuation. Mecha-Style ABS Plastic Case. Aluminum Plate. Gasket Mount (Poron dampening). Frosted Translucent Cherry PC Keycaps. ATK HUB Web Driver (w/ SOCD & DKS). (≈$99)***
+
+***⌨️ IQUNIX EV63 Ghost in the Shell Edition — 60% Layout (64 Keys w/ Arrow Keys). Outemu Star Trail / Custom 3rd-Gen Rail-to-Rail Hall Effect Switches. 8k Polling Rate (Wired). 16k Full-Key Scan Rate. ~0.125ms Latency. 0.005mm RT resolution. 0.1mm–3.4mm actuation. CNC-Machined Aluminum Case (w/ Translucent PC Accents & Custom GitS Carvings). Tray Mount. 5-Layer Acoustic Foam (Poron & PET). IQUNIX EV Software V3 (HyperCore V3 firmware w/ SOCD 2.0, Rappy Snappy, & DKS). (≈$249)***
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
@@ -73,6 +83,8 @@
 
 ***⌨️ Pwnage Zenblade 65 — 65% wired layout. Gateron Jade Pro/Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.125ms input latency. rapid trigger (0.01mm ultra-fine precision). adjustable actuation (0.01mm–3.5mm). full CNC aerospace-grade aluminum chassis. Cherry profile PBT keycaps. Web-based software (SOCD/DKS support); ultimate precision and premium build quality. (≈$219–$249)***
 
+***⌨️ Womier SK61 HE — 60% Layout (61 Keys). Womier Custom Magnetic Switches. Tri-Mode Connectivity (8k Wired / 1k 2.4GHz Wireless / Bluetooth 5.3). 16k Full-Key Scan Rate (16,000Hz). ~0.125ms Latency. 0.005mm RT resolution. 0.1mm–4.0mm actuation (0.005mm increments). Hollowed-Out Aluminum Frame & Plastic Chassis. Gasket Mount. 5-Layer Acoustic Foam. 6,000mAh Battery. South-Facing RGB LEDs. Web-Based Driver (w/ SOCD, DKS, & RS). (≈$119)***
+
 
 ***⌨️ WLMOUSE HUAN63 — 60% magnetic hall-effect, 0.742ms latency, 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), hot-swap PCB, stainless magnesium alloy case, gasket mount, WL software; ultra-light premium performance build. (259–269$)***
 
@@ -88,8 +100,12 @@
 
 ***⌨️ AULA AG60 Max — 60% Layout (61 Keys). AULA "Supreme" Magnetic Switches. 8k polling rate. 2,304k scan rate (Claimed/ADC). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.02mm–3.4mm actuation. Full CNC 6063 Aluminum chassis. Gasket Mount. Carbon Fiber Plate. 5-Layer Acoustic dampening. AULA Web Driver. (≈$140–$180)***
 
+***⌨️ Cerakey Peak60 HE — 60% Layout (61 Keys). Ceramic Magnetic Switches. 8k Polling Rate (Wired). 64k Full-Key Scan Rate (64,000Hz). ~0.125ms Latency. 0.01mm RT resolution. 0.1mm–4.0mm actuation. Full Kiln-Fired Ceramic Case (GH60 Standard). Titanium White Plate. Tray Mount. 5-Layer Acoustic Padding (Silicone & PU Foam). Ice Crystal Glaze Ceramic Keycaps (ABS Stems). CerakeyLab Web Driver (w/ SOCD, RS, & DKS). (≈$239–$299)***
+
 
 # ***🟧 S Tier (excellent, not absolute best)***
+
+***⌨️ Keydous NJ98-CP V4 HE — 96% Layout (98 Keys + Rotary Knob). Kailh Aurora Series Magnetic Switches. Dual 8k Polling Rate (Wired & 2.4GHz Wireless) / 125Hz Bluetooth. 256k Full-Key Scan Rate (256,000Hz). ~0.125ms Latency. 0.001mm RT resolution. 0.1mm–3.3mm actuation. Polycarbonate Chassis. Brass, Steel, or Aluminum Plate. Gasket Mount. 3-Layer Acoustic Foam (Poron & IXPE). 8,000mAh Battery. Removable Magnetic TFT Color Screen. Dual-Layer Hybrid Hot-Swap Sockets (Supports both Magnetic & 3/5-pin Mechanical Switches). Web & PC Driver (w/ SOCD/Snap Tap & DKS). (≈$155)***
 
 ***⌨️ MONSGEEK Verve68 HE — 65% Layout (68 Keys). Akko Flash Magnetic Switches (Hall Effect). 8k Polling Rate (Wired/2.4GHz). 16,000Hz (16k) Scan Rate. ~0.125ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Hollow Translucent ABS/PC Chassis. Aluminum Plate. Tray Mount. 6,000mAh Battery. MonsGeek Driver (w/ Snap Key/SOCD & TGL). (≈$59–$79)***
 
@@ -346,6 +362,8 @@
 
 ***🖱️ WLMOUSE Ying MG — Symmetrical Shape (OP1-inspired). PixArt PAW3950HS Sensor. Nordic nRF52840 MCU. 8k Polling Rate (Wireless). 47g Weight. Omron Optical / Custom TTC Nihil Switches. 220mAh Battery. Solid Magnesium Alloy Exoskeleton. Web-Based Configurator. (≈$139)***
 
+***🖱️ G-Wolves LYCAN 8K — Symmetrical Shape (Low Profile, OP1-inspired). PixArt PAW3955 Master Sensor (30k–40k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired & Wireless). ~28.8g Weight. Huano Orange SPDT Mechanical Switches (with SR-Latch Algorithm). TTC Gold Encoder. Ultra-thin Plastic Shell (Internal Carbon Fiber Support Rods). 2.4GHz / Wired. Web-Based G-Wolves Software. (≈$132–$159)***
+
 ***🖱️ WLMouse Beast X Max — Large, symmetrical shape (126x65x39mm). ULTRALIGHT 42g Magnesium Alloy Shell (plus ABS bottom). Sensor: PixArt PAW3950 HS (up to 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 300mAh (Roughly 2 days of heavy use at 8KHz); the lightest large mouse on the market, achieving maximum speed in a big mouse format. (≈$145 – $155)***
 
 ***🖱️ Lamzu Maya X — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. ≈0.5ms click latency. Lamzu Custom Omron Optical switches. 47g weight. Nordic 52840 MCU. 2.4G wireless/wired. 8K dongle included; absolute peak wireless competitive performance. (≈$140)***
@@ -363,6 +381,8 @@
 ***🖱️ Endgame Gear OP1 8K V2 — Small, ambidextrous/right-handed shape (118x60.5x37.2mm). ULTRALIGHT 49.5g Plastic Shell (Dry Grip Coating). Sensor: Custom PixArt PAW3950 U+1F95A (up to 30000 DPI, 750 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Industry-leading low click latency: <70μs). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); the ultimate wired mouse for claw grip users who demand mathematically minimal input delay. (≈$89 – $99)***
 
 ***🖱️ Endgame Gear OP1 8K — Small, right-handed/ambidextrous shape (118.2x60.5x37.2mm). ULTRALIGHT 50.5g Plastic Shell (Dry Grip Coating). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Exceptionally low click latency). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); a surgical, high-speed wired mouse optimized for claw grip and professional competitive play. (≈$75 – $89)***
+
+***🖱️ WLmouse Beast G (Mini/Medium/Max) — Symmetrical Shape (Beast X Inspired). PixArt PAW3950HS Sensor (30k DPI / 750 IPS). Nordic 54L15 MCU. 8k Polling Rate (Wired & Wireless). ~35g (Mini) / ~38g (Medium) / ~41g (Max) Weight. Kailh Optical V2 Switches. TTC Silver Encoder. Solid Microcrystalline Composite Polymer Shell. 300mAh Battery. WLMouse Web Hub Driver. (≈$79–$89)***
 
 
 
@@ -498,6 +518,8 @@
 
 ***🖱️ Endgame Gear OP1 8K V2 — Small, ambidextrous/right-handed shape (118x60.5x37.2mm). ULTRALIGHT 49.5g Plastic Shell (Dry Grip Coating). Sensor: Custom PixArt PAW3950 U+1F95A (up to 30000 DPI, 750 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Industry-leading low click latency: <70μs). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); the ultimate wired mouse for claw grip users who demand mathematically minimal input delay. (≈$89 – $99)***
 
+***🖱️ WLmouse Beast G (Mini/Medium/Max) — Symmetrical Shape (Beast X Inspired). PixArt PAW3950HS Sensor (30k DPI / 750 IPS). Nordic 54L15 MCU. 8k Polling Rate (Wired & Wireless). ~35g (Mini) / ~38g (Medium) / ~41g (Max) Weight. Kailh Optical V2 Switches. TTC Silver Encoder. Solid Microcrystalline Composite Polymer Shell. 300mAh Battery. WLMouse Web Hub Driver. (≈$79–$89)***
+
 
 
 # **Mid-Range pick:** (100$-150$)
@@ -510,6 +532,8 @@
 
 ***🖱️ MCHOSE A7X Ultra — Ergonomic right-handed shape (125.7x63.2x39.8mm, similar to the DeathAdder/GPX hybrid). ULTRALIGHT 53g Magnesium Alloy Shell. Sensor: PixArt PAW3950 TI Flagship Sensor (up to 42000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Wireless Accelerator. Switches: Omron Optical Micro Switches (70M rated). Connectivity: Tri-Mode (2.4GHz Wireless, Bluetooth, USB-C Wired). Battery: 500mAh (High capacity for extended play); a phenomenal, complete package that includes glass skates and a premium carry case. (≈$90 – $120)***
 
+***🖱️ G-Wolves LYCAN 8K — Symmetrical Shape (Low Profile, OP1-inspired). PixArt PAW3955 Master Sensor (30k–40k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired & Wireless). ~28.8g Weight. Huano Orange SPDT Mechanical Switches (with SR-Latch Algorithm). TTC Gold Encoder. Ultra-thin Plastic Shell (Internal Carbon Fiber Support Rods). 2.4GHz / Wired. Web-Based G-Wolves Software. (≈$132–$159)***
+
 
 # **High pick:** (150$-unlimited)
 
@@ -519,6 +543,8 @@
 ***🖱️ Orbitalworks Pathfinder — Modular wireless chassis (3000+ configs). PixArt PAW3950DM sensor (30K DPI). 8000Hz wireless polling. 0.4ms click latency. Omron Optical switches. 52–55g weight. 300mAh battery. multiple premium skates included (PTFE/Obsidian); ultimate customizable competitive shape and performance. (≈$189)***
 
 ***🖱️ Logitech G PRO X2 Superstrike — Symmetrical Shape. HERO 2 Sensor (44k DPI). Haptic Inductive Trigger System (HITS). 8k Polling Rate (Wireless). 60g–61g weight. Inductive Analog Switches (10 levels of actuation). 90-hour Battery (1k) / ~30h (8k). G HUB Cloud Driver. (≈$180)***
+
+
 
 
 
