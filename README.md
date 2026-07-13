@@ -337,16 +337,6 @@
 ***⌨️ Tekkusai x Luminkey Titan75 HE — 75% Layout (81 Keys + Scroll Wheel). Titan Magnetic Switches (Linear). 8k Polling Rate (Wired). 48k Full-Key Scan Rate. ~0.8ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Full 6063 CNC Aluminum Chassis. Gasket Mount (Quick-Release). PC Plate. PBT Keycaps. Proprietary Web Driver (w/ SOCD/Snap Tap). (≈$215)***
 
 
-# **Software King:**
-
-
-***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
-
-***⌨️ Wooting 60HE v2 — 60% wired layout. Lekker L60/Lekker Tikken V2 Hall Effect switches. 8000Hz polling rate. 8000Hz synchronized key scan rate. 0.125ms input latency (<1ms with Tachyon mode). dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). ABS plastic/Optional Aluminum case. Friction-fit/FR4 plate/Dampening stack. Wootility software (Analog Mode, Rappy Snappy, DKS, SOCD support); industry-standard, ultimate competitive speed in a compact, moddable format. (≈$175–$250)***
-
-***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
-
-
 ===============================================================================================================================================================================
 
 
@@ -364,10 +354,6 @@
 
 ***🖱️ Logitech G PRO X2 Superstrike — Symmetrical Shape. HERO 2 Sensor (44k DPI). Haptic Inductive Trigger System (HITS). 8k Polling Rate (Wireless). 60g–61g weight. Inductive Analog Switches (10 levels of actuation). 90-hour Battery (1k) / ~30h (8k). G HUB Cloud Driver. (≈$180)***
 
-***🖱️ WLMouse Beast X Pro — Symmetrical, medium-sized wireless mouse (122x62x37mm). ULTRALIGHT 39g Magnesium Alloy Shell. Sensor: PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 300mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the pinnacle of lightweight performance, prioritizing raw speed and durability through advanced materials. (≈$145 – $155)***
-
-***🖱️ WLMouse Beast Miao — Ultra-compact symmetrical shape (91x55x34mm). ULTRALIGHT 31g Magnesium Alloy Shell. Sensor: PixArt PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 220mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the pinnacle of lightweight agility, built for the fastest micro-adjustments and fingertip control. (≈$145 – $155)***
-
 ***🖱️ WLMouse Beast X Mini Pro — Symmetrical, small-sized wireless mouse (116x58x35mm). ULTRALIGHT 34g Magnesium Alloy Shell. Sensor: PixArt PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 220mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the smallest size in the line to feature the competitive trinity of Magnesium, 8KHz, and a flagship sensor. (≈$145 – $155)***
 
 ***🖱️ MCHOSE A7X Ultra — Ergonomic right-handed shape (125.7x63.2x39.8mm, similar to the DeathAdder/GPX hybrid). ULTRALIGHT 53g Magnesium Alloy Shell. Sensor: PixArt PAW3950 TI Flagship Sensor (up to 42000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Wireless Accelerator. Switches: Omron Optical Micro Switches (70M rated). Connectivity: Tri-Mode (2.4GHz Wireless, Bluetooth, USB-C Wired). Battery: 500mAh (High capacity for extended play); a phenomenal, complete package that includes glass skates and a premium carry case. (≈$90 – $120)***
@@ -376,9 +362,13 @@
 
 ***🖱️ Endgame Gear OP1 8K V2 — Small, ambidextrous/right-handed shape (118x60.5x37.2mm). ULTRALIGHT 49.5g Plastic Shell (Dry Grip Coating). Sensor: Custom PixArt PAW3950 U+1F95A (up to 30000 DPI, 750 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Industry-leading low click latency: <70μs). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); the ultimate wired mouse for claw grip users who demand mathematically minimal input delay. (≈$89 – $99)***
 
+***🖱️ Endgame Gear OP1 8K — Small, right-handed/ambidextrous shape (118.2x60.5x37.2mm). ULTRALIGHT 50.5g Plastic Shell (Dry Grip Coating). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Exceptionally low click latency). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); a surgical, high-speed wired mouse optimized for claw grip and professional competitive play. (≈$75 – $89)***
+
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
+
+***🖱️ ATK Dragonfly A9 Mini+ — Symmetrical Shape (Small/Medium). PixArt PAW3955 Master Sensor (40k–50k DPI / 850 IPS / 75G). Nordic nRF54L15 MCU. 8k Polling Rate (Wired/Wireless). ~39g Weight. ATK Custom Optical Switches (100M Clicks). TTC Gold Encoder. Solid ABS Shell with Nano Coating. 200mAh Battery. Web-Based ATK HUB (w/ Web Config). (≈$45–$55)***
 
 ***🖱️ ATK Blazing Sky ZERO — Symmetrical Shape (Pulsar X2/MAD R inspired). PixArt PAW3950 Ultra Sensor (42k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wireless). 39g Weight. ATK Custom Optical Switches. TTC Gold Encoder. Translucent Polycarbonate / Solid ABS Shell. ATK HUB Web Driver. (≈$59)***
 
@@ -409,8 +399,6 @@
 
 ***🖱️ Finalmouse ULX Prophecy — Symmetrical/Ambidextrous shape. EXTREME ULTRALIGHT 38g (Classic size) Carbon Fiber Composite Chassis (Solid sides, perforated base). Sensor: Latest-Gen PixArt Sensor (Customized PMW3395 variant, high IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included Dual-Chip Receiver. Switches: Custom Superbinned Huano Blue Shell Mechanical (Ultralight click tensioning system). Connectivity: Finalmouse Highspeed Wireless (2.4 GHz) & USB-C Wired. Battery: Up to 2 months intermittent use (Heavily dependent on 8KHz usage); the undisputed lightest, fastest, and most advanced mouse on the market. (Original Price: ~$189. Resale Price: Highly variable, often $220-$400+)***
 
-***🖱️ Endgame Gear OP1 8K — Small, right-handed/ambidextrous shape (118.2x60.5x37.2mm). ULTRALIGHT 50.5g Plastic Shell (Dry Grip Coating). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Exceptionally low click latency). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); a surgical, high-speed wired mouse optimized for claw grip and professional competitive play. (≈$75 – $89)***
-
 
 # 
 
@@ -418,6 +406,7 @@
 
 ***🖱️ Akko Nest — Ergonomic (Small-Medium). PixArt PAW3950 Sensor. 8k Polling Rate (Wired & Wireless). Nordic 52840+52820 Dual-Chip. 49g Ultra-lightweight. Omron 100M Switches. 250mAh Battery. PTFE Skates. Akko Cloud Driver. (≈$59–$65)***
 
+***🖱️ EPOMAKER Carbonis — Right-Handed Ergonomic Shape. PixArt PAW3950 Sensor (30k DPI / 750 IPS). Nordic 54L MCU. 8k Polling Rate (Wired/Wireless). ~50g Weight. Optical Switches. Composite Forged Carbon Fiber Shell. Built-in Smart LCD Screen. 2.4GHz / Bluetooth / Wired Tri-Mode. Web-Based Online Driver. (≈$89)***
 
 ***Incott G23 — Symmetrical/Ambidextrous shape (120x63.5x40mm, similar to the GPX). ULTRALIGHT 49g Plastic Shell (Solid/No holes). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8KHz Receiver. Switches: Kailh GM 8.0 Black Mamba Mechanical (80M rated) or Huano Blue Shell Pink Dot (varies by batch). Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 500mAh (High capacity for extended play); a phenomenal value mouse delivering elite performance metrics for competitive players. (≈$50 – $75)***
 
@@ -493,28 +482,44 @@
 
 **🖱️ Razer Viper Mini — Symmetrical/Ambidextrous design optimized for small hands (118.3x53.5x38.3mm). ULTRALIGHT 61g Plastic Shell. Sensor: PixArt 3359 Optical Sensor (8500 DPI max, 300 IPS). Max 1000Hz Wired Polling Rate (1ms latency). Switches: Razer™ Optical Mouse Switches Gen-1 (50M click rating, zero debounce). Connectivity: Wired (Razer Speedflex Cable). (≈$30 – $40)***
 
+# 🏆 Best Overall Mices (Considering Price \& Performance)
 
-# 🏆 Best Overall Picks
 
-# 
 
-# **Budget King:**
+# **Budget pick:** (Below 100$)
+
 
 
 ***🖱️ VXE Dragonfly R1 Pro — Symmetrical, medium-sized wireless mouse (120.6x64x37.8mm). ULTRALIGHT 48g Plastic Shell. Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). Max 4000Hz Wireless Polling Rate (requires separate 4K Dongle). Switches: Huano Ice Berry Pink Dot Mechanical (75M rated). Connectivity: Dual-Mode (2.4GHz Wireless & USB-C Wired). Battery: 250mAh (Up to 75 hours at 1KHz); a top-performing, ultra-light mouse that offers incredible value and high agility. (≈$45 – $65)***
 
+***🖱️ ATK Dragonfly A9 Mini+ — Symmetrical Shape (Small/Medium). PixArt PAW3955 Master Sensor (40k–50k DPI / 850 IPS / 75G). Nordic nRF54L15 MCU. 8k Polling Rate (Wired/Wireless). ~39g Weight. ATK Custom Optical Switches (100M Clicks). TTC Gold Encoder. Solid ABS Shell with Nano Coating. 200mAh Battery. Web-Based ATK HUB (w/ Web Config). (≈$45–$55)***
+
+***🖱️ Endgame Gear OP1 8K — Small, right-handed/ambidextrous shape (118.2x60.5x37.2mm). ULTRALIGHT 50.5g Plastic Shell (Dry Grip Coating). Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Exceptionally low click latency). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); a surgical, high-speed wired mouse optimized for claw grip and professional competitive play. (≈$75 – $89)***
+
+***🖱️ Endgame Gear OP1 8K V2 — Small, ambidextrous/right-handed shape (118x60.5x37.2mm). ULTRALIGHT 49.5g Plastic Shell (Dry Grip Coating). Sensor: Custom PixArt PAW3950 U+1F95A (up to 30000 DPI, 750 IPS). True 8000Hz Wired Polling Rate. Switches: Hot-swappable Kailh GX Mechanical Switches (Industry-leading low click latency: <70μs). Connectivity: Wired (Flex Cord 5.0 Type-C). Dedicated MCU (NUVOTON M483); the ultimate wired mouse for claw grip users who demand mathematically minimal input delay. (≈$89 – $99)***
 
 
-# **Mid-Range King:**
+
+# **Mid-Range pick:** (100$-150$)
+
 
 
 ***🖱️ Lamzu Maya X — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. ≈0.5ms click latency. Lamzu Custom Omron Optical switches. 47g weight. Nordic 52840 MCU. 2.4G wireless/wired. 8K dongle included; absolute peak wireless competitive performance. (≈$140)***
 
+***🖱️ WLMOUSE Ying MG — Symmetrical Shape (OP1-inspired). PixArt PAW3950HS Sensor. Nordic nRF52840 MCU. 8k Polling Rate (Wireless). 47g Weight. Omron Optical / Custom TTC Nihil Switches. 220mAh Battery. Solid Magnesium Alloy Exoskeleton. Web-Based Configurator. (≈$139)***
+
+***🖱️ MCHOSE A7X Ultra — Ergonomic right-handed shape (125.7x63.2x39.8mm, similar to the DeathAdder/GPX hybrid). ULTRALIGHT 53g Magnesium Alloy Shell. Sensor: PixArt PAW3950 TI Flagship Sensor (up to 42000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Wireless Accelerator. Switches: Omron Optical Micro Switches (70M rated). Connectivity: Tri-Mode (2.4GHz Wireless, Bluetooth, USB-C Wired). Battery: 500mAh (High capacity for extended play); a phenomenal, complete package that includes glass skates and a premium carry case. (≈$90 – $120)***
 
 
-# **Premium Pick:**
+# **High pick:** (150$-unlimited)
+
 
 ***🖱️ WLMouse Beast X Max — Large, symmetrical shape (126x65x39mm). ULTRALIGHT 42g Magnesium Alloy Shell (plus ABS bottom). Sensor: PixArt PAW3950 HS (up to 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 300mAh (Roughly 2 days of heavy use at 8KHz); the lightest large mouse on the market, achieving maximum speed in a big mouse format. (≈$145 – $155)***
+
+***🖱️ Orbitalworks Pathfinder — Modular wireless chassis (3000+ configs). PixArt PAW3950DM sensor (30K DPI). 8000Hz wireless polling. 0.4ms click latency. Omron Optical switches. 52–55g weight. 300mAh battery. multiple premium skates included (PTFE/Obsidian); ultimate customizable competitive shape and performance. (≈$189)***
+
+***🖱️ Logitech G PRO X2 Superstrike — Symmetrical Shape. HERO 2 Sensor (44k DPI). Haptic Inductive Trigger System (HITS). 8k Polling Rate (Wireless). 60g–61g weight. Inductive Analog Switches (10 levels of actuation). 90-hour Battery (1k) / ~30h (8k). G HUB Cloud Driver. (≈$180)***
+
 
 
 
