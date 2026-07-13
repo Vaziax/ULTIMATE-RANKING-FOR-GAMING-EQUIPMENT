@@ -386,6 +386,8 @@
 
 ***🖱️ WLmouse Beast G (Mini/Medium/Max) — Symmetrical Shape (Beast X Inspired). PixArt PAW3950HS Sensor (30k DPI / 750 IPS). Nordic 54L15 MCU. 8k Polling Rate (Wired & Wireless). ~35g (Mini) / ~38g (Medium) / ~41g (Max) Weight. Kailh Optical V2 Switches. TTC Silver Encoder. Solid Microcrystalline Composite Polymer Shell. 300mAh Battery. WLMouse Web Hub Driver. (≈$79–$89)***
 
+***🖱️ Pulsar X2H CrazyLight Mini — Symmetrical Shape (High Back Hump, Narrow Waist). Pulsar XS-1 Sensor (PAW3950-based / 32k DPI / 750 IPS). 32-bit ARM Processor. Tri-Mode (8k Polling Wireless with included dongle). 37g–39g Weight (with Dot Skates vs. Full Skates). Pulsar Optical Switches (100M clicks). Pulsar Blue Dust-Proof Encoder. Matte Grip Coating (No holes). 250mAh Battery. Pulsar Fusion Software. (≈$129)***
+
 
 
 # ***🟥 SS Tier (cutting-edge performance + best value)***
