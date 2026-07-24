@@ -11,6 +11,8 @@
 
 # ***⬜ SSS Tier (Absolute best of the best)***
 
+***⌨️ Everglide SU66 Max — 60%/66% Layout (GH60 Compatible, Split Spacebar). Wukong / Alkaid / Yao Wang Magnetic Switches. 8k Polling Rate (Wired). 32k–256k Full-Key Scan Rate (Dual-Chip 600MHz MCU). ~0.06ms Latency. 0.001mm RT resolution. 0.01mm–3.4mm actuation. CNC Aluminum Case or GH60 PCB Kit. Carbon Fiber, FR4, or Aluminum Plate. Gasket Mount. 5-Layer Acoustic Padding. Dual RGB Lighting (174 LEDs total w/ 38 Underglow LEDs). Web Driver (w/ SOCD, DKS, & ADC Link). (≈$119–$169)***
+
 ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
 
 ***⌨️ RAKKA 80 Edge — Layout: 80% TKL (87 Keys). Sensor: High-Sensitivity Hall Effect. Polling Rate: 8000Hz. Scan Rate: 135,000Hz (0.007ms internal interval). RT Accuracy: 0.005mm (Bottom-out) / 0.01mm (General). Resolution: 0.005mm (Smallest detectable change). Latency: 0.19ms average (Tested, including host processing). Switches: GATERON Magnetic Grey Jade PRO. Build: Full Aluminum Case (1.9kg), 6-layer PCB, FR4 Plate, Silicone/Rubber foam filling. Features: Web-based software, SOCD (Snap Tap), 4 Onboard Profiles, Tap Hold, Independent LED Controller. (≈$240 – $300)***
