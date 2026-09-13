@@ -253,6 +253,8 @@
 
 ***⌨️ Gamakay x NaughShark NS75 — 75% Layout (83 Keys + Knob). Gamakay Phoenix / Outemu White Jade Magnetic Switches. 8k polling rate. 16k scan rate. 0.06ms latency (Claimed/Theoretical). 0.005mm RT resolution. 0.1mm–3.5mm actuation. Translucent Polycarbonate (PC) / ABS chassis. Gasket Mount structure. PC Plate. Silicone/EVA dampening. Gamakay Web Driver. (≈$79–$99)***
 
+***⌨️ Fantech Atom HE68 Pro — 65% Layout (68 Keys). Magnetic Emerald Soft Linear Switches (Hall Effect). Tri-Mode Connectivity (8k Polling Rate Wired / 1k 2.4GHz Wireless / Bluetooth 5.0). 256k Full-Key Scan Rate (256,000Hz). ~0.125ms Latency. 0.01mm RT resolution. 0.1mm–4.0mm actuation. ABS Plastic Chassis. Aluminum Alloy Plate. Tray Mount. Double-Shot PBT Keycaps. 3,750mAh Battery. Per-Key RGB. Fantech Web-Based Driver (w/ SOCD, DKS, RS, MT, & TGL). (≈$52–$65)***
+
 
 ***⌨️ NJ80-CP V2 HE — 75% aluminum gasket-mount chassis/FR4 plate/hot-swappable magnetic Hall Effect switches (0.1–4.0mm actuation/Rapid Trigger), south-facing per-key RGB LEDs/gasket dampening/PBT keycaps; wired USB-C for PC (pre-built or kit options). (≈120–170$)***
 
