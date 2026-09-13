@@ -43,8 +43,11 @@
 
 ***⌨️ Everglide AE64 Pro — 60% Layout (64 Keys / GH60 Compatible). Everglide Siren V3 / Wukong / Yao Wang Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.09ms Latency. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC Aluminum Chassis (Hollow Side Accents) or GH60-compatible custom cases. Aluminum, Carbon Fiber, or FR4 Plate. Tray Mount. Wired Only. Dual-LED Matrix (174 LEDs total, Dual North & South Facing RGB). Web-Based Online Driver (w/ SOCD, MT, TGL, and ADC Direct Link). (≈$89–$119)***
 
+***⌨️ ATK RS63 Air — 63% Layout (64 Keys w/ Integrated CNC Aluminum Wrist Rest & Front RGB Lightbar). ATK Zenith / Iceblade Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency (~0.28ms End-to-End). 0.001mm RT resolution. 0.001mm–3.3mm actuation. Precision ABS Plastic Chassis. Aluminum Plate. Leaf Flex Cantilever Structure. 5-Layer Acoustic Padding (Silicone, IXPE, PET, EPDM). Frosted PC Cherry Keycaps. ATK HUB Web Driver (w/ SOCD, DKS, & Champion Presets). (≈$79–$99)***
+
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
+
 
 ***⌨️ ATK RS6+ Ultra — 65% Layout (68 Keys). ATK Ice Blade Pro Magnetic Switches (Fully Translucent, 35gf). 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency (Claimed) / ~0.28ms End-to-End. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC-Machined Aluminum Case (220-mesh anodized). Gasket Mount. FR4 Gold-Plated Position Plate. 5-Layer Acoustic Padding (Poron, EPDM, & PET). Premium Keycraft PBT Five-Side Dye-Sub Keycaps + 23 Frosted PC Keycaps. ATK HUB Web Driver (w/ SOCD, DKS, & Champion Presets). (≈$149–$179)***
 
@@ -106,6 +109,8 @@
 
 
 # ***🟧 S Tier (excellent, not absolute best)***
+
+***⌨️ Keychron V6 Ultra 8K — 100% Full-Size Layout (108 Keys + Rotary Knob). Keychron Silk POM Switches (Hot-Swappable 3/5-pin Mechanical). Tri-Mode Connectivity (8k Polling Rate Wired & 2.4GHz Wireless / 1000Hz Bluetooth 5.3). ~0.125ms Latency. 1,000Hz–8,000Hz Scan Rate. ABS Plastic Chassis. Polycarbonate (PC) Plate. Gasket Mount. Enhanced Multi-Layer Acoustic Foam (Poron & Sound Dampening). 4,000mAh Battery (Up to 660h). OSA Profile Double-Shot PBT Keycaps. Screw-in PCB Stabilizers. ZMK Firmware & Keychron Launcher Web Driver. (≈$109–$129)***
 
 ***⌨️ Keydous NJ98-CP V4 HE — 96% Layout (98 Keys + Rotary Knob). Kailh Aurora Series Magnetic Switches. Dual 8k Polling Rate (Wired & 2.4GHz Wireless) / 125Hz Bluetooth. 256k Full-Key Scan Rate (256,000Hz). ~0.125ms Latency. 0.001mm RT resolution. 0.1mm–3.3mm actuation. Polycarbonate Chassis. Brass, Steel, or Aluminum Plate. Gasket Mount. 3-Layer Acoustic Foam (Poron & IXPE). 8,000mAh Battery. Removable Magnetic TFT Color Screen. Dual-Layer Hybrid Hot-Swap Sockets (Supports both Magnetic & 3/5-pin Mechanical Switches). Web & PC Driver (w/ SOCD/Snap Tap & DKS). (≈$155)***
 
@@ -317,6 +322,8 @@
 ***⌨️ ATK RS6 Air — Compact 65% Layout (68 keys). Switches: Gateron/ATK Magnetic Switches (Hall Effect). Polling Rate: 8000Hz Wired (0.125ms latency). Scan Rate: ~32KHz (Elite detection speed). Rapid Trigger (RT) Range: 0.02mm to 3.3mm (Adjustable in 0.01mm steps); supports Dynamic Reset. Connectivity: Wired (USB-C) for maximum speed. Chassis: High-Quality ABS Plastic (Translucent "Air" Design). Keycaps: PBT or Polycarbonate (depending on colorway). (≈$80 – $100)***
 
 **⌨️ Irok MG75 Max — 75% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 256K single key scan rate, rapid trigger (RT) 0.005mm step 0.001mm, full CNC aluminum alloy build, hot-swap PCB, GTURBO algorithm, web/HUB driver software. (85–95$)***
+
+***⌨️ ATK RS63 Air — 63% Layout (64 Keys w/ Integrated CNC Aluminum Wrist Rest & Front RGB Lightbar). ATK Zenith / Iceblade Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency (~0.28ms End-to-End). 0.001mm RT resolution. 0.001mm–3.3mm actuation. Precision ABS Plastic Chassis. Aluminum Plate. Leaf Flex Cantilever Structure. 5-Layer Acoustic Padding (Silicone, IXPE, PET, EPDM). Frosted PC Cherry Keycaps. ATK HUB Web Driver (w/ SOCD, DKS, & Champion Presets). (≈$79–$99)***
 
 
 
