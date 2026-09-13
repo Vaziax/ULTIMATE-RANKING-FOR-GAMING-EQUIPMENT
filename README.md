@@ -59,6 +59,8 @@
 
 ***⌨️ ATK RS6+ Ultra — 65% Layout (68 Keys). ATK Ice Blade Pro Magnetic Switches (Fully Translucent, 35gf). 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency (Claimed) / ~0.28ms End-to-End. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC-Machined Aluminum Case (220-mesh anodized). Gasket Mount. FR4 Gold-Plated Position Plate. 5-Layer Acoustic Padding (Poron, EPDM, & PET). Premium Keycraft PBT Five-Side Dye-Sub Keycaps + 23 Frosted PC Keycaps. ATK HUB Web Driver (w/ SOCD, DKS, & Champion Presets). (≈$149–$179)***
 
+***⌨️ Wooting 60HE v2 — 60% wired layout. Lekker L60/Lekker Tikken V2 Hall Effect switches. 8000Hz polling rate. 8000Hz synchronized key scan rate. 0.125ms input latency (<1ms with Tachyon mode). dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). ABS plastic/Optional Aluminum case. Friction-fit/FR4 plate/Dampening stack. Wootility software (Analog Mode, Rappy Snappy, DKS, SOCD support); industry-standard, ultimate competitive speed in a compact, moddable format. (≈$175–$250)***
+
 ***⌨️ ATK RS6+ — 65% Layout (68 Keys). ATK Snow Blade Pro Magnetic Switches (Linear, 35gf). 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz) in Extreme Mode. ~0.08ms Latency (Claimed) / ~0.28ms End-to-End. 0.001mm RT resolution. 0.01mm–3.5mm actuation. CNC-Machined Aluminum Case (220-mesh anodized). Gasket Mount. Aluminum Plate. 5-Layer Acoustic Padding (Poron & PET). Top-Frosted Translucent PC Keycaps. ATK HUB Web Driver (w/ SOCD & Champion Presets). (≈$110–$130)***
 
 ***⌨️ Chilkey SF60 HE — 60% Layout (64 Keys). WS Flux Poseidon Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate. ~0.08ms Latency. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC Aluminum Chassis. Gasket Mount. Aluminum Plate. Wired Only. Aluminum Keycaps (MCAPs) with Infilled Enamel Legends. Chilkey Web Driver (w/ SOCD & DKS). (≈$179)***
@@ -168,9 +170,6 @@
 
 
 ***⌨️ AULA Hero68HE — 68% magnetic hall-effect, 0.125ms delay, 8000Hz polling, 48-128K scan rate, rapid trigger (0.01mm adjustable), hot-swap PCB, ABS plastic case + metal plate, 5-layer sound dampening, web driver software; premium performance with thocky sound. (80–100$)***
-
-
-***⌨️ Wooting 60HE v2 — 60% wired layout. Lekker L60/Lekker Tikken V2 Hall Effect switches. 8000Hz polling rate. 8000Hz synchronized key scan rate. 0.125ms input latency (<1ms with Tachyon mode). dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). ABS plastic/Optional Aluminum case. Friction-fit/FR4 plate/Dampening stack. Wootility software (Analog Mode, Rappy Snappy, DKS, SOCD support); industry-standard, ultimate competitive speed in a compact, moddable format. (≈$175–$250)***
 
 
 ***⌨️ ATK 68 RX — 68% magnetic hall-effect, 0.125ms delay (0.912ms switch latency), 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), plastic case construction, QMK/VIA firmware; elite performance specs at budget price point. (80–100$)***
