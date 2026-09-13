@@ -250,6 +250,8 @@
 
 # ***🟨 A Tier (budget/mid-focused)***
 
+***⌨️ XVX Trooper63 HE — 63% Layout (64 Keys w/ Arrow Keys). Gemini HE Dual-SMD Magnetic Switches. 1k Polling Rate (Wired) / 32k Sensor Scan Rate / 4k Key Scan Rate. ~1.0ms Latency. 0.01mm RT resolution. 0.01mm–3.65mm actuation. CNC Skeletonized Powder-Coated Aluminum Chassis. 1.5mm Carbon Fiber Plate. Tray Mount. 5-Layer Acoustic Padding (PORON, IXPE, PET). Double-Shot ABS/PC Wedge PRISM Keycaps. Dual-Lighting RGB System (North & South LEDs per key). XVX Trooper Web Driver (w/ SOCD, DKS, & RS). (≈$99–$119)***
+
 ***⌨️ Gamakay x NaughShark NS75 — 75% Layout (83 Keys + Knob). Gamakay Phoenix / Outemu White Jade Magnetic Switches. 8k polling rate. 16k scan rate. 0.06ms latency (Claimed/Theoretical). 0.005mm RT resolution. 0.1mm–3.5mm actuation. Translucent Polycarbonate (PC) / ABS chassis. Gasket Mount structure. PC Plate. Silicone/EVA dampening. Gamakay Web Driver. (≈$79–$99)***
 
 
@@ -413,6 +415,8 @@
 # ***🟥 SS Tier (cutting-edge performance + best value)***
 
 ***🖱️ ATK Dragonfly A9 Mini+ — Symmetrical Shape (Small/Medium). PixArt PAW3955 Master Sensor (40k–50k DPI / 850 IPS / 75G). Nordic nRF54L15 MCU. 8k Polling Rate (Wired/Wireless). ~39g Weight. ATK Custom Optical Switches (100M Clicks). TTC Gold Encoder. Solid ABS Shell with Nano Coating. 200mAh Battery. Web-Based ATK HUB (w/ Web Config). (≈$45–$55)***
+
+***🖱️ GamaKay GX1 Pro — Symmetrical Shape (Medium / 124×65×40.5mm). PixArt PAW3955/PAW3950 Flagship Sensor (30k DPI / 750 IPS / 50G). Dual 8k Polling Rate (Wired & 2.4GHz Wireless w/ Screen Status Charging Dock Receiver) / 125Hz Bluetooth. 55g ± 3g Weight. Dual TTC Silent Main Switches (L/R) & Huanyu Secondary Switches (7 Buttons). Hot-Swappable Dual 300mAh Batteries (600mAh Total). GearHub Web & PC Driver. (≈$39–$49)***
 
 ***🖱️ ATK Blazing Sky ZERO — Symmetrical Shape (Pulsar X2/MAD R inspired). PixArt PAW3950 Ultra Sensor (42k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wireless). 39g Weight. ATK Custom Optical Switches. TTC Gold Encoder. Translucent Polycarbonate / Solid ABS Shell. ATK HUB Web Driver. (≈$59)***
 
