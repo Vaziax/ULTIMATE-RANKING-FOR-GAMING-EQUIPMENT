@@ -264,7 +264,7 @@
 ***⌨️ Keychron Q1 HE — 75% tri-mode layout (wired/2.4GHz/BT). Gateron Double-Rail Magnetic/Nebula switches. 1000Hz polling rate (wired/2.4GHz). 0.2ms-1ms input latency (manufacturer/test variance). rapid trigger (0.1mm sensitivity). adjustable actuation (0.2mm–3.8mm). full CNC aluminum body/double-gasket mount (1.7kg weight). PBT keycaps/QMK/VIA software; premium build quality but restricted to 1KHz speed. (≈$180–$220)***
 
 
-***⌨️ DrunkDeer A75 (Base) — 75% wired layout. RAESHA V1 Magnetic switches. 1000Hz polling rate. ~16KHz scan rate (implied by specs). 1ms input latency. rapid trigger (0.1mm adjustable precision). adjustable actuation (0.2mm–3.8mm). ABS chassis/Series 5000 metal plate. EVA foam/case foam dampening. ABS/PBT keycaps. Web-based software (RT/Analog Mode/DKS support); original HE feature set but limited to 1KHz speed. (≈$80–$120)***
+***⌨️ DrunkDeer A75 — 75% wired layout. RAESHA V1 Magnetic switches. 1000Hz polling rate. ~16KHz scan rate (implied by specs). 1ms input latency. rapid trigger (0.1mm adjustable precision). adjustable actuation (0.2mm–3.8mm). ABS chassis/Series 5000 metal plate. EVA foam/case foam dampening. ABS/PBT keycaps. Web-based software (RT/Analog Mode/DKS support); original HE feature set but limited to 1KHz speed. (≈$80–$120)***
 
 
 ***⌨️ Wooting 60HE (Original/Base) — 60% wired layout. Lekker L60 Hall Effect switches. 1000Hz polling rate. 1000Hz synchronized key scan rate. ~1ms input latency. dynamic rapid trigger (0.1mm sensitivity). adjustable actuation (0.1mm–4.0mm). ABS plastic/Steel plate. Wootility software (Analog Mode, DKS, SOCD support); industry-leading software features but limited to 1KHz speed. (≈$150–$175)***
@@ -332,7 +332,6 @@
 
 ***⌨️ ATK RS7 V2 Aluminum — 75% Layout (81 Keys). ATK Gen-3 Blazing Wind Ultra switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate. 0.08ms Latency. 0.001mm RT resolution. Full CNC 6063 Aluminum Chassis (220-mesh anodized). Aluminum/Carbon Fiber Plate. Top/Core-Flex Dual Mount. 6-layer Padding. ATK HUB 3.0. (≈$169–$199)***
 
-***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
 ***⌨️ Everglide SU75 Pro — 75% wired layout. Everglide Siren/Skyline Magnetic switches. 8000Hz polling rate. 256KHz scan rate. 0.1ms input latency. dynamic rapid trigger (0.001mm adjustable precision). adjustable actuation (0.1mm–4.0mm). Full CNC 6063 Aluminum case. Gasket Mount structure/Carbon Fiber Plate. Multi-layer dampening. Frosted PC/PBT keycaps. Web-based software (DKS/LKP/Snap Click/SOCD support); ultimate speed and precision in a high-end, heavy CNC aluminum chassis. (≈$110)***
 
@@ -345,6 +344,8 @@
 ***⌨️ SKYLOONG GK68 MIX/TMR — Compact 65% Layout (68 keys with dedicated arrow keys). Switches: SKYLOONG/Gateron TMR Magnetic Switches (Hall Effect/TMR Hybrid) with support for mixed mechanical/magnetic installation. Polling Rate: Max 8000Hz Wired & 2.4GHz Wireless (0.125ms latency). Scan Rate: 32KHz scan rate. Rapid Trigger (RT) Range: 0.01mm to 2.0mm (adjustable in ultra-fine 0.01mm increments); supports Dynamic Reset. Connectivity: Tri-Mode (Wired USB-C, 2.4GHz Wireless, Bluetooth). Battery: 10,000mAh (400 hours continuous typing). Chassis: All-Aluminum case. (100-120$)***
 
 ***⌨️ Everglide AE64 Pro — 60% Layout (64 Keys / GH60 Compatible). Everglide Siren V3 / Wukong / Yao Wang Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.09ms Latency. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC Aluminum Chassis (Hollow Side Accents) or GH60-compatible custom cases. Aluminum, Carbon Fiber, or FR4 Plate. Tray Mount. Wired Only. Dual-LED Matrix (174 LEDs total, Dual North & South Facing RGB). Web-Based Online Driver (w/ SOCD, MT, TGL, and ADC Direct Link). (≈$89–$119)***
+
+***⌨️ IQUNIX EC75 HE — 75% Layout (80 Keys). IQUNIX Diamond Pro Magnetic Switches (35gf Start / 50gf Bottom). 8k Polling Rate (Wired) / 16k Scan Rate. ~0.125ms Latency. 0.01mm RT resolution. 0.1mm–3.3mm actuation. CNC Anodized Aluminum Top Case & Polycarbonate Bottom. Aluminum Plate. Gasket Mount. 4-Layer Acoustic Foam (Poron, PET, & Silicone Base). Double-Shot PBT Keycaps. IQUNIX Web Driver (w/ SOCD, DKS, & RS). (≈$152–$179)***
 
 
 
@@ -364,6 +365,7 @@
 ***⌨️ Tekkusai x Luminkey Titan75 HE — 75% Layout (81 Keys + Scroll Wheel). Titan Magnetic Switches (Linear). 8k Polling Rate (Wired). 48k Full-Key Scan Rate. ~0.8ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Full 6063 CNC Aluminum Chassis. Gasket Mount (Quick-Release). PC Plate. PBT Keycaps. Proprietary Web Driver (w/ SOCD/Snap Tap). (≈$215)***
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
+
 
 
 ===============================================================================================================================================================================
