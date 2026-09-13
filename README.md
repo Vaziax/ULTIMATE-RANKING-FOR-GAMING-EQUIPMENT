@@ -536,7 +536,7 @@
 
 # **Budget pick:** (Below 100$)
 
-
+***🖱️ GamaKay GX1 Pro — Symmetrical Shape (Medium / 124×65×40.5mm). PixArt PAW3955/PAW3950 Flagship Sensor (30k DPI / 750 IPS / 50G). Dual 8k Polling Rate (Wired & 2.4GHz Wireless w/ Screen Status Charging Dock Receiver) / 125Hz Bluetooth. 55g ± 3g Weight. Dual TTC Silent Main Switches (L/R) & Huanyu Secondary Switches (7 Buttons). Hot-Swappable Dual 300mAh Batteries (600mAh Total). GearHub Web & PC Driver. (≈$39–$49)***
 
 ***🖱️ VXE Dragonfly R1 Pro — Symmetrical, medium-sized wireless mouse (120.6x64x37.8mm). ULTRALIGHT 48g Plastic Shell. Sensor: PixArt PAW3395 (up to 26000 DPI, 650 IPS). Max 4000Hz Wireless Polling Rate (requires separate 4K Dongle). Switches: Huano Ice Berry Pink Dot Mechanical (75M rated). Connectivity: Dual-Mode (2.4GHz Wireless & USB-C Wired). Battery: 250mAh (Up to 75 hours at 1KHz); a top-performing, ultra-light mouse that offers incredible value and high agility. (≈$45 – $65)***
 
