@@ -11,7 +11,11 @@
 
 # ***⬜ SSS Tier (Absolute best of the best)***
 
+***⌨️ GravaStar Mercury V60 Ultra — 60% Layout (61 Keys w/ Dedicated Arrow Key Layer). GravaStar UFO Magnetic Switches (N52H Magnets / 40gf). 8k Polling Rate (Wired). Dual-Chip Architecture (256k Full-Key / 2304k Per-Key Scan Rate). ~0.08ms Latency. 0.001mm RT resolution. 0.001mm–3.5mm actuation. Electroplated Obsidian Black Skeletal Full-Aluminum Chassis. Upgraded Top Mount. 5-Layer Acoustic Dampening (PORON, IXPE & Silicone). Multi-Zone RGB w/ 10-LED Spacebar. GravaStar Web Driver (w/ LKP, Snap Click, SOCD, & ADC Sampling). (≈$199–$229)***
+
 ***⌨️ Everglide SU66 Max — 60%/66% Layout (GH60 Compatible, Split Spacebar). Wukong / Alkaid / Yao Wang Magnetic Switches. 8k Polling Rate (Wired). 32k–256k Full-Key Scan Rate (Dual-Chip 600MHz MCU). ~0.06ms Latency. 0.001mm RT resolution. 0.01mm–3.4mm actuation. CNC Aluminum Case or GH60 PCB Kit. Carbon Fiber, FR4, or Aluminum Plate. Gasket Mount. 5-Layer Acoustic Padding. Dual RGB Lighting (174 LEDs total w/ 38 Underglow LEDs). Web Driver (w/ SOCD, DKS, & ADC Link). (≈$119–$169)***
+
+***⌨️ WALLHACK K-001 — 65% Layout (67 Keys + Stepped Endless Dial). WALLHACK KS-TR Linear Switches (Co-developed w/ Gateron). 8k Polling Rate (Wired). 16k Full-Key Scan Rate (16,000Hz). ~0.129ms Latency. 0.01mm RT resolution. 0.1mm–4.0mm actuation. 6063 CNC Aluminum Chassis (Bead-blasted & Anodized, 1300g). Anodized Aluminum Plate. Screw-Mount Stack w/ Silicone & Foam Dampening. Double-shot PBT Keycaps. Per-Key WLED Backlight. Wallhack Terminal Web Driver (w/ SOCD & Stepped Dial RT control). (≈$279)***
 
 ***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
 
@@ -366,6 +370,7 @@
 
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
+***⌨️ GravaStar Mercury V60 Ultra — 60% Layout (61 Keys w/ Dedicated Arrow Key Layer). GravaStar UFO Magnetic Switches (N52H Magnets / 40gf). 8k Polling Rate (Wired). Dual-Chip Architecture (256k Full-Key / 2304k Per-Key Scan Rate). ~0.08ms Latency. 0.001mm RT resolution. 0.001mm–3.5mm actuation. Electroplated Obsidian Black Skeletal Full-Aluminum Chassis. Upgraded Top Mount. 5-Layer Acoustic Dampening (PORON, IXPE & Silicone). Multi-Zone RGB w/ 10-LED Spacebar. GravaStar Web Driver (w/ LKP, Snap Click, SOCD, & ADC Sampling). (≈$199–$229)***
 
 
 ===============================================================================================================================================================================
