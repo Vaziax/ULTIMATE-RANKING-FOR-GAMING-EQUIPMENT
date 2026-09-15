@@ -56,6 +56,7 @@
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
+***⌨️ MCHOSE Ace 75 HE — 75% Layout (80 Keys w/ Multi-Function Metal Knob & Dedicated Physical RT Toggle Button). MCHOSE BMW or Star Ring V2 Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency. 0.001mm RT resolution. 0.001mm–3.4mm actuation. High-Rigidity ABS Chassis. Aluminum Alloy Plate. Gasket Mount. 6-Layer Acoustic Dampening (Poron, Sandwich Silicone, PET, & Bottom Foam). South-Facing ARGB w/ 28-LED Dynamic Light Bar. MCHOSE MHUB Web Driver (w/ Adaptive Dynamic Calibration 2.0, SOCD, RS, DKS, & MT). (≈$89–$109)***
 
 ***⌨️ ATK RS6+ Ultra — 65% Layout (68 Keys). ATK Ice Blade Pro Magnetic Switches (Fully Translucent, 35gf). 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency (Claimed) / ~0.28ms End-to-End. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC-Machined Aluminum Case (220-mesh anodized). Gasket Mount. FR4 Gold-Plated Position Plate. 5-Layer Acoustic Padding (Poron, EPDM, & PET). Premium Keycraft PBT Five-Side Dye-Sub Keycaps + 23 Frosted PC Keycaps. ATK HUB Web Driver (w/ SOCD, DKS, & Champion Presets). (≈$149–$179)***
 
