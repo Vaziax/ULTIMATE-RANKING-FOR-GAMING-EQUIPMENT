@@ -392,15 +392,11 @@
 
 ***🖱️ G-Wolves LYCAN 8K — Symmetrical Shape (Low Profile, OP1-inspired). PixArt PAW3955 Master Sensor (30k–40k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired & Wireless). ~28.8g Weight. Huano Orange SPDT Mechanical Switches (with SR-Latch Algorithm). TTC Gold Encoder. Ultra-thin Plastic Shell (Internal Carbon Fiber Support Rods). 2.4GHz / Wired. Web-Based G-Wolves Software. (≈$132–$159)***
 
-***🖱️ WLMouse Beast X Max — Large, symmetrical shape (126x65x39mm). ULTRALIGHT 42g Magnesium Alloy Shell (plus ABS bottom). Sensor: PixArt PAW3950 HS (up to 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 300mAh (Roughly 2 days of heavy use at 8KHz); the lightest large mouse on the market, achieving maximum speed in a big mouse format. (≈$145 – $155)***
-
 ***🖱️ Lamzu Maya X — Symmetrical ultralight wireless. PixArt PAW3950 sensor (30K DPI). 8000Hz max polling rate. ≈0.5ms click latency. Lamzu Custom Omron Optical switches. 47g weight. Nordic 52840 MCU. 2.4G wireless/wired. 8K dongle included; absolute peak wireless competitive performance. (≈$140)***
 
 ***🖱️ Orbitalworks Pathfinder — Modular wireless chassis (3000+ configs). PixArt PAW3950DM sensor (30K DPI). 8000Hz wireless polling. 0.4ms click latency. Omron Optical switches. 52–55g weight. 300mAh battery. multiple premium skates included (PTFE/Obsidian); ultimate customizable competitive shape and performance. (≈$189)***
 
 ***🖱️ Logitech G PRO X2 Superstrike — Symmetrical Shape. HERO 2 Sensor (44k DPI). Haptic Inductive Trigger System (HITS). 8k Polling Rate (Wireless). 60g–61g weight. Inductive Analog Switches (10 levels of actuation). 90-hour Battery (1k) / ~30h (8k). G HUB Cloud Driver. (≈$180)***
-
-***🖱️ WLMouse Beast X Mini Pro — Symmetrical, small-sized wireless mouse (116x58x35mm). ULTRALIGHT 34g Magnesium Alloy Shell. Sensor: PixArt PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 220mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the smallest size in the line to feature the competitive trinity of Magnesium, 8KHz, and a flagship sensor. (≈$145 – $155)***
 
 ***🖱️ MCHOSE A7X Ultra — Ergonomic right-handed shape (125.7x63.2x39.8mm, similar to the DeathAdder/GPX hybrid). ULTRALIGHT 53g Magnesium Alloy Shell. Sensor: PixArt PAW3950 TI Flagship Sensor (up to 42000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Wireless Accelerator. Switches: Omron Optical Micro Switches (70M rated). Connectivity: Tri-Mode (2.4GHz Wireless, Bluetooth, USB-C Wired). Battery: 500mAh (High capacity for extended play); a phenomenal, complete package that includes glass skates and a premium carry case. (≈$90 – $120)***
 
@@ -433,6 +429,10 @@
 ***🖱️ EWEADN Z7 — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. 8k Polling Rate (Wired & Wireless). Nordic 54L15 MCU. 49g Composite Carbon Fiber shell. Omron Optical Switches. 500mAh Battery. Nano Ice Skin Coating. Web Driver. (≈$55–$70)***
 
 ***🖱️ Akko Dash Ultra — Symmetrical Shape (Small/Medium). PixArt PAW3950 Sensor (42k DPI Overclocked). Nordic nRF54L15 MCU. 8,000Hz Polling (Native 2.4G & Wired). 40g weight. Omron Optical / Akko Custom Optical Switches. 300mAh Battery. EDM Polymer Finish. Tri-Mode (8k Wireless). (≈$59–$69)***
+
+***🖱️ WLMouse Beast X Mini Pro — Symmetrical, small-sized wireless mouse (116x58x35mm). ULTRALIGHT 34g Magnesium Alloy Shell. Sensor: PixArt PAW3950 HS (up to 30000 DPI). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless (8K & 1K Receivers) & USB-C Wired. Battery: 220mAh (Battery life significantly reduced at 8KHz). Web-Based Configuration; the smallest size in the line to feature the competitive trinity of Magnesium, 8KHz, and a flagship sensor. (≈$145 – $155)***
+
+***🖱️ WLMouse Beast X Max — Large, symmetrical shape (126x65x39mm). ULTRALIGHT 42g Magnesium Alloy Shell (plus ABS bottom). Sensor: PixArt PAW3950 HS (up to 30000 DPI, 750 IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included 8K Dongle. Switches: Choice of OMRON Optical or TTC Nihil Mechanical. Connectivity: 2.4GHz Wireless & USB-C Wired. Battery: 300mAh (Roughly 2 days of heavy use at 8KHz); the lightest large mouse on the market, achieving maximum speed in a big mouse format. (≈$145 – $155)***
 
 ***🖱️ RAWM Leviathan V4 — Large Symmetrical shape (126.7 x 63.9 x 40mm, similar profile to the Razer Viper V3 Pro). ULTRALIGHT 55g Plastic Shell (Solid/No holes, Thermo-Sensitive Coating). Sensor: PixArt PAW3950 (up to 45000 DPI, 750 IPS). MCU: Nordic nRF54L15 (Next-Gen High-Efficiency Chip). Polling Rate: Native Dual 8000Hz Wireless (0.125ms latency) via included 8K Receiver. Switches: TTC Optical Switches (100M rated). Encoder: RAESHA Gen 3 Optical Encoder. Connectivity: Dual-Mode (2.4GHz Wireless, Wired USB-C). Battery: Up to 150 hours (Standard usage). (≈$85 – $100)***
 
