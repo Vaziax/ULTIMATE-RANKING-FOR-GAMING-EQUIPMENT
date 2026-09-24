@@ -410,7 +410,9 @@
 
 ***🖱️ WLmouse Beast G (Mini/Medium/Max) — Symmetrical Shape (Beast X Inspired). PixArt PAW3950HS Sensor (30k DPI / 750 IPS). Nordic 54L15 MCU. 8k Polling Rate (Wired & Wireless). ~35g (Mini) / ~38g (Medium) / ~41g (Max) Weight. Kailh Optical V2 Switches. TTC Silver Encoder. Solid Microcrystalline Composite Polymer Shell. 300mAh Battery. WLMouse Web Hub Driver. (≈$79–$89)***
 
-***🖱️ Pulsar X2H CrazyLight Mini — Symmetrical Shape (High Back Hump, Narrow Waist). Pulsar XS-1 Sensor (PAW3950-based / 32k DPI / 750 IPS). 32-bit ARM Processor. Tri-Mode (8k Polling Wireless with included dongle). 37g–39g Weight (with Dot Skates vs. Full Skates). Pulsar Optical Switches (100M clicks). Pulsar Blue Dust-Proof Encoder. Matte Grip Coating (No holes). 250mAh Battery. Pulsar Fusion Software. (≈$129)***
+***🖱️ Pulsar X2H CrazyLight Mini — Symmetrical Shape (High Back Hump, Narrow Waist). Pulsar XS-1 Sensor (PAW3950-based / 32k DPI / 750 IPS). 32-bit ARM Processor. Tri-Mode (8k Polling Wireless with included dongle). 37g–39g Weight (with Dot Skates vs. Full Skates). Pulsar Optical Switches (100M clicks). Pulsar Blue Dust-Proof Encoder. Matte Grip Coating (No holes). 250mAh Battery. Pulsar Fusion Software. (≈$200***
+
+***🖱️ Pulsar X2 CrazyLight Mini — Low-Hump Symmetrical Shape (Small / 115.6×61×36.6mm). Pulsar XS-1 Optical Sensor (32k DPI / 750 IPS / 50G / Custom PAW3950 Variant). Nordic MCU. Dual 8k Polling Rate (Wired & 2.4GHz Wireless w/ Included 8K Dongle). ~0.125ms Click Latency. ~35g Ultra-Light Solid Shell (No Holes). Pulsar Optical Switches (100M Clicks). Pulsar Blue Dustproof Encoder. Pulsar Fusion Web & PC Software. (≈$200)***
 
 
 
@@ -568,8 +570,6 @@
 
 ***🖱️ G-Wolves LYCAN 8K — Symmetrical Shape (Low Profile, OP1-inspired). PixArt PAW3955 Master Sensor (30k–40k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired & Wireless). ~28.8g Weight. Huano Orange SPDT Mechanical Switches (with SR-Latch Algorithm). TTC Gold Encoder. Ultra-thin Plastic Shell (Internal Carbon Fiber Support Rods). 2.4GHz / Wired. Web-Based G-Wolves Software. (≈$132–$159)***
 
-***🖱️ Pulsar X2H CrazyLight Mini — Symmetrical Shape (High Back Hump, Narrow Waist). Pulsar XS-1 Sensor (PAW3950-based / 32k DPI / 750 IPS). 32-bit ARM Processor. Tri-Mode (8k Polling Wireless with included dongle). 37g–39g Weight (with Dot Skates vs. Full Skates). Pulsar Optical Switches (100M clicks). Pulsar Blue Dust-Proof Encoder. Matte Grip Coating (No holes). 250mAh Battery. Pulsar Fusion Software. (≈$129)***
-
 
 # **High pick:** (150$-unlimited)
 
@@ -581,6 +581,9 @@
 
 ***🖱️ WLMOUSE HUAN M — Symmetrical Shape (Medium / 122×63×39mm). PixArt PAW3955HS Sensor (50k DPI). Nordic nRF54H20 MCU. Dual 8k Polling Rate (Wired & Wireless w/ Smart Display Receiver). 50g Weight. Omron Optical Switches. Solid Stainless Magnesium Alloy Chassis (No Cutouts). 300mAh Battery. Web Driver & Display Configurator. (≈$155)***
 
+***🖱️ Pulsar X2 CrazyLight Mini — Low-Hump Symmetrical Shape (Small / 115.6×61×36.6mm). Pulsar XS-1 Optical Sensor (32k DPI / 750 IPS / 50G / Custom PAW3950 Variant). Nordic MCU. Dual 8k Polling Rate (Wired & 2.4GHz Wireless w/ Included 8K Dongle). ~0.125ms Click Latency. ~35g Ultra-Light Solid Shell (No Holes). Pulsar Optical Switches (100M Clicks). Pulsar Blue Dustproof Encoder. Pulsar Fusion Web & PC Software. (≈$200)***
+
+***🖱️ Pulsar X2H CrazyLight Mini — Symmetrical Shape (High Back Hump, Narrow Waist). Pulsar XS-1 Sensor (PAW3950-based / 32k DPI / 750 IPS). 32-bit ARM Processor. Tri-Mode (8k Polling Wireless with included dongle). 37g–39g Weight (with Dot Skates vs. Full Skates). Pulsar Optical Switches (100M clicks). Pulsar Blue Dust-Proof Encoder. Matte Grip Coating (No holes). 250mAh Battery. Pulsar Fusion Software. (≈$129)***
 
 
 
