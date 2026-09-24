@@ -568,6 +568,8 @@
 
 ***🖱️ G-Wolves LYCAN 8K — Symmetrical Shape (Low Profile, OP1-inspired). PixArt PAW3955 Master Sensor (30k–40k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired & Wireless). ~28.8g Weight. Huano Orange SPDT Mechanical Switches (with SR-Latch Algorithm). TTC Gold Encoder. Ultra-thin Plastic Shell (Internal Carbon Fiber Support Rods). 2.4GHz / Wired. Web-Based G-Wolves Software. (≈$132–$159)***
 
+***🖱️ Pulsar X2H CrazyLight Mini — Symmetrical Shape (High Back Hump, Narrow Waist). Pulsar XS-1 Sensor (PAW3950-based / 32k DPI / 750 IPS). 32-bit ARM Processor. Tri-Mode (8k Polling Wireless with included dongle). 37g–39g Weight (with Dot Skates vs. Full Skates). Pulsar Optical Switches (100M clicks). Pulsar Blue Dust-Proof Encoder. Matte Grip Coating (No holes). 250mAh Battery. Pulsar Fusion Software. (≈$129)***
+
 
 # **High pick:** (150$-unlimited)
 
