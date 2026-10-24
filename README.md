@@ -56,6 +56,10 @@
 
 # ***🟥 SS Tier (cutting-edge performance + premium build)***
 
+***⌨️ AKKO 5075 V5 TMR — 75% Layout (82 Keys + Custom Rotary Knob). Kailh Aurora or Akko Prism Magnetic Switches (TMR - Tunnel Magnetoresistance Sensors). Tri-Mode Connectivity (Dual 8k Polling Rate Wired & 2.4GHz Wireless / 125Hz Bluetooth 5.0). 16k Full-Matrix Scan Rate (16,000Hz). ~0.125ms Latency. 0.005mm RT resolution. 0.10mm–3.40mm actuation. ABS Plastic Chassis. Aluminum Plate. Gasket Mount. Massive 10,000mAh Battery. Double-Shot PC+ABS Carbon Fiber Texture Side-Printed Cherry Keycaps. South-Facing ARGB Backlight (500Hz Refresh). Dual-Mode Hot-Swap PCB (Supports both TMR/HE Magnetic & 5-pin MX Mechanical Switches). Akko HUB & Web Driver (w/ Dynamic Keystrokes, Mod-Tap, SOCD, & Auto Calibration). (≈$109–$119)***
+
+***⌨️ Chilkey SF60 Diamond Edition — 60% Compact Layout (64 Keys ANSI). WS Flux Diamond "Teal Dream" Magnetic Switches (w/ 28mm Long Spring & 6g Force Difference). 8k Polling Rate (Wired USB-C). 256k Per-Key Scan Rate (256,000Hz). ~0.08ms Latency. 0.001mm RT Resolution. 0.01mm–3.3mm Actuation. CNC-Machined 6063 Aluminum Alloy Chassis (6.5° Typing Angle / 17.4mm Front Height). Aluminum Plate. Gasket Mount. 5-Layer Acoustic Padding. Transparent High-Clarity PC Prism Structure "Crystal" Keycaps (ASA Profile). South-Facing ARGB (16M Colors & 20 Dynamic Lighting Modes). Chilkey Web Driver / DrivesHID (w/ Snappy Tappy/SOCD, DKS, & Mod-Tap). (≈$149–$179)***
+
 ***⌨️ MCHOSE Ace 75 HE — 75% Layout (80 Keys w/ Multi-Function Metal Knob & Dedicated Physical RT Toggle Button). MCHOSE BMW or Star Ring V2 Magnetic Switches. 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency. 0.001mm RT resolution. 0.001mm–3.4mm actuation. High-Rigidity ABS Chassis. Aluminum Alloy Plate. Gasket Mount. 6-Layer Acoustic Dampening (Poron, Sandwich Silicone, PET, & Bottom Foam). South-Facing ARGB w/ 28-LED Dynamic Light Bar. MCHOSE MHUB Web Driver (w/ Adaptive Dynamic Calibration 2.0, SOCD, RS, DKS, & MT). (≈$89–$109)***
 
 ***⌨️ ATK RS6+ Ultra — 65% Layout (68 Keys). ATK Ice Blade Pro Magnetic Switches (Fully Translucent, 35gf). 8k Polling Rate (Wired). 256k Full-Key Scan Rate (256,000Hz). ~0.08ms Latency (Claimed) / ~0.28ms End-to-End. 0.001mm RT resolution. 0.01mm–3.3mm actuation. CNC-Machined Aluminum Case (220-mesh anodized). Gasket Mount. FR4 Gold-Plated Position Plate. 5-Layer Acoustic Padding (Poron, EPDM, & PET). Premium Keycraft PBT Five-Side Dye-Sub Keycaps + 23 Frosted PC Keycaps. ATK HUB Web Driver (w/ SOCD, DKS, & Champion Presets). (≈$149–$179)***
@@ -119,6 +123,8 @@
 ***⌨️ AULA AG60 Max — 60% Layout (61 Keys). AULA "Supreme" Magnetic Switches. 8k polling rate. 2,304k scan rate (Claimed/ADC). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.02mm–3.4mm actuation. Full CNC 6063 Aluminum chassis. Gasket Mount. Carbon Fiber Plate. 5-Layer Acoustic dampening. AULA Web Driver. (≈$140–$180)***
 
 ***⌨️ Cerakey Peak60 HE — 60% Layout (61 Keys). Ceramic Magnetic Switches. 8k Polling Rate (Wired). 64k Full-Key Scan Rate (64,000Hz). ~0.125ms Latency. 0.01mm RT resolution. 0.1mm–4.0mm actuation. Full Kiln-Fired Ceramic Case (GH60 Standard). Titanium White Plate. Tray Mount. 5-Layer Acoustic Padding (Silicone & PU Foam). Ice Crystal Glaze Ceramic Keycaps (ABS Stems). CerakeyLab Web Driver (w/ SOCD, RS, & DKS). (≈$239–$299)***
+
+***⌨️ Cerakey Maris 60 HE — 60% Layout (61 Keys ANSI). Cerakey Self-Developed Linear Magnetic Switches (3.3mm Total Travel / POM Stem). 8k Polling Rate (Wired). 64k Full-Key Scan Rate (64,000Hz). ~0.125ms Latency. 0.01mm RT Resolution. Full Ceramic Body (Pro Ceramic Edition) or Die-Cast Aluminum Body (Metal Edition) w/ Dual-Layer Hollow Structure. Ceramic V4 Keycaps (Ice Crystal, Crackle, or Matte Glaze). 4-Layer Sound-Damping Acoustic Padding (Integrated Acoustic Chamber). Per-Key RGB. Cerakey Lab Web-Based Driver (w/ Zero Dead Zone Toggle, SOCD, RS, & DKS). (≈$99–$209)***
 
 
 # ***🟧 S Tier (excellent, not absolute best)***
@@ -434,6 +440,7 @@
 
 ***🖱️ Pwnage Ultra Custom Pro Symm 3 — Symmetrical Shape (Modulable). PixArt XERO Sensor (3950-based / 36k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired/Wireless). ~50g Weight. Hot-Swap Switches (3-pin Mech / 5-pin Optical). Adjustable Sensor Position. Swappable Humps/Buttons. Web Driver. (≈$139–$159)***
 
+***🖱️ IPI Haze X (Standard / Fog Pro) — Symmetrical Medium-to-Large Shape (127×64×40mm). PixArt PAW3955 Flagship Sensor (52k DPI / 750 IPS / 60G). Dual Nordic nRF54L15 MCU. Tri-Mode Connectivity (Dual 8k Polling Rate Wired & 2.4GHz Wireless / 125Hz Bluetooth 5.0). ~0.125ms Click Latency. 63g ± 3g (Standard 300mAh) or 69g ± 3g (Fog Pro 500mAh). TMR Magnetic Induction Main Buttons w/ Adjustable Rapid Trigger & Built-In Z-Axis Linear Haptic Motor (10-Level Actuation Point Tuning & 5-Level Haptic Feedback). Customizable Onboard Speaker (Fog Pro Edition). TTC Dustproof Encoder. 100% PTFE Skates. IPI Web & PC Driver. (≈$99–$119)***
 ***🖱️ ATK Blazing Sky GHOST — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. Nordic 54L15 / 54H20 MCU. True 8,000Hz Polling. 48g Hollow Carbon Fiber Composite shell. ATK Lightblade Mechanical / Optical Switches. 300mAh Battery. Nano Coating. ATK Hub Software. (≈$110–$130)***
 
 ***🖱️ EWEADN Z7 — Symmetrical Shape (Small/Medium). PixArt PAW3950 Ultra Sensor. 8k Polling Rate (Wired & Wireless). Nordic 54L15 MCU. 49g Composite Carbon Fiber shell. Omron Optical Switches. 500mAh Battery. Nano Ice Skin Coating. Web Driver. (≈$55–$70)***
