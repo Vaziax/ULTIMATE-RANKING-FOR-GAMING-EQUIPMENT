@@ -457,6 +457,8 @@
 
 ***🖱️ Finalmouse ULX Prophecy — Symmetrical/Ambidextrous shape. EXTREME ULTRALIGHT 38g (Classic size) Carbon Fiber Composite Chassis (Solid sides, perforated base). Sensor: Latest-Gen PixArt Sensor (Customized PMW3395 variant, high IPS). True 8000Hz Wireless Polling Rate (0.125ms latency) via included Dual-Chip Receiver. Switches: Custom Superbinned Huano Blue Shell Mechanical (Ultralight click tensioning system). Connectivity: Finalmouse Highspeed Wireless (2.4 GHz) & USB-C Wired. Battery: Up to 2 months intermittent use (Heavily dependent on 8KHz usage); the undisputed lightest, fastest, and most advanced mouse on the market. (Original Price: ~$189. Resale Price: Highly variable, often $220-$400+)***
 
+***🖱️ Akko Echo (Master / Ultra) — Symmetrical Shape (Medium-to-Large / 124.3×63.7×40.5mm). PixArt PAW3955 (65k DPI / 750 IPS / 50G, Master) or PAW3950 (30k DPI, Ultra) Sensor. Nordic 54L15 (Master) or Realtek RTL8762 (Ultra) MCU. Tri-Mode Connectivity (Dual 8k Polling Rate Wired & 2.4GHz Wireless / 125Hz Bluetooth 5.0). ~0.125ms Click Latency. 55g ± 3g Ultra-Light Weight. Composite Carbon Fiber Open-Shell Chassis w/ Textured Nano-Coating. Omron Optical Switches (Master) or Akko Custom Optical Switches (150M clicks, Ultra). TTC Gold Dustproof Encoder. 300mAh Battery (Up to 220h at 1k / 28h at 8k). Akko Driver Software. (≈$70–$80)***
+
 
 # 
 
