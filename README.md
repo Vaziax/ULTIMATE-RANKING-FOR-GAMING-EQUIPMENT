@@ -341,7 +341,6 @@
 
 ***⌨️ ATK RS7 Air — 75% Layout (81 Keys). ATK Gen-3 Magnetic Switches (Lucidblade / Iceblade). 8k Polling Rate (Wired). 0.08ms latency (Claimed). 0.001mm RT resolution. 0.1mm–3.3mm actuation. Mecha-Style ABS Plastic Case. Aluminum Plate. Gasket Mount (Poron dampening). Frosted Translucent Cherry PC Keycaps. ATK HUB Web Driver (w/ SOCD & DKS). (≈$99)***
 
-***⌨️ MonsGeek FUN60 Pro — 60% wired layout. Akko Glare Magnetic switches. 8000Hz polling rate. 32KHz sampling rate. 0.125ms input latency. full range rapid trigger (0.01mm adjustable precision). adjustable actuation (0.1mm–3.4mm). ABS plastic case/Aluminum plate. Tray-mount. PBT shine-through keycaps. Web/Software driver (Snap Key/DKS/RT Stabilizer/SOCD support); extreme budget competitive speed and precision in a wired setup. (≈$40–$60)***
 
 ***⌨️ MCHOSE Ace 68 Air — 65% wired layout. Kailh Magnetic God/Mount Tai GT switches. 8000Hz polling rate. 0.08ms input latency. rapid trigger (0.001mm precision). adjustable actuation (0.1mm–3.4mm). aluminum alloy plate/5-layer dampening. PBT keycaps. M HUB software (SOCD/DKS/MT/TGL support); elite budget competitive performance. (≈$79)***
 
@@ -373,6 +372,8 @@
 
 ***⌨️ IQUNIX EC75 HE — 75% Layout (80 Keys). IQUNIX Diamond Pro Magnetic Switches (35gf Start / 50gf Bottom). 8k Polling Rate (Wired) / 16k Scan Rate. ~0.125ms Latency. 0.01mm RT resolution. 0.1mm–3.3mm actuation. CNC Anodized Aluminum Top Case & Polycarbonate Bottom. Aluminum Plate. Gasket Mount. 4-Layer Acoustic Foam (Poron, PET, & Silicone Base). Double-Shot PBT Keycaps. IQUNIX Web Driver (w/ SOCD, DKS, & RS). (≈$152–$179)***
 
+***⌨️ Everglide SU66 Max — 60%/66% Layout (GH60 Compatible, Split Spacebar). Wukong / Alkaid / Yao Wang Magnetic Switches. 8k Polling Rate (Wired). 32k–256k Full-Key Scan Rate (Dual-Chip 600MHz MCU). ~0.06ms Latency. 0.001mm RT resolution. 0.01mm–3.4mm actuation. CNC Aluminum Case or GH60 PCB Kit. Carbon Fiber, FR4, or Aluminum Plate. Gasket Mount. 5-Layer Acoustic Padding. Dual RGB Lighting (174 LEDs total w/ 38 Underglow LEDs). Web Driver (w/ SOCD, DKS, & ADC Link). (≈$119–$169)***
+
 
 
 
@@ -382,10 +383,6 @@
 
 ***⌨️ WLMOUSE Ying63 — 60% (64-key) wired layout. Gateron Magnetic Jade Pro switches. 8000Hz polling rate. ~32KHz scan rate (implied by specs). 0.125ms input latency. rapid trigger (0.01mm adjustable precision). adjustable actuation (0.01mm–3.5mm). Full CNC Forged Carbon Fiber case. Gasket Mount structure/Aluminum plate. Poron and Silicone dampening. Web-based WL software (RTMC/SOCD support); ultimate speed and precision in an extremely unique, ultra-premium carbon fiber chassis. (≈$259–$270)***
 
-***⌨️ WLMOUSE HUAN63 — 60% magnetic hall-effect, 0.742ms latency, 8000Hz polling, 256KHz scan rate, rapid trigger (0.001mm), hot-swap PCB, stainless magnesium alloy case, gasket mount, WL software; ultra-light premium performance build. (259–269$)***
-
-***⌨️ GravaStar Mercury V60 Pro Deluxe Edition — 60% compact layout. UFO magnetic hall-effect switches. 8000Hz polling. 256kHz scan rate. 0.125ms input latency. dynamic rapid trigger (0.005mm precision). adjustable actuation (0.005mm–3.5mm). full aluminum alloy chassis. hot-swappable switches; premium, fastest-possible wired competitive build. (≈$190-220)***
-
 ***⌨️ RAKKA 80 Edge — Layout: 80% TKL (87 Keys). Sensor: High-Sensitivity Hall Effect. Polling Rate: 8000Hz. Scan Rate: 135,000Hz (0.007ms internal interval). RT Accuracy: 0.005mm (Bottom-out) / 0.01mm (General). Resolution: 0.005mm (Smallest detectable change). Latency: 0.19ms average (Tested, including host processing). Switches: GATERON Magnetic Grey Jade PRO. Build: Full Aluminum Case (1.9kg), 6-layer PCB, FR4 Plate, Silicone/Rubber foam filling. Features: Web-based software, SOCD (Snap Tap), 4 Onboard Profiles, Tap Hold, Independent LED Controller. (≈$240 – $300)***
 
 ***⌨️ Tekkusai x Luminkey Titan75 HE — 75% Layout (81 Keys + Scroll Wheel). Titan Magnetic Switches (Linear). 8k Polling Rate (Wired). 48k Full-Key Scan Rate. ~0.8ms Latency. 0.005mm RT resolution. 0.1mm–3.3mm actuation. Full 6063 CNC Aluminum Chassis. Gasket Mount (Quick-Release). PC Plate. PBT Keycaps. Proprietary Web Driver (w/ SOCD/Snap Tap). (≈$215)***
@@ -393,6 +390,10 @@
 ***⌨️ IQUNIX EV63 — 60% magnetic hall-effect. 0.125ms input latency. 8000Hz polling. 16000Hz scan rate. rapid trigger (0.01mm sensitivity). adjustable actuation (0.01~3.1mm). CNC aluminum/forged carbon case. tray mount/Poron foam. Double-shot PBT/Frosted PC keycaps. web-based software (SOCD/DKS/MT support); ultimate wired competitive build. (≈$169–$209)***
 
 ***⌨️ GravaStar Mercury V60 Ultra — 60% Layout (61 Keys w/ Dedicated Arrow Key Layer). GravaStar UFO Magnetic Switches (N52H Magnets / 40gf). 8k Polling Rate (Wired). Dual-Chip Architecture (256k Full-Key / 2304k Per-Key Scan Rate). ~0.08ms Latency. 0.001mm RT resolution. 0.001mm–3.5mm actuation. Electroplated Obsidian Black Skeletal Full-Aluminum Chassis. Upgraded Top Mount. 5-Layer Acoustic Dampening (PORON, IXPE & Silicone). Multi-Zone RGB w/ 10-LED Spacebar. GravaStar Web Driver (w/ LKP, Snap Click, SOCD, & ADC Sampling). (≈$199–$229)***
+
+***⌨️ MelGeek VIVA63 — 60% Compact Layout (64 Keys w/ Integrated 1.58" 325PPI OLED Touchscreen, Infinite Rotary Knob & One-Tap Switch Key). MelGeek x TTC Pro KOM HE Magnetic Switches. 8k Polling Rate (Wired USB-C). 16k Full & Per-Key Scan Rate (16,000Hz) w/ Multi-MCU Distributed Parallel Architecture. ~0.125ms Latency. 0.01mm RT Resolution. 0.1mm–3.4mm Actuation. 0.01mm–2.5mm Rapid Trigger. MagShield Anti-Interference Technology. High-Rigidity ABS + PC + Metal Chassis w/ 270° Ambient Lightbox (Lumi Deck). FR4 Plate. Silicone-Dampened Gasket Mount. 5-Layer Sound-Dampening Foam Padding. MCR Profile Double-Shot PBT Keycaps. South-Facing RGB. MelGeek HIVE 2.0 Web & PC Driver (w/ Adjustable Zero Dead Zone, Rappy Snappy, Snappy Tappy/SOCD, DKS, & Mod-Tap). (≈$199)***
+
+***⌨️ WALLHACK K-001 — 65% Layout (67 Keys + Stepped Endless Dial). WALLHACK KS-TR Linear Switches (Co-developed w/ Gateron). 8k Polling Rate (Wired). 16k Full-Key Scan Rate (16,000Hz). ~0.129ms Latency. 0.01mm RT resolution. 0.1mm–4.0mm actuation. 6063 CNC Aluminum Chassis (Bead-blasted & Anodized, 1300g). Anodized Aluminum Plate. Screw-Mount Stack w/ Silicone & Foam Dampening. Double-shot PBT Keycaps. Per-Key WLED Backlight. Wallhack Terminal Web Driver (w/ SOCD & Stepped Dial RT control). (≈$279)***
 
 
 ===============================================================================================================================================================================
