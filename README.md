@@ -403,6 +403,8 @@
 
 # ***⬜ SSS Tier (Absolute best of the best)***
 
+***🖱️ WLMOUSE BEAST X V2 (Mini / Med / Max) — Symmetrical Shape Mini: 116×58×35mm | Med: 122×62×37mm | Max: 126×65×39mm. PixArt PAW3955HS Optical Sensor (50k DPI / 800 IPS / 70G). Nordic nRF54LM20 MCU. Dual 8k Polling Rate (Wired & 2.4GHz Wireless w/ Included 8K Touchscreen Display Receiver & USB Hub). ~0.125ms Click Latency. 41g ± 2g (Mini), 45g ± 2g (Med), 48g ± 2g (Max). CNC-Machined Stainless Magnesium Alloy Chassis w/ Reinforced Structure & Flat Base. Omron Optical Switches. Raesha Optical Encoder. 300mAh Battery (Up to 180–200h at 1k Hz / 24–30h at 8k Hz). 100% PTFE Skates & Dot Skates Included. Web-Based & Touchscreen Receiver Customization. (≈$159–$169)***
+
 ***🖱️ WLMOUSE Ying MG — Symmetrical Shape (OP1-inspired). PixArt PAW3950HS Sensor. Nordic nRF52840 MCU. 8k Polling Rate (Wireless). 47g Weight. Omron Optical / Custom TTC Nihil Switches. 220mAh Battery. Solid Magnesium Alloy Exoskeleton. Web-Based Configurator. (≈$139)***
 
 ***🖱️ G-Wolves LYCAN 8K — Symmetrical Shape (Low Profile, OP1-inspired). PixArt PAW3955 Master Sensor (30k–40k DPI). Nordic nRF54L15 MCU. 8k Polling Rate (Wired & Wireless). ~28.8g Weight. Huano Orange SPDT Mechanical Switches (with SR-Latch Algorithm). TTC Gold Encoder. Ultra-thin Plastic Shell (Internal Carbon Fiber Support Rods). 2.4GHz / Wired. Web-Based G-Wolves Software. (≈$132–$159)***
